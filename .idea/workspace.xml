@@ -78,6 +78,7 @@
     <MESSAGE value="feat : CleanedDataFrame" />
     <MESSAGE value="refacto : clean job titles in CleanedDataFrame" />
     <MESSAGE value="refacto : DataCleaning.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="refacto : DataCleaning.ipynb" />
+    <MESSAGE value="refactor : add some more plot visualizations" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor : add some more plot visualizations" />
   </component>
 </project>
