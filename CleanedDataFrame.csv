@@ -1,0 +1,4227 @@
+Job Title,Min Salary,Max Salary,Average Salary,Rating,State
+analyst,31,44,37.5,4.4,FL
+other,26,49,37.5,3.7,OH
+analyst,27,49,38.0,4.1,MI
+analyst,27,49,38.0,3.8,IL
+analyst,31,55,43.0,3.5,MI
+analyst,30,56,43.0,3.5,OH
+analyst,31,55,43.0,3.6,FL
+data scientist,31,56,43.5,3.5,IL
+data scientist,31,56,43.5,3.5,IL
+machine learning engineer,31,56,43.5,3.2,IL
+other,31,56,43.5,3.1,IL
+researcher,31,56,43.5,4.7,IL
+data scientist,31,56,43.5,3.2,IL
+other,31,56,43.5,4.6,IL
+analyst,31,56,43.5,4.0,IL
+analyst,31,56,43.5,3.2,IL
+data scientist,31,56,43.5,4.0,IL
+researcher,31,56,43.5,4.7,IL
+data scientist,31,56,43.5,5.0,IL
+other,31,56,43.5,2.5,IL
+analyst,31,56,43.5,3.4,IL
+data scientist,31,56,43.5,2.6,IL
+analyst,31,56,43.5,4.0,IL
+researcher,31,56,43.5,3.9,IL
+other,31,56,43.5,3.5,IL
+data engineer,31,56,43.5,4.1,IL
+analyst,31,56,43.5,4.7,IL
+analyst,31,56,43.5,3.8,IL
+analyst,31,56,43.5,3.7,IL
+data engineer,31,56,43.5,3.4,IL
+analyst,31,56,43.5,4.1,IL
+analyst,31,56,43.5,3.4,IL
+other,31,56,43.5,3.5,IL
+analyst,31,56,43.5,3.1,IL
+analyst,46,48,47.0,3.5,FL
+analyst,33,62,47.5,4.2,MI
+other,38,59,48.5,3.7,IL
+other,38,59,48.5,4.6,IL
+other,38,59,48.5,3.4,IL
+analyst,38,59,48.5,2.5,IL
+analyst,38,59,48.5,4.1,IL
+analyst,38,59,48.5,4.3,IL
+analyst,38,59,48.5,4.1,IL
+manager,38,59,48.5,3.8,IL
+analyst,38,59,48.5,3.2,IL
+manager,38,59,48.5,3.9,IL
+analyst,38,59,48.5,3.9,IL
+analyst,38,59,48.5,3.5,IL
+data engineer,38,59,48.5,4.4,IL
+manager,31,66,48.5,3.9,NJ
+analyst,38,59,48.5,3.6,IL
+analyst,35,63,49.0,3.8,OH
+analyst,35,63,49.0,3.0,MI
+analyst,35,64,49.5,4.1,FL
+analyst,35,64,49.5,3.9,NJ
+data scientist,38,62,50.0,3.7,MD
+analyst,30,70,50.0,3.5,FL
+analyst,35,66,50.5,3.0,FL
+analyst,33,68,50.5,3.1,FL
+analyst,41,60,50.5,4.4,NJ
+analyst,35,67,51.0,2.9,FL
+analyst,33,69,51.0,4.0,FL
+other,38,64,51.0,3.2,OH
+other,34,70,52.0,2.1,OH
+analyst,36,68,52.0,3.5,OH
+analyst,36,69,52.5,4.0,FL
+analyst,34,71,52.5,3.3,OH
+analyst,34,71,52.5,3.3,OH
+data scientist,38,68,53.0,3.7,TX
+other,34,72,53.0,3.6,CA
+analyst,34,72,53.0,3.3,CA
+other,34,72,53.0,4.3,CA
+machine learning engineer,38,68,53.0,2.9,TX
+other,34,72,53.0,3.5,CA
+other,34,72,53.0,3.2,CA
+data engineer,34,72,53.0,2.7,CA
+analyst,36,70,53.0,4.3,FL
+other,38,68,53.0,4.1,TX
+other,38,68,53.0,3.7,TX
+data engineer,38,68,53.0,3.9,TX
+manager,34,72,53.0,4.0,CA
+data engineer,38,68,53.0,3.7,TX
+data engineer,38,68,53.0,3.7,TX
+analyst,38,68,53.0,4.5,TX
+analyst,38,68,53.0,5.0,TX
+data engineer,38,68,53.0,4.9,TX
+analyst,37,69,53.0,4.0,FL
+data engineer,38,68,53.0,4.1,TX
+other,38,68,53.0,3.9,TX
+data engineer,38,68,53.0,4.4,TX
+analyst,38,68,53.0,3.7,TX
+data scientist,38,68,53.0,3.7,TX
+analyst,38,68,53.0,4.0,TX
+data engineer,34,72,53.0,3.7,CA
+data engineer,34,72,53.0,3.9,CA
+other,34,72,53.0,3.4,MI
+data engineer,34,72,53.0,2.4,CA
+data scientist,38,68,53.0,4.1,TX
+other,38,68,53.0,3.3,TX
+data scientist,34,72,53.0,3.7,CA
+other,34,72,53.0,3.9,CA
+other,34,72,53.0,4.7,CA
+analyst,38,68,53.0,3.5,TX
+other,34,72,53.0,3.4,CA
+other,34,72,53.0,2.6,CA
+other,38,68,53.0,4.1,TX
+data engineer,34,72,53.0,3.9,CA
+analyst,34,72,53.0,3.7,FL
+other,36,71,53.5,3.9,TX
+other,36,71,53.5,3.3,TX
+other,36,71,53.5,3.5,TX
+data engineer,36,71,53.5,3.2,TX
+other,36,71,53.5,2.7,TX
+other,41,66,53.5,4.3,TX
+manager,41,66,53.5,4.3,TX
+data scientist,36,71,53.5,3.4,TX
+analyst,36,71,53.5,4.0,TX
+data scientist,36,71,53.5,3.9,TX
+data scientist,36,71,53.5,3.7,TX
+other,36,71,53.5,3.7,TX
+analyst,36,71,53.5,2.4,TX
+data engineer,36,71,53.5,4.0,TX
+other,36,71,53.5,3.3,TX
+analyst,36,71,53.5,3.2,TX
+analyst,36,71,53.5,3.2,TX
+analyst,36,71,53.5,5.0,TX
+other,36,71,53.5,2.8,TX
+analyst,38,69,53.5,3.8,OH
+analyst,36,71,53.5,2.5,TX
+data engineer,41,66,53.5,4.1,TX
+other,41,66,53.5,3.4,TX
+other,41,66,53.5,3.3,TX
+analyst,36,71,53.5,3.2,TX
+data scientist,41,66,53.5,3.9,TX
+analyst,39,68,53.5,4.1,OH
+other,41,66,53.5,4.3,TX
+data engineer,41,66,53.5,4.2,TX
+other,36,71,53.5,4.0,TX
+data scientist,52,55,53.5,4.1,OH
+other,41,66,53.5,4.3,TX
+analyst,41,66,53.5,2.7,TX
+manager,39,69,54.0,4.2,CA
+other,39,69,54.0,3.8,CA
+analyst,39,69,54.0,4.3,CA
+other,39,69,54.0,4.3,CA
+data scientist,39,69,54.0,4.1,CA
+data engineer,39,69,54.0,3.8,CA
+other,39,69,54.0,3.1,CA
+data scientist,39,69,54.0,4.3,CA
+other,39,69,54.0,4.3,CA
+data engineer,39,69,54.0,3.4,CA
+data engineer,39,69,54.0,3.8,CA
+analyst,39,69,54.0,3.2,CA
+analyst,39,69,54.0,3.6,CA
+analyst,39,69,54.0,4.6,CA
+other,39,69,54.0,3.6,CA
+other,39,69,54.0,4.3,CA
+other,39,69,54.0,4.9,CA
+machine learning engineer,39,69,54.0,3.8,CA
+analyst,36,73,54.5,5.0,FL
+data engineer,39,71,55.0,4.7,TX
+data engineer,39,71,55.0,5.0,TX
+analyst,39,71,55.0,3.4,TX
+data scientist,39,71,55.0,3.5,FL
+analyst,39,71,55.0,3.5,TX
+analyst,39,71,55.0,4.8,TX
+analyst,39,71,55.0,3.7,TX
+analyst,38,73,55.5,4.1,FL
+other,37,74,55.5,2.1,MI
+analyst,40,72,56.0,2.5,MI
+analyst,37,75,56.0,3.2,CA
+analyst,38,74,56.0,3.1,MI
+analyst,37,75,56.0,4.3,FL
+data engineer,37,75,56.0,3.7,CA
+data scientist,37,75,56.0,3.6,CA
+other,37,75,56.0,3.4,CA
+analyst,37,75,56.0,3.8,CA
+analyst,40,72,56.0,4.2,MI
+analyst,37,75,56.0,4.1,CA
+machine learning engineer,37,75,56.0,5.0,CA
+analyst,37,75,56.0,4.9,CA
+other,37,75,56.0,3.7,CA
+analyst,37,75,56.0,3.5,CA
+other,37,75,56.0,3.7,CA
+other,37,75,56.0,4.2,CA
+analyst,37,75,56.0,4.7,CA
+other,37,75,56.0,2.6,CA
+manager,37,75,56.0,2.8,CA
+data engineer,37,75,56.0,4.3,CA
+analyst,40,72,56.0,3.8,OH
+analyst,39,73,56.0,3.5,FL
+other,37,75,56.0,3.7,CA
+analyst,41,72,56.5,4.1,OH
+analyst,37,76,56.5,3.4,OH
+researcher,40,73,56.5,3.9,IL
+other,40,73,56.5,3.7,IL
+data engineer,40,73,56.5,3.7,IL
+other,40,73,56.5,3.6,IL
+deep learning engineer,40,73,56.5,3.2,IL
+data scientist,40,73,56.5,2.2,IL
+analyst,40,73,56.5,4.6,IL
+data engineer,40,73,56.5,3.9,IL
+other,40,73,56.5,3.7,IL
+data engineer,40,73,56.5,3.2,IL
+data engineer,40,73,56.5,3.3,IL
+data scientist,40,73,56.5,3.8,IL
+analyst,40,73,56.5,3.2,IL
+data engineer,40,73,56.5,3.7,IL
+other,40,73,56.5,3.4,IL
+analyst,40,73,56.5,2.9,IL
+analyst,39,74,56.5,4.0,OH
+manager,40,73,56.5,2.6,IL
+manager,40,73,56.5,4.5,IL
+analyst,40,74,57.0,3.9,VA
+analyst,38,76,57.0,4.3,OH
+analyst,41,74,57.5,3.2,MI
+analyst,41,74,57.5,3.9,FL
+analyst,42,73,57.5,3.9,FL
+analyst,41,74,57.5,3.7,PA
+other,50,65,57.5,3.5,OH
+analyst,38,77,57.5,3.8,FL
+other,42,73,57.5,3.7,OH
+data scientist,36,80,58.0,4.6,NJ
+analyst,41,75,58.0,3.7,OH
+analyst,43,73,58.0,4.8,MA
+analyst,47,69,58.0,2.7,MI
+analyst,39,77,58.0,4.0,OH
+analyst,40,76,58.0,3.9,FL
+data scientist,43,73,58.0,4.4,MI
+analyst,40,76,58.0,4.6,FL
+analyst,41,77,59.0,4.4,MI
+analyst,42,76,59.0,3.6,OH
+other,41,77,59.0,3.4,MI
+other,43,76,59.5,3.6,TX
+other,43,76,59.5,4.1,TX
+other,43,76,59.5,3.7,TX
+data scientist,43,76,59.5,4.1,TX
+other,43,76,59.5,4.1,TX
+other,43,76,59.5,3.5,TX
+analyst,43,76,59.5,4.0,TX
+data engineer,43,76,59.5,3.4,TX
+analyst,43,76,59.5,3.5,TX
+analyst,43,76,59.5,3.9,TX
+analyst,43,76,59.5,3.7,TX
+data scientist,43,76,59.5,3.5,TX
+other,43,76,59.5,4.1,TX
+analyst,43,76,59.5,3.5,TX
+other,43,76,59.5,4.1,TX
+data scientist,43,76,59.5,2.9,TX
+other,43,76,59.5,4.1,TX
+other,43,76,59.5,3.5,TX
+other,43,76,59.5,4.2,TX
+other,43,76,59.5,4.1,TX
+other,47,73,60.0,4.2,AZ
+analyst,39,81,60.0,3.9,IL
+analyst,43,77,60.0,4.3,MI
+analyst,47,73,60.0,3.5,AZ
+analyst,47,73,60.0,5.0,AZ
+data engineer,47,73,60.0,3.9,AZ
+data engineer,47,73,60.0,4.0,AZ
+analyst,47,73,60.0,4.1,AZ
+data engineer,47,73,60.0,3.7,AZ
+data engineer,47,73,60.0,4.8,AZ
+manager,47,73,60.0,3.6,AZ
+data engineer,47,73,60.0,4.0,AZ
+data engineer,47,73,60.0,3.4,AZ
+analyst,39,81,60.0,3.5,IL
+data engineer,47,73,60.0,3.4,AZ
+other,47,73,60.0,3.0,AZ
+other,47,73,60.0,4.6,AZ
+data engineer,47,73,60.0,3.9,AZ
+data engineer,47,73,60.0,4.1,AZ
+analyst,47,73,60.0,3.1,AZ
+analyst,47,73,60.0,3.4,AZ
+analyst,39,81,60.0,3.8,IL
+analyst,39,81,60.0,4.1,IL
+data scientist,39,81,60.0,4.5,IL
+researcher,39,81,60.0,4.8,IL
+machine learning engineer,39,81,60.0,3.2,IL
+data scientist,39,81,60.0,3.9,IL
+other,39,81,60.0,3.7,IL
+analyst,39,81,60.0,3.3,IL
+analyst,39,81,60.0,4.7,IL
+data scientist,39,81,60.0,3.3,IL
+analyst,39,81,60.0,2.8,IL
+other,39,81,60.0,4.0,IL
+analyst,39,81,60.0,4.6,IL
+analyst,39,81,60.0,3.9,IL
+other,39,81,60.0,3.2,IL
+data scientist,39,81,60.0,3.3,IL
+other,39,81,60.0,3.9,IL
+other,39,81,60.0,3.2,IL
+data scientist,39,81,60.0,3.7,IL
+analyst,39,81,60.0,4.1,IL
+analyst,39,81,60.0,3.9,IL
+data engineer,39,81,60.0,4.4,IL
+analyst,39,81,60.0,3.4,IL
+machine learning engineer,47,73,60.0,4.9,AZ
+manager,47,73,60.0,4.1,AZ
+other,47,73,60.0,3.0,AZ
+data engineer,47,73,60.0,3.6,AZ
+other,47,73,60.0,3.5,AZ
+data scientist,39,81,60.0,3.8,IL
+analyst,39,81,60.0,3.4,IL
+analyst,47,73,60.0,3.9,AZ
+analyst,39,81,60.0,3.7,FL
+analyst,42,78,60.0,3.6,OH
+data scientist,50,70,60.0,4.1,FL
+analyst,41,79,60.0,3.1,MA
+analyst,42,79,60.5,3.9,OH
+analyst,42,79,60.5,3.1,OH
+analyst,42,79,60.5,3.7,MI
+analyst,40,81,60.5,4.0,MI
+analyst,42,79,60.5,3.7,MI
+analyst,41,80,60.5,4.0,FL
+other,39,82,60.5,3.4,MI
+analyst,42,79,60.5,3.8,FL
+analyst,43,79,61.0,3.4,MA
+analyst,42,80,61.0,3.9,MD
+other,40,82,61.0,3.4,CA
+data scientist,12,111,61.5,3.6,TX
+analyst,37,86,61.5,3.7,FL
+analyst,44,79,61.5,4.4,MI
+analyst,44,79,61.5,4.2,OH
+data scientist,12,111,61.5,3.5,TX
+analyst,58,65,61.5,3.6,MI
+other,12,111,61.5,3.6,TX
+analyst,12,111,61.5,4.0,TX
+data scientist,12,111,61.5,4.0,TX
+analyst,12,111,61.5,3.9,TX
+analyst,12,111,61.5,3.4,TX
+data scientist,12,111,61.5,2.2,TX
+other,12,111,61.5,4.3,TX
+other,12,111,61.5,3.6,TX
+machine learning engineer,12,111,61.5,4.8,TX
+data scientist,12,111,61.5,3.9,TX
+data scientist,12,111,61.5,3.8,TX
+data scientist,12,111,61.5,3.7,TX
+data scientist,12,111,61.5,3.5,TX
+other,12,111,61.5,4.3,TX
+data scientist,12,111,61.5,4.2,TX
+data scientist,12,111,61.5,2.5,TX
+data scientist,12,111,61.5,3.8,TX
+data scientist,12,111,61.5,4.0,TX
+other,45,78,61.5,3.4,TX
+data scientist,12,111,61.5,3.4,TX
+analyst,45,78,61.5,4.1,TX
+other,45,78,61.5,4.4,TX
+other,45,78,61.5,4.2,TX
+data engineer,45,78,61.5,4.0,TX
+other,45,78,61.5,4.0,TX
+data engineer,45,78,61.5,3.2,TX
+data engineer,45,78,61.5,3.9,TX
+data engineer,45,78,61.5,3.0,TX
+data engineer,45,78,61.5,3.4,TX
+other,45,78,61.5,3.7,TX
+data scientist,12,111,61.5,3.9,TX
+other,45,78,61.5,3.6,TX
+analyst,44,80,62.0,4.3,PA
+other,44,80,62.0,3.5,PA
+other,44,80,62.0,2.6,PA
+data scientist,44,80,62.0,3.7,PA
+analyst,44,80,62.0,3.6,PA
+analyst,44,80,62.0,3.2,PA
+other,44,80,62.0,3.7,PA
+analyst,44,80,62.0,3.8,PA
+analyst,44,80,62.0,3.5,NJ
+other,44,80,62.0,3.2,PA
+analyst,42,82,62.0,4.2,FL
+data scientist,44,80,62.0,3.2,PA
+data scientist,44,80,62.0,4.7,PA
+analyst,44,80,62.0,3.2,PA
+data scientist,44,80,62.0,3.1,PA
+machine learning engineer,44,80,62.0,3.1,PA
+other,44,80,62.0,3.8,PA
+manager,44,80,62.0,3.8,PA
+data engineer,44,80,62.0,3.4,PA
+analyst,44,80,62.0,3.7,PA
+other,12,112,62.0,4.6,TX
+data engineer,44,80,62.0,4.5,PA
+data scientist,44,80,62.0,4.7,PA
+data scientist,12,112,62.0,3.1,TX
+data scientist,12,112,62.0,3.9,TX
+data scientist,12,112,62.0,5.0,TX
+analyst,12,112,62.0,4.0,TX
+data scientist,12,112,62.0,3.3,TX
+data scientist,12,112,62.0,4.6,TX
+data scientist,12,112,62.0,3.3,TX
+data scientist,12,112,62.0,4.3,TX
+analyst,12,112,62.0,3.4,TX
+data scientist,12,112,62.0,3.5,TX
+analyst,12,112,62.0,3.1,TX
+other,12,112,62.0,4.3,TX
+data scientist,12,112,62.0,4.2,TX
+data scientist,12,112,62.0,4.2,TX
+other,12,112,62.0,3.6,TX
+analyst,12,112,62.0,4.9,TX
+data scientist,12,112,62.0,3.5,TX
+data scientist,12,112,62.0,2.5,TX
+analyst,12,112,62.0,4.0,TX
+data scientist,12,112,62.0,4.0,TX
+other,46,79,62.5,3.9,FL
+manager,39,86,62.5,3.9,OH
+other,39,86,62.5,3.7,OH
+data engineer,39,86,62.5,3.9,OH
+other,39,86,62.5,3.7,OH
+other,39,86,62.5,3.7,OH
+other,39,86,62.5,3.7,OH
+data engineer,39,86,62.5,4.6,OH
+analyst,41,84,62.5,4.3,OH
+analyst,39,86,62.5,3.6,FL
+analyst,42,83,62.5,4.0,OH
+other,39,86,62.5,3.2,FL
+data engineer,39,86,62.5,3.5,OH
+other,39,86,62.5,3.7,OH
+other,39,86,62.5,3.7,OH
+data scientist,39,86,62.5,3.9,OH
+analyst,43,82,62.5,4.3,MI
+other,39,86,62.5,3.7,OH
+other,39,86,62.5,3.7,OH
+analyst,41,84,62.5,4.1,OH
+other,39,86,62.5,3.7,OH
+data engineer,39,86,62.5,4.1,OH
+data engineer,39,86,62.5,4.5,OH
+other,41,84,62.5,3.7,MA
+data scientist,39,86,62.5,4.5,OH
+other,48,77,62.5,3.8,VA
+data engineer,39,86,62.5,3.9,OH
+other,39,86,62.5,4.5,OH
+other,41,84,62.5,4.0,OH
+other,39,86,62.5,3.7,OH
+data engineer,39,86,62.5,4.0,OH
+other,39,86,62.5,3.7,OH
+analyst,43,82,62.5,3.9,MI
+other,39,86,62.5,3.8,OH
+data scientist,46,80,63.0,4.3,IL
+data engineer,46,80,63.0,3.9,IL
+data engineer,46,80,63.0,4.5,IL
+analyst,46,80,63.0,3.7,IL
+data scientist,46,80,63.0,2.2,IL
+analyst,46,80,63.0,3.7,IL
+analyst,46,80,63.0,3.5,IL
+analyst,46,80,63.0,4.1,IL
+data scientist,46,80,63.0,3.4,IL
+other,45,81,63.0,3.7,AZ
+data engineer,46,80,63.0,3.9,IL
+analyst,45,81,63.0,3.8,AZ
+analyst,46,80,63.0,3.8,IL
+data engineer,46,80,63.0,3.7,IL
+data scientist,46,80,63.0,4.1,IL
+data scientist,46,80,63.0,3.8,IL
+analyst,45,81,63.0,2.9,AZ
+data engineer,45,81,63.0,4.0,AZ
+machine learning engineer,45,81,63.0,4.0,AZ
+data engineer,46,80,63.0,3.3,IL
+analyst,46,80,63.0,3.9,IL
+data scientist,45,81,63.0,4.3,AZ
+data scientist,46,80,63.0,5.0,IL
+other,45,81,63.0,3.5,FL
+data scientist,39,87,63.0,3.4,TX
+data scientist,39,87,63.0,3.1,TX
+data scientist,39,87,63.0,3.6,TX
+analyst,39,87,63.0,4.8,TX
+analyst,39,87,63.0,4.3,TX
+analyst,39,87,63.0,2.8,TX
+analyst,39,87,63.0,3.1,TX
+data scientist,39,87,63.0,3.7,TX
+data scientist,39,87,63.0,3.7,TX
+data engineer,39,87,63.0,3.8,TX
+analyst,39,87,63.0,2.5,TX
+data scientist,39,87,63.0,3.6,TX
+analyst,39,87,63.0,3.5,TX
+data scientist,39,87,63.0,3.7,TX
+analyst,39,87,63.0,3.9,TX
+analyst,41,85,63.0,4.0,FL
+researcher,46,80,63.0,4.1,IL
+analyst,46,80,63.0,3.0,IL
+data scientist,46,80,63.0,3.2,IL
+data scientist,46,80,63.0,3.6,IL
+data scientist,46,80,63.0,3.3,IL
+data scientist,46,80,63.0,4.9,IL
+data scientist,46,80,63.0,4.2,IL
+analyst,46,80,63.0,3.2,IL
+data scientist,46,80,63.0,3.0,IL
+other,39,87,63.0,3.6,TX
+analyst,39,87,63.0,3.9,TX
+analyst,45,81,63.0,3.0,AZ
+data scientist,45,81,63.0,3.4,AZ
+data scientist,39,87,63.0,3.2,TX
+data scientist,46,80,63.0,3.4,IL
+data engineer,45,81,63.0,3.6,AZ
+analyst,45,81,63.0,3.7,AZ
+other,45,81,63.0,3.4,AZ
+data scientist,39,87,63.0,3.9,TX
+analyst,45,81,63.0,3.2,AZ
+data scientist,45,81,63.0,3.8,AZ
+other,45,81,63.0,3.1,AZ
+data engineer,45,81,63.0,3.6,AZ
+analyst,42,84,63.0,3.2,OH
+data scientist,39,87,63.0,3.8,TX
+other,45,81,63.0,3.6,AZ
+data engineer,39,87,63.0,4.1,TX
+analyst,42,84,63.0,3.9,MI
+data scientist,39,87,63.0,3.1,TX
+manager,45,81,63.0,3.7,AZ
+other,45,81,63.0,2.9,AZ
+analyst,45,81,63.0,4.0,AZ
+other,39,87,63.0,3.6,TX
+data engineer,45,81,63.0,2.9,AZ
+analyst,46,80,63.0,3.1,FL
+analyst,49,78,63.5,4.4,TX
+analyst,49,78,63.5,3.4,TX
+data engineer,49,78,63.5,3.4,TX
+analyst,49,78,63.5,3.3,TX
+data scientist,49,78,63.5,3.7,TX
+analyst,49,78,63.5,3.3,TX
+analyst,49,78,63.5,4.6,TX
+data scientist,49,78,63.5,2.4,TX
+data scientist,49,78,63.5,3.9,TX
+other,49,78,63.5,3.7,TX
+analyst,49,78,63.5,5.0,TX
+data scientist,49,78,63.5,4.0,TX
+data scientist,49,78,63.5,3.6,TX
+data engineer,49,78,63.5,3.9,TX
+data scientist,49,78,63.5,3.7,TX
+data engineer,49,78,63.5,4.6,TX
+analyst,49,78,63.5,4.0,TX
+analyst,45,82,63.5,3.6,MI
+data engineer,49,78,63.5,3.9,TX
+analyst,49,78,63.5,3.7,TX
+analyst,49,78,63.5,3.8,TX
+analyst,45,82,63.5,3.5,OH
+data scientist,47,80,63.5,2.5,OH
+data scientist,49,78,63.5,3.7,TX
+analyst,49,78,63.5,3.6,TX
+other,49,78,63.5,4.0,TX
+other,46,82,64.0,2.6,CA
+data engineer,46,82,64.0,3.9,CA
+data engineer,46,82,64.0,4.1,CA
+other,46,82,64.0,3.0,CA
+other,46,82,64.0,3.9,CA
+other,46,82,64.0,4.0,MA
+analyst,51,77,64.0,3.2,FL
+analyst,46,82,64.0,4.0,CA
+other,46,82,64.0,3.7,CA
+data scientist,46,82,64.0,4.1,CA
+analyst,46,82,64.0,3.9,CA
+other,46,82,64.0,4.0,CA
+analyst,46,82,64.0,3.7,CA
+other,46,82,64.0,3.4,CA
+data engineer,46,82,64.0,4.1,CA
+analyst,46,82,64.0,4.4,CA
+analyst,46,82,64.0,3.4,CA
+analyst,44,84,64.0,3.6,IN
+other,46,82,64.0,3.7,CA
+analyst,46,82,64.0,3.4,CA
+other,46,82,64.0,4.2,OH
+other,46,82,64.0,3.6,CA
+analyst,46,82,64.0,5.0,CA
+data scientist,46,82,64.0,4.0,CA
+analyst,46,83,64.5,4.1,MI
+other,53,76,64.5,3.4,CA
+analyst,47,82,64.5,2.9,IL
+data scientist,47,82,64.5,2.7,IL
+analyst,47,82,64.5,3.5,IL
+manager,47,82,64.5,3.7,IL
+analyst,44,85,64.5,5.0,OH
+analyst,46,83,64.5,4.1,MI
+other,46,83,64.5,2.6,PA
+director,46,83,64.5,3.6,PA
+data engineer,46,83,64.5,3.7,PA
+data engineer,46,83,64.5,3.1,PA
+data scientist,46,83,64.5,3.6,PA
+data scientist,46,83,64.5,3.4,PA
+analyst,46,83,64.5,3.7,PA
+other,46,83,64.5,3.1,PA
+other,46,83,64.5,3.7,PA
+analyst,41,88,64.5,3.9,NJ
+analyst,46,83,64.5,3.7,PA
+data scientist,46,83,64.5,3.3,PA
+other,46,83,64.5,4.2,PA
+other,46,83,64.5,2.6,PA
+analyst,45,84,64.5,4.0,FL
+analyst,45,84,64.5,4.4,MI
+other,46,83,64.5,2.6,PA
+other,46,83,64.5,3.4,PA
+analyst,45,85,65.0,4.4,OH
+data scientist,51,79,65.0,3.4,TX
+analyst,51,79,65.0,3.4,TX
+analyst,43,87,65.0,3.3,FL
+data engineer,51,79,65.0,3.4,TX
+analyst,47,83,65.0,4.0,OH
+data scientist,51,79,65.0,4.0,TX
+data engineer,51,79,65.0,3.3,TX
+data engineer,51,79,65.0,4.6,TX
+analyst,51,79,65.0,4.3,TX
+analyst,51,79,65.0,4.4,TX
+other,51,79,65.0,3.7,TX
+analyst,51,79,65.0,3.4,TX
+analyst,51,79,65.0,4.3,TX
+other,51,79,65.0,3.8,TX
+data engineer,51,79,65.0,4.0,TX
+analyst,51,79,65.0,3.4,TX
+analyst,44,86,65.0,4.3,FL
+analyst,51,79,65.0,4.3,TX
+analyst,51,79,65.0,4.1,TX
+other,51,79,65.0,5.0,TX
+analyst,51,79,65.0,3.3,TX
+analyst,49,81,65.0,3.2,MI
+other,40,90,65.0,3.8,OH
+analyst,47,84,65.5,4.2,TX
+analyst,47,84,65.5,3.1,TX
+other,47,84,65.5,3.8,TX
+other,47,84,65.5,4.0,TX
+other,47,84,65.5,4.0,TX
+analyst,50,81,65.5,3.9,FL
+other,47,84,65.5,4.0,TX
+analyst,47,84,65.5,4.8,TX
+analyst,43,88,65.5,3.4,FL
+other,46,85,65.5,3.5,OH
+data engineer,47,84,65.5,3.3,TX
+analyst,47,84,65.5,2.1,CA
+data engineer,47,84,65.5,3.4,TX
+analyst,43,88,65.5,3.3,FL
+analyst,46,85,65.5,4.3,MI
+analyst,47,85,66.0,3.6,OH
+analyst,46,86,66.0,3.6,MI
+analyst,47,86,66.5,3.3,IL
+analyst,45,88,66.5,4.0,FL
+other,43,90,66.5,3.9,MD
+analyst,47,86,66.5,3.6,MI
+analyst,58,75,66.5,4.3,FL
+analyst,46,87,66.5,3.5,MI
+analyst,46,88,67.0,4.0,MI
+analyst,42,92,67.0,3.9,CA
+analyst,48,86,67.0,3.5,OH
+analyst,46,88,67.0,4.0,MI
+analyst,46,88,67.0,4.0,MI
+analyst,46,88,67.0,3.4,TX
+analyst,47,87,67.0,4.1,OH
+analyst,45,89,67.0,3.2,FL
+data engineer,57,77,67.0,4.2,OH
+analyst,47,87,67.0,3.2,OH
+other,44,90,67.0,4.3,OH
+other,52,82,67.0,3.4,CA
+other,49,85,67.0,3.9,CA
+analyst,61,74,67.5,4.1,NJ
+analyst,42,93,67.5,4.3,FL
+other,46,89,67.5,3.8,OH
+data engineer,45,90,67.5,4.3,OH
+analyst,49,86,67.5,4.0,MI
+data engineer,45,91,68.0,3.6,NJ
+other,47,89,68.0,4.2,OH
+other,46,90,68.0,3.5,OH
+other,41,95,68.0,3.8,MI
+data scientist,49,87,68.0,3.8,OH
+analyst,47,89,68.0,4.4,OH
+analyst,44,92,68.0,3.8,FL
+analyst,48,88,68.0,4.2,MI
+other,48,88,68.0,3.4,NJ
+data engineer,48,89,68.5,3.3,TX
+other,48,89,68.5,3.9,TX
+researcher,48,89,68.5,3.7,TX
+other,48,89,68.5,4.2,TX
+data scientist,50,87,68.5,5.0,PA
+analyst,48,89,68.5,3.7,TX
+other,48,89,68.5,3.5,TX
+data scientist,50,87,68.5,3.5,PA
+analyst,48,89,68.5,3.5,TX
+data scientist,50,87,68.5,3.7,PA
+data engineer,48,89,68.5,3.3,TX
+other,50,87,68.5,3.3,PA
+other,48,89,68.5,4.3,TX
+analyst,50,87,68.5,4.6,PA
+machine learning engineer,48,89,68.5,4.6,TX
+other,48,89,68.5,3.7,TX
+machine learning engineer,48,89,68.5,3.8,TX
+data scientist,50,87,68.5,3.1,PA
+analyst,48,89,68.5,2.5,TX
+data engineer,46,91,68.5,3.7,TX
+data engineer,48,89,68.5,3.8,TX
+analyst,47,90,68.5,3.6,OH
+analyst,57,80,68.5,5.0,TX
+data engineer,46,91,68.5,3.7,TX
+analyst,57,80,68.5,3.3,TX
+analyst,57,80,68.5,3.6,TX
+machine learning engineer,46,91,68.5,3.6,TX
+data engineer,46,91,68.5,3.7,TX
+analyst,46,91,68.5,3.7,TX
+other,46,91,68.5,4.1,TX
+other,45,92,68.5,3.6,CA
+data engineer,57,80,68.5,3.3,TX
+analyst,49,88,68.5,2.9,OH
+other,46,91,68.5,3.7,TX
+analyst,43,94,68.5,3.9,OH
+machine learning engineer,46,91,68.5,3.6,TX
+other,46,91,68.5,4.0,TX
+other,46,91,68.5,3.1,TX
+analyst,57,80,68.5,3.9,TX
+analyst,46,91,68.5,3.7,TX
+analyst,46,91,68.5,3.0,TX
+data scientist,58,79,68.5,3.9,VA
+data engineer,46,91,68.5,3.3,TX
+data engineer,46,91,68.5,4.6,TX
+analyst,48,89,68.5,2.5,TX
+data engineer,46,91,68.5,3.9,TX
+other,46,91,68.5,3.4,TX
+other,46,91,68.5,4.1,TX
+data engineer,46,91,68.5,3.4,TX
+other,50,87,68.5,4.0,PA
+other,57,80,68.5,3.8,TX
+data scientist,57,80,68.5,3.0,TX
+analyst,46,91,68.5,2.8,TX
+analyst,50,87,68.5,3.8,PA
+other,50,87,68.5,4.6,PA
+analyst,50,87,68.5,3.9,PA
+analyst,48,89,68.5,4.0,FL
+analyst,47,90,68.5,4.0,MI
+other,46,91,68.5,4.4,MI
+other,50,87,68.5,3.9,PA
+data scientist,57,80,68.5,3.5,TX
+analyst,57,80,68.5,3.4,TX
+analyst,57,80,68.5,2.6,TX
+data scientist,57,80,68.5,3.7,TX
+analyst,57,80,68.5,3.0,TX
+analyst,57,80,68.5,4.2,TX
+analyst,48,89,68.5,4.0,NJ
+data engineer,57,80,68.5,3.5,TX
+analyst,57,80,68.5,2.8,TX
+data scientist,50,87,68.5,3.1,PA
+analyst,50,87,68.5,3.7,PA
+data scientist,50,87,68.5,2.8,PA
+data scientist,50,87,68.5,3.8,PA
+data engineer,50,87,68.5,2.7,PA
+analyst,45,92,68.5,2.9,MI
+other,50,87,68.5,3.9,PA
+other,50,87,68.5,4.0,PA
+analyst,50,87,68.5,4.3,PA
+other,50,87,68.5,3.8,PA
+data engineer,57,80,68.5,5.0,TX
+data scientist,50,87,68.5,3.6,PA
+data scientist,50,88,69.0,3.8,DC
+analyst,48,90,69.0,4.0,MI
+analyst,48,90,69.0,4.0,MI
+analyst,48,90,69.0,4.0,MI
+analyst,44,94,69.0,4.2,NJ
+analyst,45,93,69.0,4.1,NJ
+analyst,48,90,69.0,4.0,MI
+analyst,48,90,69.0,4.3,OH
+analyst,46,92,69.0,2.7,CA
+analyst,46,92,69.0,3.4,FL
+analyst,47,91,69.0,4.0,MI
+data scientist,50,89,69.5,3.8,NJ
+other,45,94,69.5,2.7,CA
+analyst,49,90,69.5,4.4,MI
+other,50,90,70.0,3.2,MI
+analyst,47,93,70.0,3.6,OH
+data scientist,56,84,70.0,3.8,NJ
+analyst,50,90,70.0,4.2,FL
+analyst,50,90,70.0,4.1,OH
+analyst,44,96,70.0,3.7,FL
+data scientist,50,90,70.0,3.1,FL
+analyst,49,91,70.0,4.1,CA
+analyst,46,94,70.0,4.2,FL
+analyst,51,90,70.5,3.3,MI
+data engineer,49,92,70.5,4.4,TX
+data engineer,49,92,70.5,4.6,TX
+analyst,44,97,70.5,3.9,MI
+analyst,49,92,70.5,4.2,TX
+analyst,45,96,70.5,3.9,NC
+data engineer,49,92,70.5,4.1,TX
+data engineer,49,92,70.5,3.9,TX
+data engineer,49,92,70.5,3.9,TX
+data engineer,49,92,70.5,4.1,TX
+data engineer,44,97,70.5,4.6,MI
+data scientist,51,90,70.5,3.7,MD
+analyst,49,92,70.5,3.7,OH
+analyst,49,92,70.5,3.6,NJ
+other,50,91,70.5,4.5,NJ
+data engineer,49,92,70.5,4.5,TX
+analyst,49,92,70.5,4.5,TX
+data engineer,49,92,70.5,4.5,TX
+machine learning engineer,49,92,70.5,4.0,TX
+director,49,92,70.5,3.6,TX
+manager,49,92,70.5,3.1,TX
+other,49,92,70.5,3.5,TX
+data engineer,49,92,70.5,3.9,TX
+analyst,49,92,70.5,2.4,TX
+other,49,92,70.5,4.0,TX
+analyst,47,95,71.0,3.7,OH
+analyst,67,75,71.0,4.2,NJ
+data engineer,54,88,71.0,3.3,FL
+analyst,54,88,71.0,3.5,FL
+analyst,50,92,71.0,3.8,MI
+analyst,51,91,71.0,3.6,CA
+analyst,47,95,71.0,4.1,MI
+other,54,88,71.0,3.8,FL
+analyst,54,88,71.0,3.7,FL
+analyst,54,88,71.0,3.3,FL
+data engineer,54,88,71.0,3.3,FL
+other,54,88,71.0,3.3,FL
+analyst,50,92,71.0,3.1,MI
+other,54,88,71.0,3.8,FL
+other,54,88,71.0,3.3,FL
+manager,54,88,71.0,3.2,FL
+other,54,88,71.0,4.1,FL
+analyst,54,88,71.0,5.0,FL
+other,54,88,71.0,3.3,FL
+other,54,88,71.0,3.6,FL
+analyst,54,88,71.0,5.0,FL
+other,54,88,71.0,2.7,FL
+analyst,54,88,71.0,3.1,FL
+other,54,88,71.0,4.3,FL
+other,52,91,71.5,4.2,TX
+analyst,52,91,71.5,3.3,TX
+other,51,92,71.5,4.1,MA
+other,52,91,71.5,4.1,TX
+analyst,50,93,71.5,3.7,MI
+analyst,52,91,71.5,2.8,TX
+other,52,91,71.5,3.5,TX
+other,52,91,71.5,3.4,TX
+analyst,52,91,71.5,3.8,TX
+analyst,52,91,71.5,4.0,TX
+data scientist,52,91,71.5,4.2,TX
+data scientist,52,91,71.5,4.3,TX
+other,52,91,71.5,4.1,TX
+other,52,91,71.5,4.1,TX
+other,52,91,71.5,3.5,TX
+data engineer,52,91,71.5,3.1,TX
+other,52,91,71.5,4.1,TX
+other,52,91,71.5,4.1,TX
+data engineer,52,91,71.5,4.3,TX
+other,52,91,71.5,3.3,TX
+other,52,91,71.5,3.8,TX
+other,51,92,71.5,1.7,CA
+analyst,50,93,71.5,4.0,OH
+analyst,48,96,72.0,4.2,MI
+analyst,50,94,72.0,3.1,DC
+data scientist,53,91,72.0,4.0,FL
+data scientist,52,92,72.0,3.1,DC
+analyst,45,99,72.0,3.8,NJ
+analyst,65,79,72.0,3.6,WI
+analyst,48,96,72.0,4.0,MI
+other,46,98,72.0,4.0,OH
+machine learning engineer,46,98,72.0,4.0,OH
+analyst,51,93,72.0,3.6,OH
+analyst,65,79,72.0,3.6,WI
+analyst,48,96,72.0,4.1,MA
+analyst,48,96,72.0,3.8,NJ
+data engineer,53,91,72.0,4.0,OH
+other,46,98,72.0,4.0,NJ
+analyst,65,79,72.0,3.6,IL
+analyst,65,79,72.0,3.6,WI
+analyst,54,91,72.5,3.8,OH
+analyst,50,95,72.5,3.7,MI
+other,47,98,72.5,4.0,FL
+other,50,95,72.5,3.5,OH
+other,49,96,72.5,3.6,CA
+analyst,50,95,72.5,2.6,CA
+analyst,49,96,72.5,3.9,OH
+analyst,47,98,72.5,4.2,MI
+other,47,98,72.5,4.0,OH
+analyst,46,99,72.5,3.4,FL
+manager,48,98,73.0,2.8,TX
+machine learning engineer,48,98,73.0,4.1,TX
+other,48,98,73.0,3.6,TX
+analyst,48,98,73.0,3.3,TX
+data engineer,48,98,73.0,4.1,TX
+other,52,94,73.0,3.1,OH
+analyst,48,98,73.0,3.7,TX
+data engineer,48,98,73.0,3.8,TX
+analyst,48,98,73.0,4.1,TX
+analyst,48,98,73.0,5.0,TX
+data scientist,48,98,73.0,4.3,TX
+analyst,48,98,73.0,2.9,TX
+data engineer,48,98,73.0,4.5,TX
+other,52,94,73.0,3.6,OH
+data engineer,48,98,73.0,3.3,TX
+analyst,48,98,73.0,4.4,TX
+machine learning engineer,52,94,73.0,4.6,OH
+analyst,52,94,73.0,4.5,OH
+data scientist,52,94,73.0,3.7,OH
+other,52,94,73.0,3.6,OH
+other,52,94,73.0,3.5,OH
+data engineer,52,94,73.0,4.9,OH
+other,52,94,73.0,3.3,OH
+analyst,52,94,73.0,5.0,OH
+data engineer,48,98,73.0,3.7,TX
+other,52,94,73.0,3.7,OH
+other,52,94,73.0,3.1,OH
+analyst,52,94,73.0,3.7,OH
+data engineer,52,94,73.0,5.0,OH
+other,48,98,73.0,4.6,TX
+data scientist,52,94,73.0,3.9,OH
+other,48,98,73.0,3.9,TX
+data scientist,52,94,73.0,4.6,OH
+data scientist,48,98,73.0,3.6,TX
+data scientist,52,94,73.0,3.8,OH
+data engineer,48,98,73.0,4.3,TX
+analyst,48,98,73.0,3.3,TX
+analyst,48,98,73.0,4.0,TX
+data scientist,54,92,73.0,4.3,TX
+machine learning engineer,54,92,73.0,3.5,TX
+analyst,54,92,73.0,3.6,TX
+machine learning engineer,54,92,73.0,3.9,TX
+machine learning engineer,54,92,73.0,4.2,TX
+analyst,54,92,73.0,4.0,TX
+analyst,54,92,73.0,3.6,TX
+data engineer,54,92,73.0,4.0,TX
+analyst,54,92,73.0,3.6,TX
+data scientist,54,92,73.0,4.0,TX
+analyst,54,92,73.0,3.1,TX
+data engineer,54,92,73.0,3.5,TX
+data engineer,54,92,73.0,4.5,TX
+analyst,54,92,73.0,3.4,TX
+data engineer,54,92,73.0,3.1,TX
+analyst,54,92,73.0,3.6,TX
+analyst,54,92,73.0,5.0,TX
+data scientist,54,92,73.0,5.0,TX
+data scientist,54,92,73.0,3.6,TX
+data scientist,54,92,73.0,4.2,TX
+analyst,54,92,73.0,3.9,TX
+data scientist,54,92,73.0,3.8,TX
+data scientist,54,92,73.0,3.6,TX
+analyst,51,95,73.0,3.9,CA
+other,50,96,73.0,3.8,CA
+analyst,54,92,73.0,3.8,TX
+data engineer,48,98,73.0,1.7,TX
+analyst,52,94,73.0,3.7,OH
+analyst,49,97,73.0,3.5,MA
+other,52,94,73.0,3.3,OH
+analyst,49,98,73.5,4.3,FL
+analyst,56,91,73.5,3.7,MI
+analyst,53,94,73.5,3.6,NJ
+other,48,99,73.5,3.7,FL
+analyst,52,95,73.5,4.0,MI
+analyst,51,96,73.5,3.9,MI
+data scientist,46,101,73.5,3.9,FL
+analyst,45,102,73.5,4.2,FL
+other,51,96,73.5,4.0,MI
+data engineer,49,98,73.5,3.7,FL
+manager,48,100,74.0,3.7,MA
+analyst,61,87,74.0,4.1,MI
+analyst,51,97,74.0,3.5,MA
+other,53,95,74.0,4.0,OH
+other,51,97,74.0,3.6,CA
+analyst,50,99,74.5,3.7,OH
+other,64,85,74.5,3.5,OH
+analyst,51,98,74.5,4.0,NJ
+analyst,50,99,74.5,4.4,MI
+analyst,56,93,74.5,4.2,FL
+other,70,79,74.5,2.8,CA
+analyst,50,99,74.5,4.0,MI
+analyst,57,92,74.5,3.9,OH
+analyst,50,99,74.5,4.8,MA
+analyst,48,101,74.5,4.4,MI
+analyst,54,95,74.5,4.1,MI
+data engineer,53,97,75.0,4.0,MI
+analyst,53,97,75.0,3.9,MI
+analyst,51,99,75.0,4.0,MI
+machine learning engineer,46,104,75.0,3.9,AZ
+other,46,104,75.0,3.7,AZ
+data scientist,46,104,75.0,3.7,AZ
+analyst,46,104,75.0,4.0,AZ
+analyst,46,104,75.0,3.0,AZ
+data scientist,46,104,75.0,3.9,AZ
+analyst,46,104,75.0,3.5,AZ
+data scientist,46,104,75.0,3.9,AZ
+data engineer,46,104,75.0,3.8,AZ
+data scientist,46,104,75.0,3.7,AZ
+analyst,46,104,75.0,3.6,AZ
+manager,46,104,75.0,3.6,AZ
+other,46,104,75.0,4.6,AZ
+data scientist,46,104,75.0,4.0,AZ
+analyst,46,104,75.0,4.9,AZ
+data engineer,46,104,75.0,4.9,AZ
+other,46,104,75.0,3.9,AZ
+other,46,104,75.0,3.9,AZ
+data scientist,46,104,75.0,4.0,AZ
+analyst,46,104,75.0,3.1,AZ
+analyst,70,80,75.0,4.0,MI
+data engineer,46,104,75.0,4.0,AZ
+data engineer,46,104,75.0,4.8,AZ
+analyst,49,101,75.0,4.0,FL
+data scientist,52,98,75.0,3.1,FL
+other,45,106,75.5,4.4,PA
+analyst,52,99,75.5,5.0,VA
+other,45,106,75.5,3.7,PA
+analyst,45,106,75.5,2.7,PA
+manager,45,106,75.5,4.0,PA
+analyst,45,106,75.5,3.0,PA
+other,45,106,75.5,3.9,PA
+other,45,106,75.5,3.9,PA
+data engineer,45,106,75.5,4.0,PA
+data scientist,45,106,75.5,3.2,PA
+other,45,106,75.5,4.0,PA
+analyst,53,98,75.5,3.2,NJ
+analyst,48,103,75.5,3.3,OH
+analyst,55,96,75.5,4.1,VA
+data engineer,47,104,75.5,3.9,FL
+analyst,45,106,75.5,4.3,PA
+other,53,98,75.5,2.2,TX
+analyst,45,106,75.5,4.1,PA
+data engineer,53,98,75.5,3.8,MI
+analyst,55,96,75.5,4.1,VA
+other,53,98,75.5,3.2,OH
+manager,57,94,75.5,3.8,OH
+data engineer,50,101,75.5,3.7,OH
+analyst,50,102,76.0,3.2,MI
+analyst,51,101,76.0,3.6,OH
+analyst,51,101,76.0,3.8,FL
+analyst,51,101,76.0,3.9,NJ
+other,55,97,76.0,4.1,MI
+data scientist,53,99,76.0,4.7,CA
+other,55,98,76.5,4.9,MA
+data scientist,59,94,76.5,4.6,OH
+data scientist,56,97,76.5,4.0,OH
+analyst,55,98,76.5,2.8,TX
+data engineer,55,98,76.5,4.1,TX
+data scientist,55,98,76.5,3.6,TX
+data engineer,55,98,76.5,3.3,TX
+data engineer,55,98,76.5,3.0,TX
+data engineer,55,98,76.5,2.2,TX
+analyst,55,98,76.5,3.6,TX
+analyst,52,101,76.5,4.2,FL
+data scientist,55,98,76.5,4.1,FL
+other,49,104,76.5,4.0,OH
+data engineer,52,101,76.5,4.6,OH
+data engineer,55,98,76.5,3.9,TX
+analyst,54,100,77.0,4.1,MI
+data scientist,58,96,77.0,3.7,FL
+data engineer,57,97,77.0,4.3,FL
+other,52,102,77.0,4.1,OH
+other,61,94,77.5,3.3,FL
+data scientist,61,94,77.5,3.9,FL
+analyst,61,94,77.5,5.0,FL
+data scientist,61,94,77.5,3.5,FL
+other,61,94,77.5,3.7,FL
+analyst,61,94,77.5,4.1,FL
+analyst,61,94,77.5,3.9,FL
+analyst,61,94,77.5,4.5,FL
+other,61,94,77.5,3.3,FL
+data scientist,61,94,77.5,4.1,FL
+analyst,61,94,77.5,5.0,FL
+analyst,61,94,77.5,3.0,FL
+data engineer,61,94,77.5,3.9,FL
+data engineer,61,94,77.5,3.1,FL
+analyst,61,94,77.5,3.6,FL
+data engineer,61,94,77.5,4.3,FL
+other,61,94,77.5,3.4,FL
+other,61,94,77.5,3.4,FL
+analyst,61,94,77.5,3.5,FL
+other,61,94,77.5,4.5,FL
+other,51,104,77.5,3.6,CA
+analyst,52,103,77.5,4.0,NJ
+other,55,101,78.0,3.9,PA
+analyst,55,101,78.0,3.6,PA
+data engineer,55,101,78.0,4.8,NJ
+analyst,55,101,78.0,3.9,NJ
+data engineer,55,101,78.0,3.7,PA
+other,55,101,78.0,2.6,PA
+other,55,101,78.0,3.4,PA
+data engineer,55,101,78.0,3.3,PA
+other,55,101,78.0,3.7,PA
+other,55,101,78.0,3.6,PA
+other,55,101,78.0,3.9,PA
+other,55,101,78.0,3.9,PA
+analyst,55,101,78.0,3.2,NJ
+other,55,101,78.0,3.4,PA
+other,55,101,78.0,3.9,PA
+data scientist,53,103,78.0,3.6,MI
+other,55,101,78.0,4.5,PA
+other,52,104,78.0,3.5,MI
+other,56,100,78.0,3.5,KY
+other,55,101,78.0,4.5,PA
+data engineer,55,101,78.0,4.7,PA
+other,55,101,78.0,3.6,PA
+analyst,57,100,78.5,4.8,OH
+other,68,89,78.5,3.9,PA
+analyst,54,103,78.5,2.9,CA
+analyst,57,100,78.5,3.1,MA
+other,51,106,78.5,3.1,OH
+analyst,61,96,78.5,4.0,OH
+analyst,55,102,78.5,3.9,MI
+analyst,52,105,78.5,4.3,MI
+analyst,57,100,78.5,3.8,OH
+analyst,57,100,78.5,4.3,VA
+analyst,68,89,78.5,4.4,PA
+analyst,54,103,78.5,3.6,NJ
+data engineer,68,89,78.5,3.9,DE
+other,68,89,78.5,3.8,PA
+other,68,89,78.5,3.4,PA
+other,68,89,78.5,3.9,PA
+other,68,89,78.5,3.4,PA
+other,68,89,78.5,3.7,PA
+other,68,89,78.5,3.4,PA
+data scientist,68,89,78.5,3.6,PA
+other,68,89,78.5,3.9,PA
+other,68,89,78.5,3.3,PA
+analyst,50,108,79.0,4.0,FL
+analyst,54,104,79.0,3.9,OH
+analyst,56,102,79.0,4.7,MA
+data scientist,57,101,79.0,4.3,MA
+analyst,53,105,79.0,3.7,VA
+data scientist,59,99,79.0,3.7,FL
+other,55,103,79.0,3.9,MI
+data scientist,63,95,79.0,3.9,MA
+other,55,104,79.5,4.5,MA
+data scientist,56,103,79.5,3.9,OH
+data engineer,51,108,79.5,4.3,FL
+analyst,54,105,79.5,3.2,CA
+machine learning engineer,56,103,79.5,3.8,NJ
+analyst,56,103,79.5,3.0,MI
+analyst,59,100,79.5,3.4,OH
+manager,50,110,80.0,4.1,TX
+data engineer,50,110,80.0,4.2,TX
+other,50,110,80.0,4.3,TX
+other,50,110,80.0,4.3,TX
+other,74,86,80.0,3.9,OH
+analyst,50,110,80.0,3.8,TX
+data engineer,50,110,80.0,4.1,TX
+data engineer,50,110,80.0,2.9,TX
+other,50,110,80.0,3.7,TX
+data engineer,50,110,80.0,4.0,TX
+other,50,110,80.0,3.1,TX
+other,56,104,80.0,3.2,MA
+other,50,110,80.0,2.9,TX
+other,45,115,80.0,3.9,OH
+data scientist,50,110,80.0,2.8,TX
+data engineer,58,102,80.0,4.0,OH
+other,50,110,80.0,4.1,TX
+data engineer,53,107,80.0,3.7,NJ
+other,50,110,80.0,2.9,TX
+data scientist,50,110,80.0,3.3,TX
+data engineer,50,110,80.0,4.5,TX
+data engineer,50,110,80.0,4.7,TX
+data scientist,60,100,80.0,4.3,MA
+analyst,71,89,80.0,4.0,MI
+data engineer,50,110,80.0,4.2,TX
+analyst,55,106,80.5,4.2,MI
+data scientist,60,101,80.5,4.6,OH
+data engineer,64,97,80.5,4.1,AZ
+manager,64,97,80.5,3.7,AZ
+analyst,64,97,80.5,3.2,AZ
+analyst,64,97,80.5,4.5,AZ
+data scientist,64,97,80.5,3.9,AZ
+data engineer,64,97,80.5,4.1,AZ
+data engineer,59,102,80.5,3.1,MA
+data engineer,64,97,80.5,3.6,AZ
+data scientist,59,102,80.5,4.2,MI
+other,64,97,80.5,2.7,AZ
+data scientist,64,97,80.5,2.9,AZ
+data engineer,64,97,80.5,3.5,AZ
+data engineer,64,97,80.5,3.6,AZ
+data engineer,64,97,80.5,4.1,AZ
+other,64,97,80.5,5.0,AZ
+data engineer,64,97,80.5,3.2,AZ
+data engineer,51,110,80.5,3.9,OH
+data scientist,60,101,80.5,3.4,OH
+data engineer,59,102,80.5,4.0,MI
+machine learning engineer,58,103,80.5,4.2,OH
+analyst,57,104,80.5,4.0,OH
+analyst,64,97,80.5,3.0,AZ
+analyst,54,107,80.5,4.3,NJ
+data scientist,64,97,80.5,4.2,AZ
+other,64,97,80.5,3.8,AZ
+other,64,97,80.5,3.2,AZ
+other,64,97,80.5,3.4,AZ
+analyst,53,109,81.0,4.0,MI
+machine learning engineer,57,105,81.0,5.0,MI
+data scientist,69,93,81.0,3.7,FL
+data scientist,60,102,81.0,3.2,MI
+other,53,109,81.0,3.4,NJ
+data scientist,58,105,81.5,4.3,MA
+data scientist,61,102,81.5,3.8,OH
+data scientist,61,102,81.5,3.9,VA
+data scientist,61,102,81.5,3.6,MI
+analyst,54,109,81.5,3.1,MD
+data scientist,58,105,81.5,3.8,MI
+data engineer,61,102,81.5,4.2,OH
+data engineer,66,97,81.5,3.3,MI
+data engineer,52,111,81.5,3.8,OH
+analyst,54,109,81.5,3.6,NJ
+analyst,53,110,81.5,3.2,CA
+other,58,106,82.0,3.6,NJ
+data scientist,56,108,82.0,3.9,FL
+data scientist,56,108,82.0,3.9,FL
+other,58,106,82.0,4.1,MA
+data scientist,56,108,82.0,3.9,FL
+data scientist,63,101,82.0,3.7,FL
+data scientist,59,105,82.0,4.1,OH
+data scientist,60,104,82.0,3.9,OH
+data scientist,59,105,82.0,4.2,MA
+data scientist,61,103,82.0,3.6,MI
+data scientist,79,85,82.0,3.1,FL
+other,57,107,82.0,3.8,MA
+analyst,56,108,82.0,3.1,MA
+data scientist,63,101,82.0,3.7,FL
+data engineer,75,89,82.0,4.3,MI
+analyst,60,105,82.5,4.9,IL
+data engineer,60,105,82.5,5.0,IL
+manager,60,105,82.5,4.6,IL
+other,60,105,82.5,3.9,IL
+other,60,105,82.5,3.9,IL
+other,60,105,82.5,3.9,IL
+other,60,105,82.5,3.9,IL
+analyst,60,105,82.5,3.2,IL
+analyst,60,105,82.5,4.2,IL
+analyst,60,105,82.5,3.7,IL
+analyst,60,105,82.5,3.6,IL
+data engineer,57,108,82.5,4.2,OH
+other,60,105,82.5,3.2,IL
+analyst,58,107,82.5,3.7,NJ
+other,60,105,82.5,3.2,IL
+other,60,105,82.5,3.4,IL
+data scientist,60,105,82.5,3.6,IL
+data engineer,65,100,82.5,3.4,PA
+other,58,107,82.5,3.9,MI
+data engineer,65,100,82.5,3.8,PA
+data engineer,65,100,82.5,4.5,PA
+analyst,65,100,82.5,3.8,PA
+analyst,65,100,82.5,4.2,PA
+data scientist,62,103,82.5,3.9,OH
+other,60,105,82.5,3.2,IL
+other,65,100,82.5,3.4,PA
+data engineer,65,100,82.5,3.5,PA
+other,65,100,82.5,3.2,PA
+data scientist,65,100,82.5,3.4,PA
+data engineer,65,100,82.5,4.2,PA
+other,65,100,82.5,3.8,PA
+other,65,100,82.5,4.5,PA
+analyst,65,100,82.5,4.5,PA
+data engineer,65,100,82.5,4.7,PA
+machine learning engineer,60,105,82.5,2.7,IL
+analyst,52,113,82.5,3.3,OH
+analyst,60,105,82.5,4.7,IL
+data engineer,60,105,82.5,3.6,IL
+other,65,100,82.5,3.6,PA
+data engineer,60,105,82.5,3.1,IL
+other,60,105,82.5,3.6,IL
+data engineer,57,108,82.5,3.9,OH
+other,61,104,82.5,4.0,OH
+analyst,65,100,82.5,4.3,PA
+data engineer,65,100,82.5,3.4,PA
+data engineer,57,109,83.0,3.3,MI
+other,58,108,83.0,4.5,NJ
+data engineer,57,109,83.0,4.3,OH
+analyst,55,111,83.0,4.1,FL
+data scientist,60,106,83.0,3.4,FL
+data scientist,55,111,83.0,3.9,CA
+data engineer,59,107,83.0,4.0,MI
+data scientist,62,105,83.5,3.6,DC
+data scientist,76,91,83.5,3.6,NJ
+analyst,58,109,83.5,4.3,MI
+analyst,58,109,83.5,4.3,MI
+manager,57,110,83.5,4.3,FL
+data scientist,63,104,83.5,3.9,MI
+data scientist,61,106,83.5,4.4,FL
+other,56,111,83.5,4.0,OH
+data scientist,60,107,83.5,3.5,FL
+data engineer,56,111,83.5,4.2,FL
+other,59,108,83.5,4.9,MA
+analyst,55,112,83.5,4.5,OH
+analyst,58,109,83.5,3.9,FL
+data engineer,55,112,83.5,3.4,OH
+analyst,55,112,83.5,4.5,OH
+machine learning engineer,60,107,83.5,3.7,FL
+data engineer,55,112,83.5,4.6,OH
+other,55,112,83.5,3.9,OH
+data engineer,55,112,83.5,3.2,OH
+data scientist,55,112,83.5,4.2,OH
+data engineer,60,107,83.5,4.0,FL
+analyst,55,112,83.5,3.9,OH
+data engineer,55,112,83.5,3.9,OH
+data engineer,55,112,83.5,4.2,OH
+data engineer,55,112,83.5,4.0,OH
+data engineer,55,112,83.5,4.1,OH
+data engineer,55,112,83.5,3.0,OH
+analyst,55,112,83.5,4.5,OH
+data engineer,55,112,83.5,3.8,OH
+data engineer,55,112,83.5,3.9,OH
+other,55,112,83.5,3.7,OH
+analyst,55,112,83.5,5.0,OH
+data engineer,55,112,83.5,4.4,OH
+other,55,113,84.0,3.7,OH
+other,55,113,84.0,3.3,OH
+other,57,111,84.0,3.8,OH
+other,55,113,84.0,3.7,OH
+data engineer,55,113,84.0,4.6,OH
+analyst,55,113,84.0,5.0,OH
+other,55,113,84.0,2.9,OH
+other,55,113,84.0,3.7,OH
+other,55,113,84.0,3.1,OH
+other,55,113,84.0,3.8,OH
+data engineer,55,113,84.0,3.9,OH
+analyst,55,113,84.0,3.4,OH
+data scientist,55,113,84.0,3.8,OH
+other,55,113,84.0,3.4,OH
+data scientist,75,93,84.0,3.3,OH
+data scientist,63,105,84.0,3.4,OH
+other,55,113,84.0,3.5,OH
+analyst,55,113,84.0,3.9,OH
+data scientist,61,107,84.0,4.5,MA
+other,55,113,84.0,3.3,OH
+machine learning engineer,55,113,84.0,4.6,OH
+other,57,111,84.0,3.4,CA
+other,55,113,84.0,3.9,OH
+data engineer,55,113,84.0,3.9,OH
+other,55,113,84.0,3.1,OH
+data engineer,55,113,84.0,4.2,OH
+other,72,97,84.5,4.1,TX
+analyst,72,97,84.5,3.2,TX
+other,72,97,84.5,3.7,TX
+analyst,72,97,84.5,3.6,TX
+other,72,97,84.5,4.1,TX
+other,72,97,84.5,3.7,TX
+other,72,97,84.5,4.1,TX
+data engineer,59,110,84.5,3.5,NJ
+analyst,72,97,84.5,3.2,TX
+other,72,97,84.5,4.1,TX
+data scientist,64,105,84.5,4.2,OH
+analyst,55,114,84.5,3.8,DC
+data scientist,58,111,84.5,3.8,MA
+other,72,97,84.5,4.1,TX
+analyst,72,97,84.5,5.0,TX
+analyst,72,97,84.5,4.9,TX
+data engineer,72,97,84.5,3.2,TX
+other,72,97,84.5,4.1,TX
+analyst,72,97,84.5,3.2,TX
+other,55,114,84.5,3.8,OH
+data scientist,58,111,84.5,3.8,MA
+data engineer,72,97,84.5,3.7,TX
+manager,72,97,84.5,3.7,TX
+data scientist,63,106,84.5,3.8,VA
+other,54,115,84.5,2.9,NJ
+analyst,61,109,85.0,4.4,OH
+data scientist,62,108,85.0,3.2,MA
+data scientist,62,108,85.0,3.1,FL
+analyst,63,107,85.0,4.1,CA
+other,61,109,85.0,4.9,MA
+data scientist,65,105,85.0,4.2,MI
+data scientist,63,107,85.0,4.0,MA
+data scientist,80,90,85.0,3.6,MI
+data scientist,62,109,85.5,4.3,MA
+other,58,113,85.5,3.5,MI
+data scientist,64,107,85.5,3.8,CA
+data scientist,56,115,85.5,4.7,OH
+data scientist,80,91,85.5,3.6,CA
+data engineer,57,114,85.5,3.8,OH
+other,58,113,85.5,3.5,MI
+other,58,113,85.5,3.5,MI
+data engineer,62,109,85.5,3.5,IL
+analyst,58,113,85.5,3.6,NJ
+other,58,113,85.5,3.5,MI
+data engineer,62,109,85.5,3.0,IL
+other,62,109,85.5,3.7,IL
+data scientist,62,109,85.5,3.4,IL
+data scientist,62,109,85.5,2.9,IL
+data engineer,62,109,85.5,4.0,IL
+data engineer,62,109,85.5,3.2,IL
+data scientist,62,109,85.5,3.3,IL
+data scientist,62,109,85.5,3.6,IL
+analyst,62,109,85.5,3.1,IL
+data engineer,62,109,85.5,4.1,IL
+data engineer,62,109,85.5,4.6,IL
+data scientist,62,109,85.5,4.1,IL
+other,62,109,85.5,3.1,IL
+machine learning engineer,62,109,85.5,3.3,IL
+data engineer,62,109,85.5,3.6,IL
+data engineer,62,109,85.5,3.1,IL
+analyst,62,109,85.5,5.0,IL
+machine learning engineer,62,109,85.5,3.2,IL
+other,62,109,85.5,3.3,IL
+analyst,62,109,85.5,3.9,IL
+data engineer,62,109,85.5,3.8,IL
+analyst,62,109,85.5,3.4,IL
+machine learning engineer,62,109,85.5,3.3,IL
+manager,57,114,85.5,3.8,MA
+analyst,59,113,86.0,4.0,TX
+other,59,113,86.0,3.4,TX
+other,59,113,86.0,4.3,TX
+other,59,113,86.0,3.4,TX
+data engineer,59,113,86.0,3.9,TX
+data scientist,65,107,86.0,3.8,ME
+other,53,119,86.0,4.0,OH
+other,53,119,86.0,4.0,OH
+data scientist,62,110,86.0,4.4,MI
+data scientist,59,113,86.0,4.1,FL
+data scientist,50,122,86.0,3.2,FL
+data engineer,56,116,86.0,3.8,OH
+analyst,55,117,86.0,2.8,TX
+other,59,113,86.0,3.7,TX
+other,59,113,86.0,4.3,TX
+other,59,113,86.0,2.8,TX
+other,55,117,86.0,3.4,TX
+other,55,117,86.0,4.2,TX
+other,55,117,86.0,3.7,TX
+data engineer,65,107,86.0,3.7,MI
+other,55,117,86.0,4.0,TX
+other,55,117,86.0,2.7,TX
+other,55,117,86.0,3.6,TX
+data engineer,58,114,86.0,4.1,MI
+other,55,117,86.0,3.3,TX
+analyst,55,117,86.0,3.6,TX
+other,55,117,86.0,4.1,TX
+machine learning engineer,55,117,86.0,3.8,TX
+data engineer,55,117,86.0,3.9,TX
+analyst,55,117,86.0,4.5,TX
+analyst,55,117,86.0,4.1,TX
+analyst,55,117,86.0,2.7,TX
+other,53,119,86.0,4.0,MI
+other,55,117,86.0,3.6,TX
+analyst,55,117,86.0,3.7,TX
+data scientist,55,117,86.0,4.3,TX
+data scientist,55,117,86.0,3.0,TX
+other,55,117,86.0,3.5,TX
+machine learning engineer,59,113,86.0,3.5,TX
+analyst,59,113,86.0,2.8,TX
+data engineer,55,117,86.0,3.4,TX
+other,58,115,86.5,3.4,MA
+analyst,60,113,86.5,3.8,OH
+data scientist,68,105,86.5,4.0,OH
+other,59,114,86.5,3.4,CA
+data scientist,59,114,86.5,3.1,OH
+other,60,113,86.5,3.7,OH
+data scientist,56,117,86.5,4.3,FL
+data engineer,58,115,86.5,3.7,MI
+other,72,101,86.5,3.3,MI
+data scientist,62,111,86.5,4.2,MD
+data scientist,61,113,87.0,3.7,MI
+data scientist,65,109,87.0,4.0,VA
+data scientist,59,115,87.0,3.7,OH
+data scientist,64,110,87.0,5.0,OH
+data engineer,57,117,87.0,4.4,NJ
+data scientist,63,111,87.0,3.8,FL
+data engineer,62,112,87.0,1.6,TX
+data engineer,62,112,87.0,3.9,TX
+other,62,112,87.0,4.5,TX
+other,62,112,87.0,3.9,TX
+data scientist,81,93,87.0,3.2,MI
+other,62,112,87.0,3.2,TX
+data engineer,62,112,87.0,3.3,TX
+other,62,112,87.0,4.1,TX
+other,62,112,87.0,4.1,TX
+other,62,112,87.0,4.3,TX
+data scientist,62,112,87.0,4.2,TX
+other,62,112,87.0,2.8,TX
+analyst,62,112,87.0,5.0,TX
+data engineer,62,112,87.0,3.3,TX
+data engineer,73,102,87.5,3.9,TX
+data engineer,61,114,87.5,3.2,MI
+data scientist,65,110,87.5,4.3,VA
+other,73,102,87.5,5.0,TX
+data engineer,73,102,87.5,2.8,TX
+researcher,73,102,87.5,3.6,TX
+data engineer,73,102,87.5,4.4,TX
+data scientist,64,111,87.5,4.6,MA
+data engineer,73,102,87.5,4.4,TX
+data engineer,73,102,87.5,4.2,TX
+data scientist,61,114,87.5,4.1,FL
+analyst,73,102,87.5,3.3,TX
+other,73,102,87.5,3.9,TX
+machine learning engineer,60,115,87.5,3.9,MA
+other,73,102,87.5,4.1,TX
+manager,73,102,87.5,3.9,TX
+manager,73,102,87.5,3.3,TX
+analyst,78,97,87.5,4.3,FL
+data engineer,73,102,87.5,3.5,TX
+other,59,116,87.5,3.4,MA
+machine learning engineer,60,115,87.5,4.8,OH
+analyst,73,102,87.5,3.2,TX
+data engineer,73,102,87.5,3.9,TX
+other,60,115,87.5,3.8,NJ
+data engineer,73,102,87.5,3.9,TX
+data scientist,73,102,87.5,3.1,TX
+data engineer,73,102,87.5,3.0,TX
+data scientist,60,115,87.5,4.3,MD
+data engineer,73,102,87.5,3.4,TX
+data engineer,73,102,87.5,3.3,TX
+data engineer,73,102,87.5,3.7,TX
+analyst,64,111,87.5,2.8,CA
+data scientist,75,100,87.5,3.8,CA
+data engineer,73,102,87.5,3.6,TX
+data scientist,73,102,87.5,3.6,TX
+data engineer,73,102,87.5,4.3,TX
+data scientist,65,111,88.0,3.8,DC
+data scientist,68,108,88.0,4.1,MI
+data scientist,58,118,88.0,3.6,FL
+data scientist,68,108,88.0,3.7,FL
+data scientist,74,102,88.0,3.9,MA
+data scientist,68,108,88.0,4.1,MI
+machine learning engineer,67,109,88.0,4.7,MI
+other,60,116,88.0,3.5,MA
+other,56,120,88.0,3.7,NJ
+data engineer,62,114,88.0,4.0,MI
+data scientist,68,108,88.0,3.8,OH
+data scientist,71,105,88.0,4.6,CA
+data scientist,67,109,88.0,4.1,CA
+other,60,116,88.0,3.4,CA
+data scientist,63,114,88.5,4.2,FL
+data scientist,63,114,88.5,3.6,OH
+data scientist,59,118,88.5,4.0,OH
+data scientist,66,111,88.5,4.4,VA
+data scientist,64,113,88.5,3.7,MD
+other,59,118,88.5,3.8,VA
+other,59,118,88.5,3.8,VA
+data scientist,66,111,88.5,3.8,OH
+data scientist,64,113,88.5,4.2,FL
+data scientist,60,117,88.5,4.1,NJ
+data engineer,58,119,88.5,3.9,NJ
+data scientist,68,109,88.5,4.1,MI
+other,55,122,88.5,3.9,MA
+analyst,64,113,88.5,3.6,MA
+data engineer,57,120,88.5,3.5,DC
+data scientist,67,111,89.0,4.1,OH
+analyst,67,111,89.0,4.0,OH
+data scientist,65,113,89.0,4.2,NJ
+data scientist,65,113,89.0,3.1,MA
+data scientist,63,115,89.0,3.7,OH
+data engineer,62,116,89.0,3.8,OH
+data engineer,65,113,89.0,3.9,FL
+data scientist,65,113,89.0,4.3,OH
+data engineer,75,103,89.0,5.0,MI
+analyst,56,123,89.5,4.1,VA
+other,60,119,89.5,3.5,MI
+data scientist,66,113,89.5,3.9,MA
+data scientist,64,115,89.5,4.4,VA
+analyst,68,111,89.5,3.9,OH
+data scientist,83,96,89.5,3.7,NJ
+other,66,113,89.5,4.0,OH
+data scientist,65,114,89.5,3.8,NJ
+data engineer,63,116,89.5,4.5,OH
+data scientist,70,110,90.0,4.4,OH
+data engineer,62,118,90.0,4.0,MI
+data scientist,80,100,90.0,3.8,OH
+other,62,118,90.0,4.7,MD
+other,62,118,90.0,4.7,MD
+analyst,61,119,90.0,4.0,FL
+data scientist,65,115,90.0,3.9,MA
+data scientist,68,112,90.0,3.3,FL
+data engineer,61,119,90.0,4.0,FL
+data scientist,67,113,90.0,2.8,GA
+data scientist,66,114,90.0,3.7,OH
+data engineer,65,116,90.5,4.0,OH
+data scientist,66,115,90.5,4.1,CA
+data scientist,68,113,90.5,3.9,FL
+data scientist,65,116,90.5,4.9,MD
+data engineer,69,112,90.5,4.9,MA
+analyst,85,96,90.5,3.4,OH
+machine learning engineer,64,117,90.5,3.8,FL
+machine learning engineer,64,117,90.5,4.2,MA
+data scientist,84,98,91.0,3.2,MI
+data scientist,67,115,91.0,3.8,MI
+other,67,115,91.0,3.9,MD
+data scientist,68,114,91.0,3.9,VA
+data scientist,61,121,91.0,3.4,MI
+machine learning engineer,61,121,91.0,4.1,FL
+data scientist,67,115,91.0,4.0,MA
+other,65,118,91.5,2.8,MI
+data scientist,83,100,91.5,3.9,MD
+data scientist,58,125,91.5,5.0,NJ
+data engineer,84,99,91.5,5.0,OH
+data scientist,70,113,91.5,4.3,VA
+other,66,117,91.5,3.8,MI
+data scientist,64,119,91.5,3.5,FL
+other,61,122,91.5,4.7,MD
+other,53,130,91.5,3.7,OH
+data scientist,73,111,92.0,4.1,TX
+data scientist,63,121,92.0,3.6,VA
+analyst,73,111,92.0,3.7,TX
+other,68,116,92.0,4.1,NJ
+data scientist,73,111,92.0,3.7,TX
+other,73,111,92.0,4.3,TX
+analyst,73,111,92.0,3.3,TX
+data engineer,73,111,92.0,4.8,TX
+data scientist,73,111,92.0,3.9,TX
+data scientist,73,111,92.0,4.3,TX
+other,73,111,92.0,3.8,TX
+data scientist,73,111,92.0,3.3,TX
+data engineer,73,111,92.0,3.9,TX
+data scientist,68,116,92.0,4.2,MI
+data scientist,64,120,92.0,4.2,MI
+analyst,73,111,92.0,2.8,TX
+analyst,73,111,92.0,3.7,TX
+analyst,73,111,92.0,3.6,TX
+data engineer,73,111,92.0,4.0,TX
+other,73,111,92.0,4.3,TX
+data scientist,73,111,92.0,4.2,TX
+data engineer,73,111,92.0,4.2,TX
+other,73,111,92.0,3.9,TX
+data scientist,64,120,92.0,4.3,OH
+data engineer,73,111,92.0,4.3,TX
+other,73,111,92.0,4.3,TX
+other,60,124,92.0,4.0,CA
+data scientist,66,118,92.0,3.8,FL
+analyst,60,124,92.0,3.2,CA
+data scientist,60,124,92.0,4.1,CA
+other,60,124,92.0,3.3,CA
+analyst,60,124,92.0,3.3,CA
+analyst,60,124,92.0,4.2,CA
+data scientist,60,124,92.0,3.3,CA
+other,60,124,92.0,4.3,CA
+other,60,124,92.0,3.1,CA
+analyst,60,124,92.0,3.6,CA
+data scientist,85,99,92.0,4.0,OH
+other,60,124,92.0,2.8,CA
+other,60,124,92.0,3.6,CA
+analyst,60,124,92.0,3.9,CA
+other,60,124,92.0,4.2,CA
+analyst,60,124,92.0,4.3,CA
+other,60,124,92.0,3.7,CA
+analyst,60,124,92.0,3.6,CA
+other,60,124,92.0,3.9,CA
+other,73,111,92.0,3.3,TX
+manager,60,124,92.0,4.1,CA
+data scientist,60,124,92.0,4.1,CA
+other,60,124,92.0,4.3,CA
+data scientist,60,124,92.0,3.3,CA
+other,60,124,92.0,3.9,CA
+data scientist,72,113,92.5,3.6,OH
+data engineer,84,101,92.5,3.9,AZ
+data engineer,84,101,92.5,3.1,AZ
+data engineer,84,101,92.5,3.6,AZ
+data engineer,84,101,92.5,3.2,AZ
+data scientist,67,118,92.5,3.8,DC
+data engineer,84,101,92.5,4.4,AZ
+machine learning engineer,66,119,92.5,3.9,FL
+other,84,101,92.5,3.6,AZ
+data engineer,84,101,92.5,4.1,AZ
+data scientist,84,101,92.5,4.2,AZ
+data scientist,84,101,92.5,4.2,AZ
+data engineer,84,101,92.5,3.8,AZ
+data engineer,84,101,92.5,3.5,AZ
+data engineer,84,101,92.5,3.9,AZ
+data engineer,84,101,92.5,4.4,AZ
+other,84,101,92.5,4.1,AZ
+data engineer,84,101,92.5,3.5,AZ
+data engineer,84,101,92.5,3.6,AZ
+data engineer,84,101,92.5,3.2,AZ
+analyst,84,101,92.5,3.8,AZ
+data engineer,84,101,92.5,3.9,AZ
+data engineer,84,101,92.5,3.4,AZ
+data scientist,84,101,92.5,4.2,AZ
+data scientist,70,115,92.5,4.2,CA
+data scientist,84,101,92.5,4.2,AZ
+data engineer,84,101,92.5,3.8,AZ
+analyst,70,115,92.5,4.1,OH
+data scientist,61,124,92.5,4.0,OH
+data scientist,73,112,92.5,4.2,OH
+data scientist,68,117,92.5,3.7,MI
+data scientist,64,121,92.5,4.3,MI
+data scientist,71,115,93.0,3.7,FL
+machine learning engineer,67,119,93.0,4.4,MI
+data scientist,71,115,93.0,4.0,MI
+data scientist,87,99,93.0,4.1,OH
+machine learning engineer,60,126,93.0,4.0,MA
+machine learning engineer,71,115,93.0,4.2,MI
+data scientist,77,109,93.0,4.3,FL
+data scientist,88,99,93.5,4.2,NJ
+data scientist,88,99,93.5,4.2,NJ
+data scientist,88,99,93.5,4.2,NJ
+data scientist,69,118,93.5,5.0,VA
+other,69,118,93.5,4.1,MA
+data scientist,88,99,93.5,4.2,NJ
+data scientist,66,121,93.5,3.7,MI
+other,66,121,93.5,4.1,NJ
+data scientist,67,120,93.5,4.6,MA
+analyst,61,126,93.5,4.0,NJ
+data scientist,65,122,93.5,3.5,DC
+other,69,118,93.5,3.8,OH
+analyst,83,105,94.0,3.1,CA
+other,83,105,94.0,4.0,CA
+analyst,83,105,94.0,3.6,CA
+analyst,83,105,94.0,4.7,CA
+data scientist,83,105,94.0,3.7,CA
+data engineer,83,105,94.0,3.9,CA
+data scientist,62,126,94.0,4.6,CA
+data scientist,71,117,94.0,3.3,PA
+other,71,117,94.0,4.7,PA
+data scientist,59,129,94.0,4.2,MA
+data engineer,83,105,94.0,4.0,CA
+data scientist,71,117,94.0,3.7,PA
+other,83,105,94.0,3.3,CA
+data engineer,83,105,94.0,4.2,CA
+analyst,83,105,94.0,4.3,CA
+machine learning engineer,83,105,94.0,4.2,CA
+data scientist,83,105,94.0,3.2,CA
+data scientist,66,122,94.0,4.5,OH
+data scientist,83,105,94.0,3.3,CA
+analyst,71,117,94.0,3.6,PA
+other,71,117,94.0,4.3,PA
+data engineer,83,105,94.0,4.8,CA
+analyst,71,117,94.0,4.3,PA
+data scientist,83,105,94.0,3.7,CA
+analyst,71,117,94.0,3.7,PA
+data scientist,71,117,94.0,4.3,PA
+analyst,71,117,94.0,4.0,NJ
+data scientist,71,117,94.0,3.7,PA
+data scientist,71,117,94.0,3.7,PA
+data scientist,71,117,94.0,3.9,PA
+analyst,71,117,94.0,3.5,PA
+data scientist,72,116,94.0,3.8,OH
+analyst,71,117,94.0,5.0,PA
+data scientist,71,117,94.0,2.7,PA
+analyst,71,117,94.0,3.8,PA
+data engineer,83,105,94.0,4.0,CA
+data scientist,65,123,94.0,3.9,VA
+analyst,71,117,94.0,3.9,PA
+other,71,117,94.0,3.5,PA
+data engineer,71,117,94.0,3.5,PA
+analyst,71,117,94.0,2.4,PA
+analyst,71,117,94.0,4.2,PA
+other,66,122,94.0,3.6,NJ
+analyst,83,105,94.0,4.0,CA
+other,71,117,94.0,3.6,PA
+analyst,71,117,94.0,3.5,PA
+data engineer,71,117,94.0,4.0,PA
+data engineer,71,117,94.0,3.7,PA
+analyst,71,117,94.0,4.1,PA
+other,83,105,94.0,3.9,CA
+data scientist,83,105,94.0,5.0,MD
+data scientist,71,117,94.0,3.7,PA
+data scientist,66,123,94.5,4.3,VA
+other,62,127,94.5,4.0,CA
+data engineer,77,112,94.5,4.0,MI
+data scientist,66,123,94.5,4.3,VA
+other,62,127,94.5,3.4,CA
+other,62,127,94.5,4.3,CA
+data engineer,69,120,94.5,3.8,MI
+other,62,127,94.5,4.2,CA
+other,62,127,94.5,4.1,CA
+data scientist,69,120,94.5,5.0,MA
+data engineer,62,127,94.5,3.6,CA
+other,62,127,94.5,2.4,CA
+data scientist,65,124,94.5,4.2,CA
+other,62,127,94.5,4.1,CA
+data scientist,67,122,94.5,4.3,CA
+data engineer,67,122,94.5,3.7,NJ
+data scientist,73,117,95.0,3.8,OH
+data scientist,73,117,95.0,4.2,MD
+data scientist,71,119,95.0,3.6,OH
+data scientist,70,120,95.0,3.9,FL
+data scientist,85,105,95.0,3.8,OH
+analyst,59,131,95.0,3.6,CA
+data engineer,71,119,95.0,4.1,MI
+data scientist,68,122,95.0,3.6,NJ
+analyst,67,123,95.0,3.1,DC
+data scientist,71,119,95.0,4.4,MD
+data scientist,65,125,95.0,4.1,OH
+data scientist,71,119,95.0,3.3,VA
+other,63,128,95.5,4.0,MD
+analyst,64,127,95.5,4.4,VA
+other,64,127,95.5,4.0,MA
+data scientist,66,125,95.5,4.6,VA
+data scientist,72,119,95.5,4.6,NJ
+data scientist,65,126,95.5,4.5,FL
+data engineer,64,127,95.5,3.8,NJ
+data scientist,73,118,95.5,4.0,FL
+data scientist,68,123,95.5,3.8,MA
+data scientist,70,121,95.5,4.0,CA
+data scientist,66,125,95.5,3.7,OH
+data scientist,60,132,96.0,2.8,CA
+data scientist,67,125,96.0,3.7,VA
+data scientist,69,123,96.0,4.1,NJ
+data scientist,70,122,96.0,4.0,DC
+data scientist,72,120,96.0,3.8,FL
+data scientist,73,119,96.0,4.2,VA
+other,71,122,96.5,4.0,PA
+analyst,71,122,96.5,3.9,PA
+data engineer,60,133,96.5,3.5,DC
+data scientist,70,123,96.5,4.3,MA
+analyst,71,122,96.5,3.7,PA
+other,71,122,96.5,4.0,PA
+data scientist,71,122,96.5,3.7,PA
+other,71,122,96.5,3.9,PA
+analyst,71,122,96.5,4.3,PA
+analyst,71,122,96.5,4.3,NJ
+data scientist,61,132,96.5,4.3,VA
+data engineer,70,123,96.5,3.3,IL
+analyst,71,122,96.5,3.7,PA
+data engineer,71,122,96.5,4.0,CA
+data engineer,71,122,96.5,3.7,CA
+analyst,71,122,96.5,4.2,CA
+machine learning engineer,71,122,96.5,4.8,CA
+data scientist,78,115,96.5,3.7,OH
+director,71,122,96.5,3.8,CA
+other,71,122,96.5,3.8,CA
+other,71,122,96.5,3.2,CA
+other,71,122,96.5,4.3,CA
+other,71,122,96.5,3.0,CA
+other,71,122,96.5,3.4,CA
+data engineer,71,122,96.5,3.7,CA
+data scientist,71,122,96.5,4.1,CA
+other,71,122,96.5,3.7,CA
+analyst,71,122,96.5,3.0,CA
+data engineer,71,122,96.5,3.3,CA
+data scientist,71,122,96.5,3.3,DE
+other,71,122,96.5,3.5,CA
+analyst,71,122,96.5,4.5,CA
+other,71,122,96.5,4.0,PA
+data scientist,71,122,96.5,3.4,PA
+data scientist,71,122,96.5,4.0,PA
+analyst,71,122,96.5,2.7,PA
+other,69,124,96.5,3.9,MI
+data engineer,70,123,96.5,4.0,IL
+other,70,123,96.5,3.7,IL
+other,70,123,96.5,3.6,IL
+data scientist,71,122,96.5,4.7,CA
+data engineer,70,123,96.5,3.7,IL
+other,66,127,96.5,3.8,MA
+researcher,70,123,96.5,4.2,IL
+data engineer,71,122,96.5,3.8,NH
+other,70,123,96.5,3.6,IL
+data scientist,70,123,96.5,2.9,IL
+other,70,123,96.5,4.0,IL
+data engineer,70,123,96.5,4.7,IL
+data scientist,70,123,96.5,2.9,IL
+data engineer,66,127,96.5,3.9,MI
+other,71,122,96.5,3.9,PA
+data scientist,71,122,96.5,3.2,CA
+data engineer,71,122,96.5,3.0,PA
+data engineer,70,123,96.5,3.5,IL
+data engineer,69,124,96.5,3.9,VA
+data engineer,71,122,96.5,3.8,MA
+other,71,122,96.5,3.6,CA
+other,71,122,96.5,3.8,PA
+manager,70,123,96.5,3.4,IL
+data engineer,70,124,97.0,4.2,NJ
+data scientist,69,125,97.0,4.6,MA
+machine learning engineer,64,130,97.0,3.8,MD
+other,64,130,97.0,3.8,MD
+data scientist,66,128,97.0,4.0,OH
+other,66,128,97.0,3.8,MA
+data scientist,72,122,97.0,3.5,MA
+data scientist,69,125,97.0,3.8,VA
+other,60,134,97.0,3.7,CA
+data scientist,90,105,97.5,4.1,MI
+data scientist,66,129,97.5,3.8,DC
+data scientist,65,130,97.5,4.0,MD
+machine learning engineer,70,125,97.5,4.0,MA
+data scientist,74,121,97.5,3.9,OH
+data engineer,67,128,97.5,4.0,OH
+data engineer,67,128,97.5,4.0,OH
+data scientist,68,127,97.5,4.8,MA
+data scientist,90,105,97.5,4.1,MI
+other,67,128,97.5,2.3,MA
+manager,73,122,97.5,3.9,MI
+data engineer,93,103,98.0,3.8,TX
+data scientist,91,105,98.0,2.9,IL
+data engineer,93,103,98.0,2.2,TX
+data engineer,93,103,98.0,2.5,TX
+other,91,105,98.0,3.9,IL
+data engineer,93,103,98.0,2.5,TX
+data scientist,91,105,98.0,3.6,IL
+analyst,91,105,98.0,3.7,IL
+data scientist,91,105,98.0,2.7,IL
+data scientist,91,105,98.0,3.8,IL
+data scientist,91,105,98.0,3.7,IL
+data scientist,91,105,98.0,3.8,IL
+data scientist,91,105,98.0,3.1,IL
+data scientist,91,105,98.0,3.3,IL
+data scientist,91,105,98.0,3.2,IL
+data scientist,91,105,98.0,4.5,IL
+data engineer,66,130,98.0,5.0,FL
+data scientist,72,124,98.0,3.9,MA
+data scientist,91,105,98.0,2.8,IL
+data scientist,65,131,98.0,3.6,MI
+data scientist,73,123,98.0,4.3,CA
+analyst,91,105,98.0,3.8,IL
+researcher,91,105,98.0,3.9,IL
+data scientist,91,105,98.0,4.5,IL
+data engineer,79,117,98.0,3.8,MI
+data scientist,91,105,98.0,3.7,IL
+data scientist,70,126,98.0,3.9,MA
+data scientist,91,105,98.0,3.6,IL
+data engineer,93,103,98.0,3.5,TX
+data engineer,93,103,98.0,3.6,TX
+data scientist,73,123,98.0,3.5,DC
+data scientist,70,126,98.0,4.3,MD
+data engineer,93,103,98.0,3.8,TX
+data scientist,69,127,98.0,4.8,MD
+data scientist,71,125,98.0,4.6,MA
+other,66,130,98.0,3.8,FL
+data scientist,75,121,98.0,3.9,MA
+data scientist,66,130,98.0,4.2,FL
+data scientist,91,105,98.0,3.9,IL
+other,66,130,98.0,3.2,FL
+other,64,132,98.0,3.6,NJ
+data scientist,72,124,98.0,3.8,VA
+other,66,130,98.0,3.7,FL
+analyst,66,130,98.0,5.0,FL
+other,91,105,98.0,4.0,IL
+data scientist,72,124,98.0,3.8,DC
+machine learning engineer,91,105,98.0,3.3,IL
+data scientist,91,105,98.0,3.3,IL
+data scientist,91,105,98.0,3.4,IL
+data scientist,93,103,98.0,4.2,TX
+data scientist,75,122,98.5,3.0,VA
+data engineer,68,129,98.5,3.7,NJ
+data scientist,70,127,98.5,3.6,MI
+data scientist,67,130,98.5,3.7,CA
+data scientist,70,127,98.5,3.7,OH
+data scientist,74,123,98.5,4.8,DC
+data engineer,65,132,98.5,4.9,VA
+data engineer,72,125,98.5,4.1,MA
+other,67,130,98.5,3.9,VA
+data scientist,73,124,98.5,4.0,FL
+data scientist,72,126,99.0,3.8,MA
+analyst,74,124,99.0,4.1,NY
+data scientist,74,124,99.0,2.8,NY
+data scientist,74,124,99.0,3.4,NY
+data scientist,74,124,99.0,3.4,NY
+data scientist,74,124,99.0,3.3,NY
+data scientist,74,124,99.0,2.9,NY
+data scientist,74,124,99.0,3.6,NY
+other,74,124,99.0,3.8,NY
+data scientist,74,124,99.0,3.3,NY
+machine learning engineer,74,124,99.0,4.8,NY
+data scientist,74,124,99.0,3.9,NY
+data scientist,74,124,99.0,3.9,NY
+data scientist,74,124,99.0,4.5,NY
+data scientist,74,124,99.0,4.3,NY
+data scientist,74,124,99.0,2.7,NY
+data scientist,74,124,99.0,3.8,NY
+data scientist,74,124,99.0,3.8,NY
+data scientist,74,124,99.0,4.4,NY
+data scientist,74,124,99.0,4.0,NY
+data scientist,74,124,99.0,3.3,NJ
+data scientist,74,124,99.0,3.8,NY
+data engineer,74,124,99.0,4.4,NY
+data scientist,74,124,99.0,5.0,NY
+analyst,76,122,99.0,4.5,CA
+analyst,76,122,99.0,3.1,CA
+data scientist,82,116,99.0,4.1,FL
+data scientist,72,126,99.0,3.9,OH
+data engineer,76,122,99.0,3.8,CA
+analyst,76,122,99.0,3.9,CA
+analyst,76,122,99.0,5.0,CA
+other,76,122,99.0,3.2,CA
+analyst,76,122,99.0,3.8,CA
+machine learning engineer,76,122,99.0,4.7,CA
+data scientist,76,122,99.0,4.4,CA
+data scientist,76,122,99.0,2.8,CA
+other,76,122,99.0,3.7,CA
+other,76,122,99.0,3.4,CA
+data engineer,76,122,99.0,3.9,CA
+data scientist,76,122,99.0,3.3,CA
+data scientist,76,122,99.0,3.9,CA
+data scientist,64,134,99.0,3.9,VA
+data scientist,73,125,99.0,2.6,FL
+data scientist,76,122,99.0,4.1,CA
+other,76,122,99.0,4.2,CA
+data scientist,66,132,99.0,4.3,DC
+data scientist,71,127,99.0,4.2,MA
+data scientist,76,122,99.0,3.8,CA
+data scientist,78,120,99.0,4.2,OH
+data scientist,76,122,99.0,2.3,CA
+data engineer,76,122,99.0,3.1,CA
+data scientist,76,122,99.0,4.9,CA
+data scientist,65,133,99.0,4.0,FL
+data scientist,76,122,99.0,3.9,CA
+data scientist,76,122,99.0,3.9,CA
+data scientist,76,122,99.0,3.4,CA
+other,76,122,99.0,3.1,CA
+data scientist,70,129,99.5,3.5,TX
+other,70,129,99.5,3.5,TX
+data engineer,70,129,99.5,4.3,TX
+data scientist,76,123,99.5,3.7,MA
+analyst,70,129,99.5,4.6,TX
+data scientist,71,128,99.5,5.0,DC
+data engineer,70,129,99.5,3.7,TX
+machine learning engineer,71,128,99.5,4.9,MA
+data scientist,74,125,99.5,4.0,FL
+data scientist,68,131,99.5,5.0,VA
+data scientist,76,123,99.5,4.0,MI
+other,70,129,99.5,3.3,TX
+other,70,129,99.5,3.2,TX
+data scientist,70,129,99.5,4.7,TX
+data engineer,70,129,99.5,4.5,TX
+data engineer,70,129,99.5,4.6,VA
+data engineer,70,129,99.5,3.3,TX
+data engineer,70,129,99.5,3.6,TX
+other,70,129,99.5,4.0,TX
+data engineer,70,129,99.5,3.8,TX
+data engineer,70,129,99.5,4.6,VA
+analyst,70,129,99.5,2.8,TX
+data scientist,83,116,99.5,4.2,NJ
+other,64,135,99.5,3.4,VA
+data scientist,75,124,99.5,3.1,MD
+data engineer,70,129,99.5,4.9,TX
+data engineer,70,129,99.5,4.8,TX
+data scientist,67,132,99.5,4.1,NJ
+other,70,129,99.5,3.3,TX
+other,71,129,100.0,3.4,NJ
+data scientist,71,129,100.0,4.2,NJ
+other,97,103,100.0,4.0,CA
+data scientist,68,132,100.0,2.8,MA
+data scientist,70,130,100.0,3.8,OH
+other,66,134,100.0,3.6,MI
+data engineer,71,129,100.0,4.0,MI
+data engineer,71,129,100.0,4.0,MI
+data scientist,74,126,100.0,3.4,DC
+data scientist,65,135,100.0,3.7,OH
+data scientist,70,130,100.0,3.9,VA
+data scientist,73,127,100.0,4.2,MD
+data scientist,70,130,100.0,3.8,MA
+data scientist,74,126,100.0,3.5,MD
+other,86,115,100.5,3.5,CA
+analyst,76,125,100.5,4.3,CA
+analyst,76,125,100.5,4.0,CA
+data scientist,76,125,100.5,3.7,CA
+other,76,125,100.5,3.7,CA
+data engineer,76,125,100.5,5.0,CA
+analyst,76,125,100.5,3.8,CA
+data scientist,76,125,100.5,4.7,CA
+data scientist,76,125,100.5,2.5,CA
+analyst,76,125,100.5,3.3,CA
+data scientist,76,125,100.5,3.9,CA
+data scientist,72,129,100.5,3.9,OH
+data scientist,77,124,100.5,3.5,MI
+other,68,133,100.5,4.0,MD
+data scientist,72,129,100.5,4.0,FL
+data engineer,71,130,100.5,4.0,FL
+data scientist,74,127,100.5,3.6,MA
+data scientist,67,134,100.5,4.2,MD
+analyst,76,125,100.5,3.6,CA
+other,76,125,100.5,3.8,CA
+data scientist,73,128,100.5,3.6,FL
+machine learning engineer,70,131,100.5,3.8,TX
+data scientist,96,105,100.5,4.2,CA
+data scientist,72,129,100.5,3.9,VA
+data scientist,76,125,100.5,4.1,MI
+data engineer,76,125,100.5,4.7,CA
+analyst,76,125,100.5,4.6,CA
+machine learning engineer,76,125,100.5,3.9,CA
+manager,76,125,100.5,4.5,CA
+data scientist,76,125,100.5,4.2,CA
+analyst,76,125,100.5,4.0,CA
+analyst,76,125,100.5,3.7,CA
+analyst,67,134,100.5,3.9,VA
+analyst,76,125,100.5,3.4,CA
+analyst,76,125,100.5,3.6,CA
+other,76,125,100.5,4.1,CA
+data scientist,76,126,101.0,4.1,FL
+other,72,130,101.0,4.1,MA
+data scientist,69,133,101.0,3.7,FL
+data scientist,76,126,101.0,3.6,DC
+data scientist,72,130,101.0,4.4,MA
+data scientist,73,129,101.0,3.9,NJ
+data scientist,76,126,101.0,3.8,VA
+data scientist,66,136,101.0,4.6,VA
+data scientist,77,125,101.0,3.9,MI
+data scientist,67,135,101.0,4.7,MA
+other,60,142,101.0,4.3,NJ
+data scientist,73,129,101.0,3.4,OH
+data engineer,74,129,101.5,3.8,CA
+data scientist,71,132,101.5,4.0,OH
+other,74,129,101.5,3.4,CA
+data engineer,74,129,101.5,3.7,CA
+analyst,74,129,101.5,5.0,CA
+analyst,74,129,101.5,4.1,CA
+data scientist,78,125,101.5,4.8,CA
+data scientist,81,122,101.5,4.2,NJ
+other,74,129,101.5,4.1,CA
+analyst,74,129,101.5,4.2,CA
+other,74,129,101.5,4.3,CA
+other,74,129,101.5,4.1,CA
+data scientist,74,129,101.5,4.1,CA
+data engineer,74,129,101.5,3.5,CA
+data engineer,74,129,101.5,4.3,CA
+analyst,69,134,101.5,3.8,NJ
+data scientist,72,131,101.5,4.4,DC
+analyst,74,129,101.5,4.6,MA
+data engineer,74,129,101.5,4.2,CA
+other,74,129,101.5,2.6,CA
+data scientist,67,136,101.5,4.6,NJ
+data scientist,78,125,101.5,3.1,MA
+other,74,129,101.5,4.5,CA
+deep learning engineer,74,129,101.5,2.9,CA
+data scientist,73,130,101.5,3.6,OH
+data scientist,80,123,101.5,4.0,MA
+data scientist,75,128,101.5,4.2,MA
+data scientist,71,132,101.5,4.4,DC
+data scientist,75,128,101.5,4.2,MA
+data scientist,57,146,101.5,4.7,MD
+data scientist,71,133,102.0,4.0,VA
+data scientist,73,131,102.0,3.9,CA
+data scientist,73,131,102.0,3.8,DC
+data scientist,71,133,102.0,3.8,MD
+data scientist,91,113,102.0,4.2,CA
+data scientist,74,131,102.5,4.2,MA
+data scientist,78,127,102.5,4.2,FL
+data scientist,77,128,102.5,4.7,MA
+data scientist,77,128,102.5,3.4,OH
+other,78,127,102.5,3.6,VA
+data scientist,67,138,102.5,3.8,FL
+data scientist,75,131,103.0,3.5,VA
+data scientist,73,133,103.0,4.2,FL
+data scientist,75,131,103.0,3.5,VA
+other,72,134,103.0,3.4,MA
+manager,72,134,103.0,1.9,CA
+data scientist,72,134,103.0,3.8,MA
+data scientist,72,134,103.0,4.4,VA
+data scientist,75,131,103.0,3.3,MA
+machine learning engineer,65,141,103.0,3.8,MI
+data scientist,70,136,103.0,4.4,MI
+machine learning engineer,75,131,103.0,4.2,MA
+machine learning engineer,65,141,103.0,3.0,FL
+data scientist,75,131,103.0,4.2,MA
+analyst,69,137,103.0,3.8,NJ
+data scientist,73,133,103.0,4.1,NJ
+data scientist,77,129,103.0,4.5,VA
+data scientist,77,130,103.5,4.3,MA
+data engineer,68,139,103.5,4.2,NJ
+data engineer,68,139,103.5,4.2,NJ
+analyst,66,141,103.5,4.7,NJ
+data scientist,72,135,103.5,3.8,MA
+data engineer,69,138,103.5,4.2,FL
+data scientist,78,130,104.0,3.9,VA
+data scientist,95,113,104.0,3.3,MD
+data scientist,72,136,104.0,4.5,DC
+data scientist,68,140,104.0,3.5,DC
+analyst,97,111,104.0,3.6,AZ
+data engineer,97,111,104.0,3.8,AZ
+other,97,111,104.0,3.7,AZ
+analyst,97,111,104.0,3.7,AZ
+data engineer,97,111,104.0,2.9,AZ
+data scientist,97,111,104.0,4.2,AZ
+other,97,111,104.0,2.5,AZ
+data engineer,97,111,104.0,3.7,AZ
+data scientist,97,111,104.0,3.4,AZ
+other,97,111,104.0,3.6,AZ
+data scientist,97,111,104.0,3.7,AZ
+analyst,97,111,104.0,3.6,AZ
+data engineer,97,111,104.0,3.7,AZ
+data engineer,97,111,104.0,3.6,AZ
+data scientist,77,131,104.0,3.8,VA
+data scientist,74,134,104.0,3.9,MA
+data scientist,75,133,104.0,3.5,CA
+data scientist,75,133,104.0,4.0,CA
+data scientist,79,130,104.5,3.8,IL
+data engineer,76,133,104.5,3.3,NJ
+analyst,73,136,104.5,3.3,TX
+data scientist,79,130,104.5,4.2,IL
+data scientist,79,130,104.5,4.7,IL
+data scientist,79,130,104.5,4.3,IL
+data engineer,73,136,104.5,3.4,TX
+data scientist,79,130,104.5,3.8,IL
+data scientist,73,136,104.5,4.2,TX
+analyst,79,130,104.5,2.8,IL
+data scientist,79,130,104.5,3.2,IL
+data scientist,79,130,104.5,3.9,IL
+other,73,136,104.5,4.1,TX
+data scientist,79,130,104.5,3.6,IL
+other,73,136,104.5,3.1,TX
+data scientist,73,136,104.5,3.8,TX
+data scientist,64,145,104.5,3.8,DC
+data scientist,73,136,104.5,4.2,TX
+data scientist,73,136,104.5,4.2,TX
+other,73,136,104.5,3.5,TX
+data engineer,73,136,104.5,3.5,TX
+other,73,136,104.5,4.1,TX
+other,73,136,104.5,4.1,TX
+data engineer,73,136,104.5,3.9,TX
+data engineer,73,136,104.5,3.6,TX
+data engineer,73,136,104.5,3.7,TX
+other,73,136,104.5,4.1,TX
+data scientist,73,136,104.5,4.2,TX
+analyst,73,136,104.5,3.1,TX
+analyst,73,136,104.5,4.0,TX
+analyst,73,136,104.5,3.8,TX
+manager,73,136,104.5,4.2,TX
+analyst,79,130,104.5,3.8,IL
+data scientist,79,130,104.5,3.8,IL
+data scientist,79,130,104.5,4.3,IL
+data engineer,79,130,104.5,4.7,IL
+data scientist,83,126,104.5,5.0,VA
+data scientist,79,130,104.5,3.5,IL
+data scientist,79,130,104.5,4.2,IL
+data scientist,79,130,104.5,2.8,IL
+data scientist,79,130,104.5,4.1,IL
+data scientist,79,130,104.5,3.8,IL
+other,79,130,104.5,4.6,IL
+data engineer,73,136,104.5,4.2,TX
+data scientist,68,141,104.5,2.6,VA
+data scientist,68,141,104.5,2.6,VA
+data scientist,79,130,104.5,2.6,IL
+data scientist,72,137,104.5,4.3,TX
+data scientist,77,132,104.5,3.3,CA
+data scientist,79,130,104.5,3.8,IL
+data scientist,74,135,104.5,4.0,MA
+data scientist,71,138,104.5,2.9,CA
+analyst,74,135,104.5,3.2,CA
+data scientist,79,130,104.5,2.7,IL
+data scientist,77,133,105.0,3.8,MD
+data scientist,79,131,105.0,2.9,VA
+data scientist,74,136,105.0,3.8,VA
+data scientist,69,141,105.0,3.6,DC
+analyst,72,138,105.0,4.2,NJ
+data scientist,79,131,105.0,3.6,VA
+data scientist,78,132,105.0,3.4,OH
+data scientist,79,131,105.0,3.6,VA
+other,74,136,105.0,3.8,NJ
+data scientist,77,133,105.0,4.0,CA
+data scientist,79,131,105.0,4.4,CA
+data scientist,80,130,105.0,4.1,NJ
+data scientist,78,132,105.0,3.8,NJ
+other,72,138,105.0,4.1,MA
+other,71,139,105.0,3.6,OH
+data engineer,82,129,105.5,4.3,TX
+data engineer,82,129,105.5,3.2,TX
+data engineer,82,129,105.5,4.0,TX
+analyst,82,129,105.5,3.3,TX
+data engineer,82,129,105.5,3.3,TX
+data scientist,77,134,105.5,4.0,CA
+data scientist,76,135,105.5,3.9,AZ
+data scientist,77,134,105.5,3.7,MA
+other,82,129,105.5,3.4,TX
+analyst,82,129,105.5,2.8,TX
+data engineer,82,129,105.5,3.9,TX
+other,82,129,105.5,3.5,TX
+analyst,82,129,105.5,3.8,TX
+analyst,82,129,105.5,2.8,TX
+analyst,82,129,105.5,3.3,TX
+data engineer,82,129,105.5,3.7,TX
+machine learning engineer,82,129,105.5,3.9,TX
+data engineer,82,129,105.5,4.2,TX
+machine learning engineer,82,129,105.5,2.9,TX
+data scientist,78,133,105.5,3.1,MA
+data engineer,82,129,105.5,4.2,TX
+data engineer,82,129,105.5,3.6,TX
+analyst,82,129,105.5,3.1,TX
+analyst,82,129,105.5,3.7,TX
+data engineer,82,129,105.5,3.4,TX
+analyst,82,129,105.5,3.9,TX
+analyst,82,129,105.5,3.3,TX
+other,73,139,106.0,4.1,NJ
+data scientist,76,136,106.0,3.9,MA
+data scientist,72,140,106.0,3.6,NJ
+data scientist,75,137,106.0,4.0,OH
+data scientist,72,140,106.0,3.8,VA
+data scientist,77,135,106.0,4.0,MA
+data scientist,78,134,106.0,3.9,DC
+data scientist,76,136,106.0,3.8,NJ
+other,76,136,106.0,5.0,MA
+machine learning engineer,69,143,106.0,3.8,VA
+data scientist,75,137,106.0,3.6,FL
+data scientist,75,137,106.0,4.1,DC
+data scientist,73,139,106.0,4.4,MD
+data scientist,80,132,106.0,3.7,CA
+other,71,142,106.5,5.0,FL
+analyst,77,136,106.5,3.8,DC
+machine learning engineer,69,144,106.5,3.8,VA
+machine learning engineer,76,137,106.5,3.5,NJ
+analyst,69,144,106.5,3.0,IL
+analyst,77,136,106.5,3.8,DC
+data engineer,72,141,106.5,4.2,FL
+analyst,77,136,106.5,4.0,MI
+analyst,69,144,106.5,3.3,IL
+data scientist,81,132,106.5,3.5,MA
+data scientist,69,144,106.5,3.4,IL
+other,69,144,106.5,3.5,IL
+data engineer,69,144,106.5,5.0,IL
+data engineer,69,144,106.5,4.1,IL
+other,69,144,106.5,3.3,IL
+data engineer,69,144,106.5,3.7,IL
+other,69,144,106.5,3.4,IL
+data engineer,69,144,106.5,3.8,IL
+other,69,144,106.5,3.9,IL
+data scientist,69,144,106.5,4.6,IL
+data scientist,76,137,106.5,4.1,MI
+other,71,142,106.5,3.5,NJ
+other,69,144,106.5,3.2,IL
+data engineer,69,144,106.5,3.2,IL
+data engineer,69,144,106.5,3.9,IL
+analyst,69,144,106.5,4.5,IL
+data engineer,69,144,106.5,3.9,IL
+other,74,140,107.0,3.9,MA
+analyst,74,140,107.0,4.0,TX
+data scientist,84,130,107.0,4.0,OH
+other,78,136,107.0,3.7,NJ
+data scientist,82,132,107.0,3.9,CA
+data engineer,73,141,107.0,3.4,VA
+other,93,121,107.0,4.3,FL
+analyst,74,140,107.0,3.6,TX
+data engineer,74,140,107.0,4.5,TX
+data scientist,74,140,107.0,3.8,TX
+other,74,140,107.0,4.1,TX
+other,74,140,107.0,4.3,TX
+analyst,74,140,107.0,4.1,TX
+data engineer,74,140,107.0,4.0,TX
+data engineer,74,140,107.0,3.8,TX
+other,74,140,107.0,4.1,TX
+data engineer,74,140,107.0,3.4,TX
+other,74,140,107.0,3.6,TX
+analyst,74,140,107.0,3.7,TX
+analyst,74,140,107.0,3.3,TX
+data scientist,74,140,107.0,3.5,TX
+analyst,74,140,107.0,3.1,TX
+data engineer,74,140,107.0,3.2,TX
+analyst,74,140,107.0,3.9,TX
+analyst,74,140,107.0,4.5,TX
+data scientist,73,142,107.5,3.7,DC
+data engineer,96,119,107.5,4.4,NY
+machine learning engineer,96,119,107.5,4.7,NJ
+data scientist,96,119,107.5,2.8,NY
+data scientist,96,119,107.5,3.7,NY
+data scientist,96,119,107.5,3.7,NY
+data scientist,96,119,107.5,3.7,NY
+data scientist,96,119,107.5,4.4,NY
+data scientist,96,119,107.5,3.4,NY
+data scientist,84,131,107.5,4.0,OH
+data scientist,77,138,107.5,4.4,MA
+other,88,127,107.5,4.2,OH
+data scientist,96,119,107.5,3.7,NJ
+data scientist,96,119,107.5,4.8,NY
+data scientist,78,137,107.5,4.2,NJ
+data scientist,96,119,107.5,3.4,NY
+data scientist,96,119,107.5,3.9,NY
+data scientist,96,119,107.5,3.6,NJ
+other,81,134,107.5,4.1,MA
+manager,96,119,107.5,4.9,NY
+analyst,96,119,107.5,3.4,NY
+data scientist,96,119,107.5,3.8,NY
+analyst,96,119,107.5,3.2,NY
+data scientist,96,119,107.5,4.0,NJ
+data scientist,96,119,107.5,3.9,NY
+data engineer,96,119,107.5,4.9,NY
+data scientist,78,137,107.5,4.2,FL
+data scientist,77,139,108.0,3.3,MA
+data scientist,87,129,108.0,4.2,VA
+data scientist,105,111,108.0,3.9,FL
+data scientist,80,136,108.0,4.0,CA
+other,78,138,108.0,3.9,MI
+machine learning engineer,80,136,108.0,4.5,DC
+data scientist,74,142,108.0,4.2,NJ
+data scientist,75,141,108.0,3.9,FL
+data scientist,103,113,108.0,4.0,NJ
+data scientist,75,142,108.5,4.2,DC
+data scientist,78,139,108.5,3.4,CA
+data scientist,78,139,108.5,3.4,CA
+data scientist,75,142,108.5,4.2,VA
+other,81,136,108.5,3.7,NJ
+data scientist,75,142,108.5,3.8,DC
+data scientist,77,140,108.5,3.6,MD
+data engineer,74,143,108.5,3.5,VA
+data scientist,75,142,108.5,4.0,MI
+data scientist,106,111,108.5,3.8,NJ
+data scientist,79,138,108.5,4.2,OH
+data engineer,74,143,108.5,3.5,VA
+analyst,74,144,109.0,2.6,TX
+other,74,144,109.0,3.8,TX
+analyst,74,144,109.0,5.0,TX
+data engineer,74,144,109.0,3.3,TX
+other,74,144,109.0,4.3,TX
+data engineer,74,144,109.0,4.0,TX
+data scientist,74,144,109.0,3.7,TX
+data engineer,75,143,109.0,5.0,CA
+other,74,144,109.0,3.5,TX
+other,74,144,109.0,3.7,TX
+data engineer,74,144,109.0,4.7,TX
+data scientist,74,144,109.0,3.3,TX
+machine learning engineer,74,144,109.0,3.7,TX
+analyst,74,144,109.0,2.8,TX
+data engineer,74,144,109.0,5.0,TX
+other,75,143,109.0,3.6,CA
+analyst,74,144,109.0,2.6,TX
+analyst,74,144,109.0,3.9,TX
+data engineer,74,144,109.0,4.2,TX
+data engineer,74,144,109.0,4.2,TX
+data engineer,74,144,109.0,4.6,TX
+data engineer,74,144,109.0,3.3,TX
+other,74,144,109.0,3.4,TX
+other,74,144,109.0,4.1,TX
+analyst,74,144,109.0,3.7,TX
+analyst,75,143,109.0,3.1,CA
+data scientist,84,134,109.0,4.0,FL
+data engineer,75,143,109.0,3.7,CA
+data engineer,75,143,109.0,3.7,CA
+data scientist,76,142,109.0,3.8,DC
+other,72,146,109.0,3.5,MA
+data scientist,77,141,109.0,4.6,CA
+data scientist,83,135,109.0,3.8,OH
+data scientist,76,142,109.0,3.6,VA
+analyst,75,143,109.0,3.7,CA
+analyst,75,143,109.0,3.1,CA
+other,75,143,109.0,4.0,CA
+other,75,143,109.0,3.9,CA
+analyst,75,143,109.0,4.0,CA
+data scientist,75,143,109.0,3.6,CA
+data scientist,84,134,109.0,4.0,CA
+other,75,144,109.5,4.1,NJ
+data scientist,81,138,109.5,4.3,NJ
+data scientist,76,143,109.5,4.2,DC
+machine learning engineer,76,143,109.5,4.1,NJ
+data scientist,75,144,109.5,4.5,DC
+other,75,144,109.5,4.1,NJ
+data scientist,74,146,110.0,3.4,CA
+data engineer,80,140,110.0,3.5,MA
+data scientist,102,118,110.0,3.3,FL
+data scientist,80,140,110.0,4.1,DC
+other,77,143,110.0,3.0,CA
+data scientist,84,136,110.0,4.2,CA
+data scientist,81,139,110.0,3.5,AZ
+manager,80,140,110.0,4.1,MA
+data scientist,101,119,110.0,3.2,CA
+data scientist,80,141,110.5,4.1,MA
+other,73,148,110.5,3.9,MA
+data scientist,90,131,110.5,3.3,CA
+other,65,156,110.5,3.4,CA
+other,76,145,110.5,4.4,CA
+data scientist,79,142,110.5,3.8,OH
+data scientist,81,140,110.5,3.8,OH
+data scientist,83,138,110.5,3.7,IL
+data engineer,75,147,111.0,3.8,DC
+data scientist,80,142,111.0,4.0,FL
+data scientist,80,142,111.0,4.0,FL
+data scientist,76,146,111.0,3.8,OH
+data scientist,82,140,111.0,3.6,NJ
+data scientist,80,142,111.0,4.2,NJ
+data scientist,82,140,111.0,3.6,MI
+data scientist,76,146,111.0,3.7,OH
+machine learning engineer,74,148,111.0,4.8,CA
+data scientist,83,139,111.0,3.6,MA
+analyst,82,141,111.5,4.1,NY
+machine learning engineer,82,141,111.5,3.7,NY
+data scientist,102,121,111.5,4.1,NY
+data engineer,72,151,111.5,3.8,NJ
+data scientist,102,121,111.5,4.4,NY
+other,102,121,111.5,4.4,NY
+data scientist,102,121,111.5,2.5,NY
+data scientist,102,121,111.5,3.3,NY
+data scientist,102,121,111.5,2.7,NY
+data scientist,102,121,111.5,3.5,NY
+other,82,141,111.5,4.5,NY
+data scientist,102,121,111.5,3.4,NY
+data scientist,102,121,111.5,4.0,NY
+data scientist,102,121,111.5,4.9,NY
+analyst,102,121,111.5,4.0,NY
+other,82,141,111.5,4.8,NY
+other,76,147,111.5,3.5,IL
+other,76,147,111.5,3.7,IL
+researcher,82,141,111.5,3.9,NY
+data scientist,76,147,111.5,3.9,IL
+researcher,82,141,111.5,3.9,NY
+analyst,76,147,111.5,3.5,IL
+data scientist,102,121,111.5,3.4,NY
+analyst,76,147,111.5,4.1,IL
+data engineer,82,141,111.5,3.9,NY
+analyst,76,147,111.5,2.7,IL
+data scientist,76,147,111.5,5.0,IL
+analyst,76,147,111.5,3.7,IL
+machine learning engineer,76,147,111.5,2.7,IL
+analyst,76,147,111.5,3.9,IL
+data scientist,76,147,111.5,4.2,IL
+data engineer,76,147,111.5,4.1,IL
+data scientist,78,145,111.5,3.4,CA
+data engineer,76,147,111.5,3.7,IL
+analyst,76,147,111.5,4.0,IL
+analyst,76,147,111.5,3.7,IL
+analyst,76,147,111.5,4.5,IL
+data scientist,76,147,111.5,3.3,IL
+data engineer,76,147,111.5,4.0,IL
+data scientist,82,141,111.5,3.2,NY
+other,82,141,111.5,4.4,NY
+data scientist,102,121,111.5,3.8,NY
+data scientist,102,121,111.5,3.9,NY
+data scientist,102,121,111.5,4.5,NY
+researcher,76,147,111.5,4.1,IL
+machine learning engineer,76,147,111.5,4.1,IL
+analyst,102,121,111.5,4.4,NY
+data scientist,102,121,111.5,3.6,NY
+data scientist,102,121,111.5,3.7,NJ
+data scientist,72,151,111.5,3.2,MA
+analyst,76,147,111.5,4.5,IL
+machine learning engineer,82,141,111.5,4.1,NY
+data scientist,75,148,111.5,4.3,CA
+data scientist,82,141,111.5,3.8,NY
+data scientist,102,121,111.5,3.6,NY
+data scientist,86,137,111.5,3.8,MI
+data scientist,102,121,111.5,4.8,NY
+data scientist,82,141,111.5,3.3,NY
+data engineer,82,141,111.5,3.5,MD
+data scientist,102,121,111.5,4.2,NY
+data scientist,78,145,111.5,4.3,CA
+data scientist,82,141,111.5,3.8,NY
+analyst,82,141,111.5,3.6,NY
+data engineer,102,121,111.5,4.7,NY
+analyst,82,141,111.5,4.8,NY
+data engineer,82,141,111.5,3.6,NY
+other,82,141,111.5,4.1,NY
+data engineer,82,141,111.5,3.5,MD
+data scientist,79,144,111.5,3.9,VA
+analyst,82,141,111.5,4.4,NY
+data scientist,78,145,111.5,3.4,CA
+data scientist,82,141,111.5,3.6,NY
+analyst,82,141,111.5,3.3,NY
+data scientist,82,141,111.5,3.6,NY
+analyst,76,147,111.5,2.9,IL
+other,78,146,112.0,3.9,MA
+data scientist,77,147,112.0,3.8,VA
+data engineer,76,148,112.0,4.8,MA
+other,70,154,112.0,3.7,PA
+data scientist,94,130,112.0,4.7,CA
+data engineer,74,150,112.0,4.0,DC
+data scientist,81,143,112.0,4.3,MD
+other,70,154,112.0,3.9,PA
+researcher,70,154,112.0,4.6,PA
+other,70,154,112.0,3.9,PA
+other,70,154,112.0,4.0,PA
+other,70,154,112.0,4.0,PA
+other,70,154,112.0,4.0,PA
+data scientist,82,142,112.0,3.8,FL
+data scientist,81,143,112.0,4.2,DC
+other,70,154,112.0,3.4,NJ
+other,75,149,112.0,4.1,CA
+other,75,149,112.0,3.7,CA
+other,75,149,112.0,3.6,CA
+other,75,149,112.0,5.0,CA
+data engineer,94,130,112.0,4.1,CA
+other,75,149,112.0,4.1,CA
+other,75,149,112.0,2.9,CA
+other,75,149,112.0,4.2,CA
+other,75,149,112.0,4.3,CA
+other,75,149,112.0,3.8,CA
+other,74,150,112.0,3.8,MD
+data scientist,82,142,112.0,4.0,NJ
+data scientist,93,131,112.0,4.6,NJ
+data scientist,104,121,112.5,3.9,CA
+data scientist,78,147,112.5,4.9,MA
+other,69,156,112.5,3.5,VA
+data scientist,77,148,112.5,3.9,FL
+data scientist,77,148,112.5,3.8,VA
+data scientist,81,144,112.5,4.1,VA
+data scientist,78,147,112.5,4.0,NJ
+data scientist,86,139,112.5,4.0,CA
+data scientist,82,143,112.5,3.9,MA
+data scientist,85,140,112.5,3.9,MI
+data scientist,77,148,112.5,3.8,FL
+data scientist,82,144,113.0,4.0,CA
+data scientist,83,143,113.0,4.9,VA
+data scientist,88,138,113.0,3.7,MA
+data scientist,78,148,113.0,2.8,CA
+data scientist,79,148,113.5,3.9,DC
+data scientist,79,148,113.5,3.9,VA
+data scientist,79,148,113.5,3.9,DC
+other,74,153,113.5,3.9,MA
+data scientist,79,148,113.5,3.9,VA
+data scientist,87,140,113.5,4.3,CA
+data scientist,81,146,113.5,4.0,CA
+data scientist,80,147,113.5,3.6,OH
+data scientist,73,154,113.5,4.1,NJ
+data scientist,86,141,113.5,4.4,FL
+data scientist,83,144,113.5,3.7,CA
+data scientist,86,141,113.5,4.4,FL
+data scientist,86,141,113.5,4.4,FL
+manager,73,154,113.5,4.0,VA
+data scientist,85,143,114.0,4.0,MA
+data scientist,85,143,114.0,3.8,MI
+data scientist,80,148,114.0,3.9,VA
+data engineer,88,140,114.0,2.9,CA
+data scientist,83,145,114.0,3.8,DC
+data scientist,85,143,114.0,3.8,MA
+data engineer,88,140,114.0,3.5,CA
+other,88,140,114.0,3.3,CA
+data scientist,80,148,114.0,3.9,VA
+data engineer,88,140,114.0,4.6,CA
+other,88,140,114.0,4.3,CA
+analyst,88,140,114.0,3.6,CA
+other,88,140,114.0,3.8,CA
+data engineer,83,145,114.0,3.9,CA
+other,76,152,114.0,3.8,MD
+data engineer,88,140,114.0,3.5,CA
+data engineer,88,140,114.0,3.8,CA
+machine learning engineer,76,152,114.0,3.8,MD
+other,88,140,114.0,3.5,CA
+deep learning engineer,88,140,114.0,3.4,CA
+analyst,88,140,114.0,3.4,CA
+analyst,88,140,114.0,3.4,CA
+data scientist,80,148,114.0,3.4,CA
+data scientist,85,143,114.0,3.8,OH
+other,88,140,114.0,3.2,CA
+data scientist,84,144,114.0,3.7,MA
+data scientist,82,146,114.0,4.3,OH
+data scientist,88,140,114.0,4.0,CA
+data scientist,88,140,114.0,4.1,CA
+other,88,140,114.0,3.7,CA
+other,88,140,114.0,2.9,CA
+other,88,140,114.0,4.3,CA
+data scientist,84,144,114.0,3.8,VA
+data scientist,84,145,114.5,3.2,MA
+data scientist,83,146,114.5,3.5,MA
+other,82,147,114.5,4.1,MA
+other,86,143,114.5,3.8,OH
+data scientist,87,142,114.5,3.4,MA
+data scientist,87,142,114.5,4.5,MA
+data scientist,75,154,114.5,3.3,DC
+data scientist,74,155,114.5,4.5,NJ
+data scientist,83,147,115.0,3.9,VA
+data scientist,84,146,115.0,4.0,FL
+data scientist,79,152,115.5,3.9,OH
+analyst,77,154,115.5,4.2,NJ
+data scientist,81,150,115.5,3.1,MA
+data scientist,83,148,115.5,4.3,DC
+data scientist,85,146,115.5,3.7,MA
+data scientist,80,151,115.5,3.9,DC
+data scientist,79,152,115.5,3.9,OH
+data scientist,78,153,115.5,4.6,MA
+data scientist,84,148,116.0,4.2,MD
+other,76,156,116.0,3.3,MA
+data engineer,85,147,116.0,4.0,TX
+data engineer,85,147,116.0,4.0,TX
+analyst,106,126,116.0,4.8,CA
+analyst,85,147,116.0,3.4,TX
+data scientist,89,143,116.0,3.7,CA
+analyst,85,147,116.0,3.7,TX
+data engineer,85,147,116.0,3.3,TX
+data scientist,86,146,116.0,3.9,NJ
+other,85,147,116.0,2.8,TX
+data scientist,82,150,116.0,4.0,NJ
+data engineer,85,147,116.0,3.8,TX
+data scientist,111,121,116.0,4.3,OH
+data scientist,88,145,116.5,3.8,DC
+data scientist,85,149,117.0,4.2,VA
+data scientist,85,149,117.0,4.5,DC
+data scientist,90,145,117.5,3.3,FL
+data scientist,90,145,117.5,3.3,MA
+data scientist,105,130,117.5,4.9,DC
+data scientist,84,151,117.5,3.8,FL
+data scientist,91,144,117.5,3.1,MD
+data scientist,80,155,117.5,4.2,DC
+data scientist,90,145,117.5,3.8,MI
+analyst,92,144,118.0,2.8,AZ
+other,92,144,118.0,3.9,AZ
+data engineer,92,144,118.0,3.3,AZ
+analyst,92,144,118.0,3.1,AZ
+analyst,92,144,118.0,4.5,AZ
+data engineer,92,144,118.0,3.2,AZ
+data engineer,92,144,118.0,4.8,AZ
+data scientist,92,144,118.0,2.9,AZ
+data engineer,92,144,118.0,3.9,AZ
+analyst,92,144,118.0,4.5,AZ
+analyst,92,144,118.0,2.5,AZ
+data scientist,92,144,118.0,4.3,AZ
+manager,92,144,118.0,3.2,AZ
+data engineer,92,144,118.0,5.0,AZ
+other,92,144,118.0,3.6,AZ
+other,92,144,118.0,3.5,AZ
+other,92,144,118.0,3.8,AZ
+data scientist,92,144,118.0,4.2,AZ
+analyst,92,144,118.0,4.0,AZ
+data scientist,92,144,118.0,4.3,AZ
+other,92,144,118.0,3.9,AZ
+data scientist,92,144,118.0,3.5,AZ
+data scientist,83,153,118.0,3.5,MA
+machine learning engineer,82,154,118.0,4.0,NJ
+other,73,163,118.0,3.5,NJ
+data scientist,85,151,118.0,3.9,CA
+manager,92,144,118.0,3.9,AZ
+data scientist,85,151,118.0,3.7,NJ
+data engineer,79,157,118.0,3.2,NJ
+data engineer,79,157,118.0,3.2,NJ
+data scientist,103,133,118.0,4.0,NJ
+data scientist,83,153,118.0,4.2,DC
+data scientist,88,148,118.0,4.1,CA
+data scientist,83,154,118.5,4.7,TX
+data scientist,98,139,118.5,4.0,CA
+other,83,154,118.5,3.7,TX
+analyst,83,154,118.5,3.3,TX
+other,83,154,118.5,3.4,TX
+other,83,154,118.5,3.8,TX
+other,83,154,118.5,4.1,TX
+analyst,83,154,118.5,3.6,TX
+data scientist,80,157,118.5,5.0,VA
+other,83,154,118.5,3.5,TX
+other,83,154,118.5,4.1,TX
+data engineer,83,154,118.5,4.3,TX
+data engineer,88,149,118.5,2.8,MA
+analyst,83,154,118.5,4.1,TX
+data scientist,91,146,118.5,4.1,VA
+other,83,154,118.5,4.2,TX
+data scientist,114,123,118.5,3.8,OH
+other,83,154,118.5,3.4,TX
+other,83,154,118.5,4.1,TX
+other,83,154,118.5,4.1,TX
+data scientist,105,132,118.5,4.4,MA
+analyst,83,154,118.5,4.0,TX
+analyst,83,154,118.5,4.1,TX
+other,83,154,118.5,3.4,TX
+data scientist,89,148,118.5,4.2,MA
+data engineer,116,121,118.5,3.3,NJ
+data engineer,79,158,118.5,3.9,VA
+data engineer,83,154,118.5,3.2,TX
+data scientist,111,126,118.5,4.0,MA
+data engineer,83,154,118.5,4.2,TX
+analyst,83,154,118.5,3.5,TX
+data scientist,84,153,118.5,4.0,CA
+other,77,161,119.0,4.1,OH
+data scientist,86,152,119.0,3.4,OH
+data scientist,87,151,119.0,4.3,MI
+data scientist,83,155,119.0,3.5,OH
+data scientist,84,154,119.0,3.9,FL
+data scientist,84,154,119.0,3.2,MA
+data scientist,89,149,119.0,4.8,MA
+data scientist,87,152,119.5,4.2,CA
+data engineer,94,145,119.5,3.8,MA
+data scientist,85,154,119.5,3.7,FL
+other,87,152,119.5,3.8,FL
+data scientist,77,162,119.5,4.3,VA
+data scientist,92,147,119.5,3.7,FL
+data scientist,80,159,119.5,3.6,CA
+data scientist,80,159,119.5,5.0,MA
+data scientist,90,149,119.5,4.2,CA
+data engineer,84,156,120.0,5.0,AZ
+analyst,84,156,120.0,4.1,AZ
+data engineer,84,156,120.0,3.5,AZ
+other,84,156,120.0,3.1,AZ
+analyst,84,156,120.0,3.4,AZ
+data engineer,84,156,120.0,3.8,AZ
+analyst,84,156,120.0,4.1,AZ
+data engineer,84,156,120.0,5.0,AZ
+data scientist,83,157,120.0,3.8,OH
+data engineer,84,156,120.0,4.0,AZ
+data engineer,84,156,120.0,3.5,AZ
+machine learning engineer,86,154,120.0,4.2,MA
+data engineer,84,156,120.0,3.2,AZ
+analyst,84,156,120.0,4.0,AZ
+data engineer,84,156,120.0,3.9,AZ
+data engineer,84,156,120.0,4.0,AZ
+data engineer,84,156,120.0,3.8,AZ
+data scientist,84,156,120.0,3.9,OH
+data engineer,84,156,120.0,4.2,AZ
+other,84,156,120.0,4.0,AZ
+data engineer,84,156,120.0,4.1,AZ
+analyst,84,156,120.0,4.3,AZ
+data scientist,89,151,120.0,3.8,OH
+data scientist,90,151,120.5,3.8,CA
+other,85,156,120.5,3.5,FL
+data scientist,87,154,120.5,5.0,CA
+data scientist,86,155,120.5,3.6,DC
+data scientist,86,155,120.5,3.9,VA
+data scientist,84,157,120.5,4.2,MA
+data scientist,86,155,120.5,3.9,VA
+data engineer,78,163,120.5,4.0,VA
+data scientist,81,160,120.5,3.7,NM
+data scientist,93,149,121.0,3.8,CA
+data engineer,93,149,121.0,3.8,CA
+data scientist,93,149,121.0,4.2,CA
+other,93,149,121.0,3.2,CA
+data scientist,93,149,121.0,4.1,CA
+data engineer,93,149,121.0,3.3,CA
+data scientist,93,149,121.0,3.6,CA
+other,93,149,121.0,3.5,CA
+data scientist,93,149,121.0,4.1,CA
+data scientist,93,149,121.0,3.8,CA
+data scientist,93,149,121.0,4.3,CA
+data scientist,93,149,121.0,3.8,CA
+machine learning engineer,93,149,121.0,3.8,CA
+data scientist,93,149,121.0,2.8,CA
+data scientist,93,149,121.0,4.5,CA
+machine learning engineer,93,149,121.0,4.3,CA
+data scientist,93,149,121.0,4.2,CA
+data scientist,85,157,121.0,4.3,CA
+data scientist,93,149,121.0,4.1,CA
+data scientist,93,149,121.0,4.7,CA
+data scientist,93,149,121.0,3.6,CA
+data engineer,93,149,121.0,3.9,CA
+data scientist,93,149,121.0,3.7,CA
+data scientist,93,149,121.0,4.5,CA
+data scientist,93,149,121.0,3.6,CA
+data scientist,93,149,121.0,3.9,CA
+other,93,149,121.0,3.3,CA
+data scientist,93,149,121.0,4.5,CA
+data scientist,94,149,121.5,3.3,CA
+other,82,161,121.5,3.5,MI
+other,76,167,121.5,3.5,MD
+data scientist,92,151,121.5,3.5,MA
+data scientist,91,152,121.5,4.3,FL
+data engineer,93,151,122.0,3.8,TX
+data scientist,93,151,122.0,3.7,TX
+data scientist,93,151,122.0,4.3,TX
+data scientist,83,161,122.0,4.3,NJ
+analyst,93,151,122.0,4.3,TX
+other,84,160,122.0,4.7,MD
+analyst,93,151,122.0,4.9,TX
+analyst,93,151,122.0,2.7,TX
+other,93,151,122.0,4.3,TX
+data scientist,93,151,122.0,4.3,TX
+analyst,93,151,122.0,2.8,TX
+data scientist,93,151,122.0,4.1,TX
+data engineer,93,151,122.0,4.5,TX
+data engineer,93,151,122.0,4.1,TX
+data engineer,93,151,122.0,4.1,TX
+data scientist,93,151,122.0,3.7,TX
+data scientist,93,151,122.0,3.7,TX
+data scientist,93,151,122.0,3.6,TX
+analyst,93,151,122.0,4.7,TX
+data scientist,93,151,122.0,4.1,TX
+other,93,151,122.0,3.3,TX
+data scientist,93,151,122.0,4.3,TX
+data engineer,85,159,122.0,3.4,TX
+data engineer,93,151,122.0,4.7,PA
+data scientist,93,151,122.0,4.1,TX
+data scientist,93,151,122.0,4.1,NJ
+analyst,85,159,122.0,3.6,TX
+other,84,160,122.0,4.7,MD
+data engineer,85,159,122.0,3.4,TX
+data scientist,85,159,122.0,3.9,TX
+data engineer,85,159,122.0,4.3,TX
+manager,85,159,122.0,2.4,TX
+machine learning engineer,85,159,122.0,3.2,TX
+machine learning engineer,85,159,122.0,4.1,TX
+data scientist,85,159,122.0,2.4,TX
+analyst,85,159,122.0,2.8,TX
+machine learning engineer,85,159,122.0,3.4,TX
+analyst,85,159,122.0,4.6,TX
+analyst,85,159,122.0,4.1,TX
+data scientist,85,159,122.0,4.2,TX
+data scientist,85,159,122.0,3.0,TX
+data engineer,85,159,122.0,3.4,TX
+other,85,159,122.0,5.0,TX
+data scientist,85,159,122.0,3.7,TX
+data scientist,87,157,122.0,4.1,VA
+analyst,85,159,122.0,3.3,TX
+analyst,85,159,122.0,3.6,TX
+analyst,85,159,122.0,4.2,TX
+data scientist,93,151,122.0,3.9,TX
+analyst,93,151,122.0,3.5,TX
+data scientist,93,151,122.0,4.0,DE
+analyst,93,151,122.0,4.6,PA
+data scientist,93,151,122.0,4.2,TX
+other,85,159,122.0,2.3,CA
+data engineer,85,159,122.0,4.1,TX
+analyst,93,151,122.0,4.7,PA
+data scientist,93,151,122.0,3.2,PA
+other,93,151,122.0,4.1,PA
+data engineer,93,151,122.0,3.1,PA
+data scientist,93,151,122.0,3.7,PA
+data scientist,85,159,122.0,4.2,VA
+data scientist,93,151,122.0,3.4,PA
+researcher,93,151,122.0,3.6,PA
+data scientist,93,151,122.0,4.2,PA
+machine learning engineer,93,151,122.0,4.4,PA
+data scientist,93,151,122.0,3.9,PA
+data scientist,93,151,122.0,3.1,PA
+data scientist,93,151,122.0,4.7,PA
+data scientist,93,151,122.0,4.5,NJ
+data scientist,93,151,122.0,4.2,PA
+data scientist,93,151,122.0,4.3,PA
+data scientist,93,151,122.0,3.5,NJ
+analyst,93,151,122.0,2.3,PA
+data scientist,93,151,122.0,3.7,PA
+data engineer,93,151,122.0,5.0,DE
+data scientist,93,151,122.0,2.9,PA
+data scientist,86,159,122.5,3.7,DC
+data scientist,89,156,122.5,3.8,CA
+other,85,160,122.5,3.8,CA
+other,85,160,122.5,3.8,CA
+data scientist,94,151,122.5,4.1,AZ
+data scientist,94,151,122.5,4.8,AZ
+data scientist,94,151,122.5,3.1,AZ
+data scientist,94,151,122.5,4.3,AZ
+other,94,151,122.5,4.6,AZ
+data scientist,93,152,122.5,4.2,MA
+data scientist,94,151,122.5,3.5,AZ
+data scientist,94,151,122.5,3.7,AZ
+data scientist,94,151,122.5,2.8,AZ
+data scientist,94,151,122.5,4.0,AZ
+data scientist,94,151,122.5,3.9,AZ
+data scientist,94,151,122.5,3.9,AZ
+data scientist,94,151,122.5,3.3,AZ
+data scientist,94,151,122.5,4.2,AZ
+analyst,94,151,122.5,3.7,AZ
+data scientist,94,151,122.5,4.9,AZ
+data scientist,94,151,122.5,4.0,AZ
+data scientist,94,151,122.5,4.2,AZ
+other,94,151,122.5,3.5,AZ
+analyst,94,151,122.5,4.4,AZ
+analyst,94,151,122.5,3.1,AZ
+data engineer,94,151,122.5,3.6,AZ
+data scientist,94,151,122.5,3.6,AZ
+data scientist,94,151,122.5,3.3,AZ
+data engineer,94,151,122.5,4.8,AZ
+machine learning engineer,94,151,122.5,3.8,AZ
+data scientist,94,151,122.5,4.4,AZ
+data engineer,85,160,122.5,4.1,NJ
+data scientist,83,163,123.0,4.8,CA
+data scientist,94,152,123.0,3.9,CA
+director,81,165,123.0,3.5,MI
+data scientist,90,156,123.0,3.5,NJ
+other,95,151,123.0,3.8,MI
+data scientist,84,162,123.0,3.8,VA
+data scientist,79,167,123.0,4.0,CA
+data scientist,95,151,123.0,4.2,MA
+data scientist,95,151,123.0,3.5,MA
+data scientist,114,132,123.0,4.2,CA
+other,69,178,123.5,3.3,MI
+data engineer,94,153,123.5,4.5,DC
+data scientist,87,160,123.5,3.8,CA
+data engineer,94,153,123.5,4.5,DC
+analyst,85,162,123.5,3.8,DC
+data scientist,89,158,123.5,3.3,FL
+data scientist,89,158,123.5,3.3,FL
+data scientist,95,153,124.0,4.3,CA
+other,83,165,124.0,4.6,CA
+other,83,165,124.0,3.2,CA
+other,83,165,124.0,3.8,CA
+data scientist,83,165,124.0,3.6,CA
+analyst,83,165,124.0,5.0,CA
+analyst,83,165,124.0,3.4,CA
+data engineer,83,165,124.0,3.8,CA
+other,83,165,124.0,3.5,CA
+analyst,83,165,124.0,4.0,CA
+data scientist,83,165,124.0,3.8,CA
+analyst,83,165,124.0,3.6,CA
+analyst,83,165,124.0,4.8,CA
+data scientist,89,159,124.0,3.4,CA
+other,83,165,124.0,3.7,CA
+data scientist,83,165,124.0,4.0,CA
+other,83,165,124.0,3.7,CA
+other,87,161,124.0,4.0,OH
+data scientist,93,155,124.0,3.9,OH
+other,83,165,124.0,4.0,CA
+data scientist,113,135,124.0,3.1,MA
+data scientist,93,155,124.0,4.2,CA
+data scientist,95,153,124.0,3.7,MA
+other,83,165,124.0,3.7,CA
+data scientist,96,152,124.0,4.5,VA
+analyst,83,165,124.0,3.3,CA
+other,83,165,124.0,3.5,CA
+data engineer,83,165,124.0,4.0,CA
+other,83,165,124.0,5.0,CA
+other,83,165,124.0,3.4,CA
+data scientist,83,165,124.0,4.1,CA
+other,83,165,124.0,1.5,CA
+data scientist,110,139,124.5,3.7,NY
+analyst,110,139,124.5,4.4,NY
+machine learning engineer,94,155,124.5,4.1,MA
+data scientist,110,139,124.5,4.1,NY
+data scientist,110,139,124.5,3.7,NY
+director,110,139,124.5,4.0,NY
+other,110,139,124.5,3.6,NY
+data engineer,110,139,124.5,4.4,NY
+data engineer,110,139,124.5,3.9,NY
+data scientist,110,139,124.5,3.8,NY
+data scientist,110,139,124.5,3.2,NY
+data engineer,110,139,124.5,4.1,NY
+machine learning engineer,110,139,124.5,3.9,NY
+analyst,110,139,124.5,4.9,NY
+machine learning engineer,110,139,124.5,3.5,NY
+data scientist,94,155,124.5,3.1,CA
+data scientist,98,152,125.0,3.6,TX
+other,98,152,125.0,4.1,TX
+data scientist,96,154,125.0,4.3,DC
+data scientist,89,161,125.0,4.3,DC
+data scientist,98,152,125.0,4.1,TX
+data scientist,103,147,125.0,4.1,CA
+data scientist,98,152,125.0,3.9,TX
+analyst,98,152,125.0,3.6,TX
+analyst,98,152,125.0,3.9,TX
+data scientist,98,152,125.0,4.2,TX
+data scientist,98,152,125.0,3.5,TX
+data scientist,98,152,125.0,3.6,TX
+data scientist,98,152,125.0,4.4,TX
+other,98,152,125.0,4.1,TX
+data scientist,98,152,125.0,4.5,TX
+data scientist,98,152,125.0,3.8,TX
+data engineer,98,152,125.0,3.1,TX
+data scientist,98,152,125.0,3.5,TX
+other,98,152,125.0,2.9,TX
+other,98,152,125.0,3.6,TX
+data scientist,98,152,125.0,5.0,TX
+data scientist,98,152,125.0,3.7,TX
+other,98,152,125.0,4.1,TX
+data scientist,98,152,125.0,3.6,TX
+other,98,152,125.0,4.1,TX
+other,98,152,125.0,4.1,TX
+data scientist,98,152,125.0,3.2,TX
+analyst,96,155,125.5,3.3,TX
+data engineer,92,159,125.5,3.4,VA
+data scientist,96,155,125.5,4.2,TX
+analyst,96,155,125.5,3.8,TX
+other,96,155,125.5,3.3,TX
+data scientist,96,155,125.5,3.3,TX
+data scientist,96,155,125.5,3.5,TX
+data scientist,96,155,125.5,3.0,TX
+data scientist,96,155,125.5,3.8,TX
+data scientist,96,155,125.5,3.0,TX
+other,89,162,125.5,4.0,MI
+data scientist,92,159,125.5,4.0,NJ
+data scientist,92,159,125.5,4.1,MA
+data scientist,94,157,125.5,3.8,MA
+data scientist,84,168,126.0,3.8,DC
+other,75,177,126.0,3.5,MD
+data scientist,89,163,126.0,4.2,MI
+other,100,152,126.0,4.3,TX
+analyst,100,152,126.0,5.0,TX
+machine learning engineer,100,152,126.0,3.6,TX
+analyst,100,152,126.0,3.8,TX
+analyst,100,152,126.0,4.5,TX
+data engineer,100,152,126.0,4.7,TX
+analyst,100,152,126.0,3.9,TX
+data scientist,100,152,126.0,3.4,TX
+data scientist,92,160,126.0,3.9,MA
+data scientist,97,155,126.0,4.3,DC
+other,100,152,126.0,3.7,TX
+data scientist,100,152,126.0,3.9,TX
+data engineer,100,152,126.0,3.2,TX
+data scientist,100,152,126.0,3.9,TX
+other,100,152,126.0,4.3,TX
+other,100,152,126.0,4.2,TX
+data engineer,100,152,126.0,3.2,TX
+analyst,100,152,126.0,2.6,TX
+data scientist,92,160,126.0,4.5,CA
+analyst,100,152,126.0,3.8,TX
+machine learning engineer,100,152,126.0,4.1,TX
+analyst,100,152,126.0,4.7,TX
+data engineer,100,152,126.0,3.5,TX
+analyst,100,152,126.0,3.5,TX
+data engineer,100,152,126.0,3.5,TX
+data engineer,100,152,126.0,2.9,TX
+machine learning engineer,100,152,126.0,4.1,TX
+data engineer,100,152,126.0,2.9,TX
+other,84,168,126.0,4.2,MA
+data scientist,108,144,126.0,4.3,NJ
+data scientist,93,159,126.0,3.8,MA
+data scientist,97,155,126.0,3.5,CA
+data scientist,97,155,126.0,4.0,NJ
+data scientist,93,159,126.0,3.8,MA
+data scientist,89,164,126.5,4.5,NJ
+data scientist,92,161,126.5,4.1,NJ
+data scientist,83,170,126.5,4.0,VA
+data engineer,91,162,126.5,3.5,VA
+data scientist,113,140,126.5,4.3,CA
+data scientist,115,138,126.5,3.1,MA
+data engineer,91,162,126.5,3.5,VA
+data engineer,88,166,127.0,3.5,MD
+data scientist,87,167,127.0,3.5,VA
+data scientist,92,162,127.0,3.8,OH
+data scientist,89,166,127.5,4.8,VA
+data scientist,117,138,127.5,4.0,CA
+data engineer,93,162,127.5,3.5,DC
+other,89,166,127.5,4.0,NJ
+data scientist,97,159,128.0,3.6,AZ
+analyst,97,159,128.0,4.6,AZ
+data scientist,97,159,128.0,3.7,AZ
+data scientist,97,159,128.0,3.6,AZ
+data scientist,97,159,128.0,4.1,AZ
+analyst,97,159,128.0,3.9,AZ
+analyst,97,159,128.0,3.1,AZ
+analyst,97,159,128.0,3.2,AZ
+data engineer,97,159,128.0,3.1,AZ
+analyst,97,159,128.0,3.6,AZ
+analyst,97,159,128.0,3.5,AZ
+analyst,97,159,128.0,3.5,AZ
+other,97,159,128.0,4.0,AZ
+analyst,97,159,128.0,4.9,AZ
+other,97,159,128.0,4.8,AZ
+analyst,97,159,128.0,4.1,AZ
+data scientist,110,146,128.0,4.3,DC
+data scientist,98,158,128.0,3.4,OH
+other,97,159,128.0,3.5,AZ
+other,97,159,128.0,3.9,AZ
+analyst,97,159,128.0,4.6,AZ
+data scientist,97,159,128.0,3.6,AZ
+data scientist,97,159,128.0,3.2,AZ
+analyst,97,159,128.0,3.9,AZ
+data scientist,97,159,128.0,3.2,AZ
+data scientist,97,159,128.0,3.7,AZ
+data scientist,97,159,128.0,3.4,AZ
+data scientist,97,159,128.0,3.1,AZ
+data scientist,97,159,128.0,3.8,AZ
+other,97,159,128.0,3.6,AZ
+data scientist,97,159,128.0,4.0,AZ
+data scientist,93,164,128.5,4.3,VA
+data scientist,96,161,128.5,4.8,CA
+data scientist,98,159,128.5,4.1,DC
+data scientist,97,160,128.5,4.5,VA
+data scientist,95,162,128.5,3.9,VA
+other,91,166,128.5,3.8,MA
+other,87,170,128.5,4.0,NJ
+manager,98,160,129.0,3.9,OH
+data engineer,114,144,129.0,4.5,TX
+other,114,144,129.0,2.7,TX
+analyst,114,144,129.0,3.6,TX
+data scientist,114,144,129.0,3.6,TX
+data scientist,91,167,129.0,3.2,MA
+data scientist,98,160,129.0,3.8,DC
+data engineer,114,144,129.0,3.9,TX
+data scientist,98,160,129.0,3.7,OH
+data scientist,98,160,129.0,4.2,OH
+analyst,98,160,129.0,5.0,OH
+other,98,160,129.0,3.6,OH
+other,98,160,129.0,3.6,OH
+analyst,98,160,129.0,3.9,OH
+analyst,114,144,129.0,3.2,TX
+data scientist,98,160,129.0,3.7,OH
+other,98,160,129.0,3.7,OH
+data scientist,98,160,129.0,4.2,OH
+other,98,160,129.0,3.1,OH
+analyst,98,160,129.0,3.5,OH
+data scientist,98,160,129.0,3.9,OH
+analyst,98,160,129.0,4.2,OH
+other,114,144,129.0,4.1,TX
+data scientist,98,160,129.0,3.6,OH
+analyst,98,160,129.0,2.9,OH
+data scientist,98,160,129.0,3.9,OH
+other,114,144,129.0,4.1,TX
+analyst,114,144,129.0,3.6,TX
+analyst,114,144,129.0,3.8,TX
+machine learning engineer,98,160,129.0,4.5,OH
+other,114,144,129.0,3.9,TX
+data engineer,114,144,129.0,3.7,TX
+data scientist,98,160,129.0,4.2,OH
+manager,114,144,129.0,3.6,TX
+data scientist,91,167,129.0,3.8,NJ
+other,114,144,129.0,3.0,TX
+other,98,160,129.0,3.1,OH
+other,114,144,129.0,4.4,TX
+data engineer,114,144,129.0,3.5,TX
+other,114,144,129.0,3.6,TX
+analyst,114,144,129.0,3.8,TX
+other,114,144,129.0,3.3,TX
+data scientist,98,160,129.0,4.2,OH
+data scientist,90,168,129.0,3.5,VA
+data scientist,98,160,129.0,3.1,OH
+analyst,114,144,129.0,2.8,TX
+data engineer,98,160,129.0,3.8,OH
+data scientist,99,160,129.5,3.8,CA
+other,101,158,129.5,4.4,CA
+data scientist,96,163,129.5,5.0,MA
+data scientist,97,162,129.5,4.0,MA
+data scientist,97,162,129.5,4.0,MA
+data scientist,100,159,129.5,4.0,MA
+data scientist,120,140,130.0,4.3,NY
+data scientist,120,140,130.0,3.7,NY
+data scientist,120,140,130.0,4.3,NY
+data scientist,120,140,130.0,3.9,NY
+data scientist,120,140,130.0,3.0,NY
+data scientist,120,140,130.0,3.7,NY
+data scientist,120,140,130.0,3.6,NY
+analyst,120,140,130.0,3.4,NY
+data engineer,90,170,130.0,3.5,MI
+data scientist,120,140,130.0,3.4,NY
+analyst,120,140,130.0,3.6,NY
+data scientist,120,140,130.0,4.2,NY
+data scientist,120,140,130.0,4.6,NY
+data scientist,120,140,130.0,3.3,NY
+analyst,120,140,130.0,4.1,NY
+other,120,140,130.0,4.3,NY
+data scientist,120,140,130.0,4.5,NY
+data scientist,120,140,130.0,3.9,NY
+data scientist,120,140,130.0,4.2,NY
+data scientist,120,140,130.0,3.5,NY
+data scientist,114,146,130.0,3.8,CA
+analyst,120,140,130.0,3.9,NY
+data scientist,114,146,130.0,4.1,CA
+other,114,146,130.0,2.4,CA
+data scientist,114,146,130.0,4.7,CA
+other,114,146,130.0,4.1,CA
+analyst,114,146,130.0,3.4,CA
+other,114,146,130.0,3.9,CA
+data scientist,114,146,130.0,2.9,CA
+data scientist,114,146,130.0,3.8,CA
+data scientist,114,146,130.0,4.1,CA
+other,97,163,130.0,4.1,MA
+other,114,146,130.0,3.2,CA
+data scientist,114,146,130.0,2.8,CA
+data scientist,114,146,130.0,4.6,CA
+data scientist,120,140,130.0,3.9,NY
+data scientist,120,140,130.0,3.8,NJ
+data scientist,114,146,130.0,3.5,CA
+other,114,146,130.0,3.0,CA
+data scientist,114,146,130.0,3.5,CA
+data scientist,114,146,130.0,4.5,CA
+data scientist,114,146,130.0,4.2,CA
+data scientist,114,146,130.0,2.8,CA
+data engineer,114,146,130.0,4.5,CA
+other,114,146,130.0,3.9,CA
+data scientist,114,146,130.0,3.8,CA
+other,114,146,130.0,3.7,CA
+data scientist,95,165,130.0,3.7,MA
+data scientist,114,146,130.0,3.3,CA
+data scientist,91,169,130.0,4.0,FL
+data scientist,120,140,130.0,3.2,NY
+data scientist,120,140,130.0,3.9,NY
+other,114,146,130.0,3.6,CA
+data engineer,98,162,130.0,3.8,MA
+data scientist,100,160,130.0,4.7,MD
+data scientist,94,166,130.0,3.2,PA
+data engineer,90,170,130.0,3.5,MI
+data scientist,100,160,130.0,4.7,MD
+data engineer,94,166,130.0,3.3,PA
+analyst,94,166,130.0,5.0,PA
+other,94,166,130.0,3.2,PA
+other,94,166,130.0,3.8,PA
+data engineer,94,166,130.0,3.8,PA
+analyst,94,166,130.0,4.0,PA
+analyst,94,166,130.0,2.8,PA
+data engineer,94,166,130.0,4.6,PA
+other,94,166,130.0,3.6,PA
+analyst,94,166,130.0,4.4,PA
+director,94,166,130.0,3.6,PA
+data engineer,94,166,130.0,3.9,PA
+data engineer,94,166,130.0,2.9,PA
+data engineer,94,166,130.0,3.9,PA
+other,94,166,130.0,3.2,PA
+data engineer,94,166,130.0,3.9,PA
+data scientist,94,166,130.0,3.1,PA
+other,94,166,130.0,4.3,PA
+analyst,94,166,130.0,3.6,PA
+other,94,166,130.0,4.0,PA
+data engineer,94,166,130.0,4.6,PA
+data scientist,94,166,130.0,3.2,PA
+data scientist,89,172,130.5,3.9,NJ
+data scientist,92,169,130.5,4.0,CA
+data scientist,97,164,130.5,4.0,MA
+data scientist,92,169,130.5,4.0,OH
+data scientist,95,166,130.5,4.2,NJ
+data scientist,89,172,130.5,3.9,NJ
+data scientist,93,168,130.5,3.9,MD
+data scientist,103,158,130.5,4.0,MA
+data scientist,90,171,130.5,3.8,NJ
+data scientist,93,168,130.5,3.9,MD
+data engineer,100,161,130.5,3.8,MA
+data scientist,97,164,130.5,4.0,MA
+machine learning engineer,95,167,131.0,4.3,MI
+data scientist,86,176,131.0,4.0,VA
+other,100,163,131.5,3.1,OH
+data scientist,100,163,131.5,3.9,OH
+data scientist,100,163,131.5,4.8,OH
+data scientist,100,163,131.5,4.8,OH
+other,100,163,131.5,4.1,OH
+data scientist,100,163,131.5,3.9,OH
+data scientist,100,163,131.5,3.6,OH
+data scientist,100,163,131.5,3.1,OH
+data scientist,100,163,131.5,4.2,OH
+data scientist,100,163,131.5,4.2,OH
+data scientist,100,163,131.5,3.5,OH
+other,100,163,131.5,4.2,OH
+data scientist,100,163,131.5,3.3,OH
+analyst,100,163,131.5,3.5,OH
+data scientist,100,163,131.5,3.1,OH
+data scientist,100,163,131.5,4.9,OH
+data scientist,100,163,131.5,3.1,OH
+other,100,163,131.5,3.9,OH
+data scientist,100,163,131.5,3.8,OH
+data scientist,100,163,131.5,4.2,OH
+data scientist,100,163,131.5,3.1,OH
+data scientist,100,163,131.5,4.2,OH
+machine learning engineer,100,163,131.5,4.2,OH
+data scientist,100,163,131.5,4.2,OH
+data scientist,100,163,131.5,3.7,OH
+data scientist,100,163,131.5,3.1,OH
+data scientist,96,168,132.0,3.8,MA
+other,87,177,132.0,4.2,NJ
+analyst,86,178,132.0,2.8,CA
+other,92,172,132.0,4.0,MI
+data engineer,91,173,132.0,4.2,FL
+data scientist,86,178,132.0,4.3,CA
+other,86,178,132.0,4.0,CA
+analyst,86,178,132.0,2.5,CA
+other,86,178,132.0,2.4,CA
+manager,86,178,132.0,4.1,CA
+other,86,178,132.0,4.0,CA
+other,86,178,132.0,3.2,CA
+other,86,178,132.0,4.2,CA
+other,86,178,132.0,3.5,CA
+other,86,178,132.0,2.4,CA
+other,86,178,132.0,3.5,CA
+other,86,178,132.0,3.4,CA
+analyst,86,178,132.0,3.7,CA
+other,86,178,132.0,3.4,CA
+data scientist,93,172,132.5,4.9,MA
+other,90,175,132.5,3.7,TX
+other,90,175,132.5,4.1,TX
+data scientist,90,175,132.5,3.3,TX
+data scientist,90,175,132.5,3.8,TX
+data scientist,97,168,132.5,4.1,MA
+data scientist,90,175,132.5,3.7,TX
+analyst,90,175,132.5,4.1,TX
+data scientist,90,175,132.5,3.4,TX
+data scientist,90,175,132.5,4.2,TX
+data scientist,90,175,132.5,3.9,TX
+data scientist,90,175,132.5,2.2,TX
+data engineer,90,175,132.5,3.9,TX
+data scientist,90,175,132.5,3.3,TX
+data scientist,90,175,132.5,3.5,TX
+data scientist,90,175,132.5,3.4,TX
+data scientist,90,175,132.5,3.4,TX
+data engineer,90,175,132.5,3.2,TX
+data scientist,90,175,132.5,3.4,TX
+data scientist,98,167,132.5,3.9,CA
+data scientist,96,169,132.5,3.5,DC
+data scientist,90,175,132.5,3.6,NJ
+data engineer,90,175,132.5,3.3,TX
+data scientist,90,175,132.5,3.7,TX
+data scientist,93,172,132.5,4.0,MA
+data scientist,90,175,132.5,3.7,TX
+data scientist,90,175,132.5,2.9,TX
+data scientist,90,175,132.5,3.5,TX
+data scientist,93,172,132.5,4.2,CA
+data scientist,119,147,133.0,2.8,NY
+data engineer,119,147,133.0,4.4,NY
+data scientist,119,147,133.0,3.4,NY
+data scientist,102,164,133.0,4.5,CA
+data scientist,119,147,133.0,4.0,NY
+data scientist,119,147,133.0,3.5,NY
+analyst,102,164,133.0,3.9,CA
+data scientist,119,147,133.0,4.1,NY
+data scientist,119,147,133.0,3.6,NY
+data scientist,102,164,133.0,3.8,CA
+data scientist,119,147,133.0,4.6,NY
+analyst,119,147,133.0,3.6,NY
+other,119,147,133.0,4.7,NY
+data scientist,102,164,133.0,3.9,CA
+data scientist,119,147,133.0,4.0,NY
+data scientist,119,147,133.0,3.8,NY
+data scientist,102,164,133.0,3.5,CA
+data scientist,119,147,133.0,3.1,NY
+data engineer,119,147,133.0,3.7,NY
+data scientist,119,147,133.0,4.2,NY
+data scientist,102,164,133.0,3.6,CA
+data scientist,119,147,133.0,5.0,NY
+data engineer,98,168,133.0,4.7,CA
+data engineer,119,147,133.0,4.7,NY
+data scientist,119,147,133.0,3.6,NJ
+data engineer,119,147,133.0,3.4,NY
+data scientist,119,147,133.0,3.5,NY
+data scientist,119,147,133.0,4.0,NY
+data scientist,119,147,133.0,5.0,NY
+data scientist,119,147,133.0,3.9,NY
+analyst,119,147,133.0,3.5,NY
+other,119,147,133.0,3.2,NY
+data scientist,102,164,133.0,3.2,CA
+analyst,102,164,133.0,3.4,CA
+data scientist,96,170,133.0,3.5,MA
+data scientist,102,164,133.0,3.9,CA
+data scientist,102,164,133.0,3.8,CA
+analyst,102,164,133.0,4.0,CA
+data engineer,102,164,133.0,3.7,CA
+data scientist,102,164,133.0,3.9,CA
+data scientist,102,164,133.0,4.2,CA
+data scientist,96,170,133.0,3.5,MA
+data scientist,102,164,133.0,3.8,CA
+data scientist,102,164,133.0,4.6,CA
+data scientist,102,164,133.0,4.4,CA
+data scientist,91,175,133.0,3.9,MD
+data scientist,102,164,133.0,2.3,CA
+data scientist,102,164,133.0,2.9,CA
+data scientist,102,164,133.0,3.7,CA
+data scientist,102,164,133.0,3.6,CA
+data scientist,102,164,133.0,4.5,CA
+data engineer,94,172,133.0,3.8,CA
+analyst,102,164,133.0,3.1,CA
+data scientist,119,147,133.0,5.0,NY
+data scientist,103,163,133.0,3.7,CA
+data scientist,119,147,133.0,3.4,NY
+data scientist,102,164,133.0,4.2,CA
+data scientist,119,147,133.0,3.9,NJ
+data scientist,119,147,133.0,4.4,NY
+data scientist,102,164,133.0,3.9,CA
+data scientist,119,147,133.0,3.6,NY
+data scientist,119,147,133.0,3.0,NY
+manager,119,147,133.0,4.0,NY
+analyst,102,164,133.0,3.4,CA
+data scientist,97,169,133.0,4.0,CA
+data scientist,119,147,133.0,3.8,NY
+data scientist,119,147,133.0,3.9,NY
+data scientist,121,146,133.5,4.0,NJ
+data scientist,102,165,133.5,4.0,NJ
+data scientist,91,176,133.5,3.8,FL
+data scientist,102,165,133.5,3.8,MA
+data scientist,116,152,134.0,3.7,NY
+data scientist,116,152,134.0,3.9,NJ
+researcher,116,152,134.0,4.2,NY
+machine learning engineer,116,152,134.0,3.6,NY
+data scientist,116,152,134.0,3.9,NY
+data scientist,116,152,134.0,5.0,NY
+data scientist,116,152,134.0,3.9,NY
+data scientist,116,152,134.0,3.7,NY
+data scientist,102,166,134.0,3.1,MA
+data scientist,116,152,134.0,3.8,NY
+other,116,152,134.0,4.1,NY
+other,116,152,134.0,3.9,NY
+data scientist,94,174,134.0,4.1,NJ
+data scientist,116,152,134.0,4.4,NY
+data scientist,116,152,134.0,4.3,NY
+machine learning engineer,116,152,134.0,3.8,NY
+data scientist,116,152,134.0,4.0,NY
+machine learning engineer,116,152,134.0,3.0,NY
+data scientist,115,153,134.0,3.9,MA
+data scientist,116,152,134.0,3.5,NY
+data scientist,100,170,135.0,3.4,CA
+data scientist,93,177,135.0,4.1,NJ
+data scientist,104,166,135.0,4.0,CA
+data scientist,104,166,135.0,4.0,CA
+data scientist,99,171,135.0,3.5,CA
+machine learning engineer,124,147,135.5,4.5,NJ
+data scientist,104,167,135.5,4.2,CA
+data scientist,92,179,135.5,4.7,CA
+data scientist,92,180,136.0,3.9,VA
+manager,100,172,136.0,3.1,TX
+data engineer,100,172,136.0,3.0,TX
+analyst,100,172,136.0,3.8,TX
+data scientist,100,172,136.0,4.2,TX
+other,100,172,136.0,3.2,TX
+data engineer,100,172,136.0,3.0,TX
+data engineer,99,173,136.0,3.9,AZ
+data engineer,99,173,136.0,3.9,AZ
+data scientist,99,173,136.0,4.2,AZ
+data scientist,99,173,136.0,3.7,MA
+data engineer,99,173,136.0,3.8,AZ
+data engineer,100,172,136.0,3.4,TX
+data engineer,100,172,136.0,3.0,TX
+data scientist,105,167,136.0,4.0,NJ
+data engineer,100,172,136.0,3.0,TX
+data engineer,100,172,136.0,3.6,TX
+data engineer,100,172,136.0,2.5,TX
+data scientist,98,174,136.0,4.6,CA
+other,100,172,136.0,3.6,TX
+data engineer,100,172,136.0,3.9,TX
+data engineer,100,172,136.0,3.9,TX
+data scientist,101,171,136.0,4.8,MA
+data scientist,99,173,136.0,4.2,AZ
+data engineer,100,172,136.0,4.2,TX
+data scientist,100,172,136.0,3.2,TX
+data engineer,100,172,136.0,4.0,TX
+data engineer,100,172,136.0,3.9,TX
+other,100,172,136.0,3.9,TX
+data engineer,100,172,136.0,3.0,TX
+data engineer,100,172,136.0,2.9,TX
+data scientist,100,172,136.0,4.2,TX
+data engineer,100,172,136.0,3.0,TX
+data engineer,100,172,136.0,3.9,TX
+machine learning engineer,99,174,136.5,3.3,IL
+other,99,174,136.5,3.3,IL
+other,99,174,136.5,3.4,IL
+researcher,99,174,136.5,4.2,IL
+data engineer,99,174,136.5,3.7,IL
+data scientist,99,174,136.5,3.4,IL
+other,99,174,136.5,4.0,IL
+data scientist,109,164,136.5,4.1,CA
+analyst,99,174,136.5,5.0,IL
+other,99,174,136.5,3.8,IL
+data engineer,99,174,136.5,4.5,IL
+data engineer,99,174,136.5,4.8,IL
+data scientist,99,174,136.5,3.7,IL
+data engineer,99,174,136.5,4.3,IL
+other,123,150,136.5,3.8,OH
+analyst,99,174,136.5,3.6,IL
+data engineer,99,174,136.5,3.7,IL
+data scientist,132,141,136.5,3.9,CA
+data scientist,99,174,136.5,3.6,IL
+analyst,99,174,136.5,3.8,IL
+data engineer,99,174,136.5,5.0,IL
+data scientist,97,176,136.5,4.2,MA
+data engineer,99,174,136.5,3.8,IL
+analyst,99,174,136.5,3.7,IL
+data scientist,99,174,136.5,3.9,IL
+data engineer,99,174,136.5,3.8,IL
+data scientist,99,174,136.5,3.7,IL
+data scientist,106,168,137.0,4.7,CA
+data scientist,102,172,137.0,4.0,NJ
+data scientist,92,182,137.0,4.3,VA
+data scientist,88,186,137.0,3.8,OH
+data scientist,103,172,137.5,3.8,MA
+data scientist,92,183,137.5,4.1,DC
+data scientist,92,183,137.5,4.1,DC
+data scientist,101,175,138.0,3.8,MA
+data scientist,102,174,138.0,4.5,CA
+data scientist,102,174,138.0,4.1,NJ
+data scientist,104,173,138.5,3.9,FL
+data scientist,98,179,138.5,4.1,VA
+data scientist,98,179,138.5,4.1,VA
+data scientist,96,182,139.0,4.9,CA
+data scientist,104,174,139.0,4.2,MA
+data scientist,99,179,139.0,3.6,NJ
+analyst,92,186,139.0,4.0,CA
+other,95,184,139.5,4.2,NJ
+data scientist,100,179,139.5,3.8,NJ
+other,96,183,139.5,4.7,MD
+data scientist,100,179,139.5,3.8,NJ
+other,110,169,139.5,3.6,CA
+analyst,110,169,139.5,4.0,CA
+data scientist,96,183,139.5,4.1,MD
+other,110,169,139.5,4.1,CA
+other,110,169,139.5,4.1,CA
+other,110,169,139.5,3.1,CA
+director,110,169,139.5,3.1,CA
+other,110,169,139.5,4.1,CA
+data scientist,130,150,140.0,4.7,CA
+data scientist,132,148,140.0,4.2,MA
+other,79,201,140.0,3.4,VA
+data scientist,101,179,140.0,3.8,MI
+data scientist,93,187,140.0,3.4,NJ
+data scientist,104,176,140.0,4.3,CA
+data scientist,102,178,140.0,4.4,CA
+analyst,102,179,140.5,3.9,CA
+data scientist,102,179,140.5,4.5,CA
+data engineer,102,179,140.5,4.1,CA
+data scientist,97,184,140.5,4.2,CA
+data engineer,102,179,140.5,4.2,CA
+data scientist,102,179,140.5,4.1,CA
+data scientist,99,182,140.5,4.1,MA
+analyst,102,179,140.5,3.9,CA
+data scientist,102,179,140.5,4.6,CA
+data engineer,102,179,140.5,3.7,CA
+data engineer,102,179,140.5,3.9,CA
+data engineer,102,179,140.5,3.8,CA
+analyst,102,179,140.5,3.5,CA
+data scientist,102,179,140.5,3.2,CA
+data engineer,102,179,140.5,3.9,CA
+data scientist,97,184,140.5,4.0,NJ
+data scientist,102,179,140.5,3.9,CA
+data scientist,102,179,140.5,3.3,CA
+data scientist,102,179,140.5,4.6,CA
+machine learning engineer,102,179,140.5,4.1,CA
+machine learning engineer,102,179,140.5,4.1,CA
+data engineer,102,179,140.5,4.1,CA
+data scientist,110,172,141.0,4.1,CA
+other,94,188,141.0,4.2,MA
+data scientist,105,177,141.0,3.9,CA
+data scientist,108,174,141.0,4.3,CA
+data scientist,97,186,141.5,3.8,CA
+data scientist,104,180,142.0,3.5,CA
+data scientist,101,184,142.5,3.3,CA
+other,76,209,142.5,4.1,NJ
+data scientist,109,177,143.0,3.7,MA
+other,111,175,143.0,3.6,CA
+data scientist,111,175,143.0,4.4,CA
+other,111,175,143.0,3.6,CA
+other,111,175,143.0,3.4,CA
+machine learning engineer,111,175,143.0,4.7,CA
+data engineer,111,175,143.0,4.1,CA
+machine learning engineer,111,175,143.0,4.5,CA
+data scientist,111,175,143.0,5.0,CA
+data scientist,111,175,143.0,4.3,CA
+data scientist,111,175,143.0,3.8,CA
+data scientist,111,175,143.0,4.6,CA
+data scientist,111,175,143.0,4.8,CA
+other,111,175,143.0,3.5,CA
+data scientist,111,175,143.0,4.0,CA
+data scientist,111,175,143.0,3.8,CA
+data scientist,111,175,143.0,3.4,CA
+machine learning engineer,111,175,143.0,4.2,CA
+data scientist,111,175,143.0,4.5,CA
+data scientist,111,175,143.0,3.6,CA
+data engineer,111,175,143.0,4.1,CA
+data scientist,111,175,143.0,4.9,CA
+data engineer,111,175,143.0,4.5,CA
+data scientist,111,175,143.0,4.1,CA
+data scientist,111,175,143.0,4.1,CA
+data scientist,111,175,143.0,3.5,CA
+data scientist,111,175,143.0,3.8,CA
+other,111,175,143.0,3.9,CA
+data scientist,111,175,143.0,4.1,CA
+manager,111,175,143.0,4.8,CA
+analyst,111,175,143.0,3.5,CA
+machine learning engineer,111,175,143.0,4.4,CA
+analyst,111,175,143.0,3.2,CA
+data scientist,111,175,143.0,3.6,CA
+data scientist,111,175,143.0,3.4,CA
+data engineer,111,175,143.0,3.9,CA
+data scientist,111,175,143.0,4.5,CA
+other,111,175,143.0,3.9,CA
+data scientist,111,175,143.0,3.7,CA
+data engineer,111,175,143.0,3.0,CA
+data engineer,111,175,143.0,4.1,CA
+data scientist,111,175,143.0,4.8,CA
+data scientist,111,175,143.0,3.7,CA
+data scientist,111,175,143.0,4.2,CA
+other,111,175,143.0,4.0,CA
+data scientist,111,175,143.0,4.7,CA
+data scientist,111,175,143.0,4.5,CA
+other,111,175,143.0,3.4,CA
+machine learning engineer,111,175,143.0,4.1,CA
+machine learning engineer,111,175,143.0,3.8,CA
+director,111,175,143.0,3.6,CA
+data scientist,111,175,143.0,4.8,CA
+data scientist,104,182,143.0,4.5,CA
+data scientist,96,190,143.0,4.0,DC
+analyst,111,175,143.0,4.2,CA
+data scientist,111,175,143.0,3.5,CA
+data scientist,102,185,143.5,3.9,MA
+data scientist,131,157,144.0,4.2,CA
+other,113,175,144.0,4.4,CA
+director,101,187,144.0,4.1,NJ
+other,100,189,144.5,4.0,NJ
+machine learning engineer,112,178,145.0,5.0,TX
+data scientist,112,178,145.0,3.6,TX
+data scientist,112,178,145.0,4.1,TX
+data scientist,112,178,145.0,3.1,TX
+other,112,178,145.0,3.6,TX
+analyst,112,178,145.0,3.3,TX
+analyst,112,178,145.0,4.1,TX
+machine learning engineer,112,178,145.0,4.1,TX
+analyst,112,178,145.0,4.1,TX
+machine learning engineer,112,178,145.0,3.9,TX
+data engineer,112,178,145.0,3.5,TX
+data scientist,112,178,145.0,4.3,TX
+data scientist,112,178,145.0,4.1,TX
+data scientist,98,192,145.0,3.9,FL
+data scientist,112,178,145.0,3.8,TX
+analyst,112,178,145.0,4.6,TX
+data scientist,112,178,145.0,4.1,TX
+data engineer,112,178,145.0,4.2,TX
+analyst,112,178,145.0,3.1,TX
+data scientist,112,178,145.0,3.9,TX
+researcher,112,178,145.0,3.9,TX
+analyst,112,178,145.0,4.4,TX
+analyst,112,178,145.0,4.0,TX
+machine learning engineer,112,178,145.0,2.6,TX
+analyst,112,178,145.0,2.8,TX
+data scientist,112,178,145.0,3.8,TX
+data scientist,112,178,145.0,3.8,TX
+data scientist,112,178,145.0,3.7,TX
+data scientist,111,180,145.5,4.1,VA
+data scientist,107,184,145.5,4.3,CA
+data scientist,134,157,145.5,4.1,NJ
+data scientist,99,192,145.5,3.4,NJ
+data scientist,111,181,146.0,3.4,NY
+data scientist,111,181,146.0,4.5,NY
+analyst,111,181,146.0,3.4,NJ
+data scientist,111,181,146.0,3.4,NY
+data scientist,111,181,146.0,2.9,NY
+researcher,111,181,146.0,4.4,NY
+other,111,181,146.0,5.0,NY
+researcher,111,181,146.0,4.8,NY
+data scientist,111,181,146.0,5.0,NY
+data scientist,111,181,146.0,3.3,NY
+data scientist,111,181,146.0,3.9,NY
+data scientist,111,181,146.0,4.4,NY
+data scientist,111,181,146.0,4.3,NY
+data scientist,111,181,146.0,3.9,NY
+data scientist,111,181,146.0,4.1,NY
+data scientist,111,181,146.0,4.4,NY
+data scientist,111,181,146.0,3.0,NY
+data scientist,111,181,146.0,3.6,NY
+data scientist,111,181,146.0,3.8,NY
+data scientist,111,181,146.0,3.3,NY
+data scientist,111,181,146.0,3.6,NY
+data scientist,111,181,146.0,3.9,NY
+data scientist,111,181,146.0,4.4,NY
+data engineer,111,181,146.0,3.4,NY
+data scientist,111,181,146.0,4.0,NY
+researcher,111,181,146.0,4.1,NY
+data scientist,111,181,146.0,3.3,NY
+data scientist,111,181,146.0,3.5,NY
+data scientist,103,189,146.0,4.3,VA
+data scientist,103,189,146.0,4.3,DC
+data scientist,106,186,146.0,3.8,CA
+data scientist,104,188,146.0,3.5,CA
+data scientist,113,180,146.5,3.6,CA
+analyst,113,180,146.5,3.9,CA
+machine learning engineer,113,180,146.5,3.6,CA
+other,113,180,146.5,4.2,CA
+data scientist,113,180,146.5,3.3,CA
+data scientist,113,180,146.5,3.7,CA
+other,113,180,146.5,3.6,CA
+data scientist,113,180,146.5,4.5,CA
+analyst,113,180,146.5,2.1,CA
+other,113,180,146.5,3.5,CA
+data scientist,113,180,146.5,4.1,CA
+analyst,113,180,146.5,5.0,CA
+data scientist,113,180,146.5,4.1,CA
+analyst,113,180,146.5,3.9,CA
+data engineer,113,180,146.5,4.5,CA
+analyst,113,180,146.5,3.6,CA
+data scientist,113,180,146.5,3.1,CA
+analyst,113,180,146.5,5.0,CA
+data scientist,113,180,146.5,3.0,CA
+data scientist,113,180,146.5,3.5,CA
+data scientist,113,180,146.5,3.7,CA
+data scientist,113,180,146.5,3.2,CA
+data scientist,113,180,146.5,2.4,CA
+data scientist,113,180,146.5,3.9,CA
+data scientist,113,180,146.5,4.2,CA
+data engineer,113,180,146.5,4.7,CA
+analyst,113,180,146.5,3.7,CA
+analyst,113,180,146.5,4.0,CA
+data scientist,113,180,146.5,4.0,CA
+data scientist,113,180,146.5,2.8,CA
+data scientist,113,180,146.5,3.7,CA
+data scientist,113,180,146.5,3.3,CA
+analyst,113,180,146.5,3.1,CA
+data scientist,113,180,146.5,2.5,CA
+data scientist,113,180,146.5,3.3,CA
+data scientist,113,180,146.5,3.9,CA
+data scientist,113,180,146.5,3.9,CA
+data scientist,113,180,146.5,3.8,CA
+other,113,180,146.5,3.9,CA
+machine learning engineer,113,180,146.5,4.0,CA
+data scientist,123,170,146.5,4.1,CA
+analyst,113,180,146.5,3.9,CA
+analyst,113,180,146.5,3.8,CA
+analyst,113,180,146.5,4.8,CA
+analyst,113,180,146.5,4.3,CA
+other,105,188,146.5,4.3,NJ
+data scientist,113,180,146.5,3.6,CA
+analyst,113,180,146.5,4.5,CA
+data scientist,113,180,146.5,3.9,CA
+director,103,192,147.5,4.1,NJ
+data scientist,111,185,148.0,4.2,CA
+other,113,184,148.5,3.9,CA
+analyst,113,184,148.5,4.7,CA
+analyst,113,184,148.5,3.2,CA
+data engineer,113,184,148.5,3.4,CA
+data scientist,113,184,148.5,3.3,CA
+data scientist,116,181,148.5,4.1,TX
+data scientist,116,181,148.5,3.7,TX
+analyst,116,181,148.5,5.0,TX
+data engineer,116,181,148.5,3.9,TX
+data scientist,116,181,148.5,3.7,TX
+other,113,184,148.5,3.7,CA
+data engineer,116,181,148.5,4.5,TX
+data scientist,116,181,148.5,3.6,TX
+data scientist,116,181,148.5,3.1,TX
+data engineer,113,184,148.5,3.7,CA
+other,113,184,148.5,3.9,CA
+analyst,113,184,148.5,4.5,CA
+other,113,184,148.5,2.8,CA
+other,113,184,148.5,3.8,CA
+other,113,184,148.5,4.6,CA
+other,113,184,148.5,3.2,CA
+analyst,113,184,148.5,3.5,CA
+data scientist,113,184,148.5,3.2,CA
+data scientist,116,181,148.5,3.9,TX
+machine learning engineer,113,184,148.5,3.7,CA
+manager,113,184,148.5,3.8,CA
+analyst,113,184,148.5,4.1,CA
+other,113,184,148.5,3.1,CA
+data scientist,113,184,148.5,3.6,CA
+analyst,113,184,148.5,2.8,CA
+data engineer,113,184,148.5,3.9,CA
+data scientist,116,181,148.5,4.4,TX
+data scientist,116,181,148.5,4.5,TX
+analyst,116,181,148.5,3.9,TX
+data scientist,116,181,148.5,3.3,TX
+data scientist,116,181,148.5,4.2,TX
+data scientist,116,181,148.5,3.6,TX
+data scientist,116,181,148.5,4.1,TX
+data scientist,116,181,148.5,3.7,TX
+data scientist,116,181,148.5,3.5,TX
+data engineer,116,181,148.5,4.5,TX
+other,116,181,148.5,4.3,TX
+data scientist,116,181,148.5,4.5,TX
+analyst,116,181,148.5,2.8,TX
+analyst,116,181,148.5,3.7,TX
+data scientist,116,181,148.5,3.6,TX
+data scientist,102,195,148.5,4.2,CA
+data scientist,116,181,148.5,4.1,TX
+data scientist,116,181,148.5,4.1,TX
+data scientist,116,181,148.5,3.9,TX
+data scientist,112,186,149.0,4.4,CA
+analyst,114,185,149.5,3.8,TX
+data scientist,114,185,149.5,3.9,TX
+data scientist,114,185,149.5,3.9,TX
+data scientist,136,164,150.0,4.4,CA
+manager,136,164,150.0,3.5,CA
+manager,136,164,150.0,3.6,CA
+data engineer,136,164,150.0,2.9,CA
+analyst,136,164,150.0,5.0,CA
+analyst,136,164,150.0,4.2,CA
+manager,136,164,150.0,2.4,CA
+analyst,136,164,150.0,4.6,CA
+analyst,136,164,150.0,3.6,CA
+analyst,136,164,150.0,4.3,CA
+data engineer,136,164,150.0,3.3,CA
+other,136,164,150.0,3.9,CA
+data engineer,136,164,150.0,2.1,CA
+other,136,164,150.0,2.7,CA
+data engineer,136,164,150.0,4.7,CA
+machine learning engineer,136,164,150.0,3.7,CA
+machine learning engineer,136,164,150.0,4.4,CA
+other,136,164,150.0,3.9,CA
+other,111,190,150.5,3.8,NJ
+data scientist,109,193,151.0,4.3,MA
+data scientist,145,159,152.0,3.3,CA
+data scientist,133,171,152.0,4.1,NY
+data scientist,133,171,152.0,3.1,NY
+analyst,133,171,152.0,4.0,NY
+researcher,133,171,152.0,5.0,NY
+data scientist,133,171,152.0,2.6,NJ
+data scientist,133,171,152.0,3.6,NJ
+data scientist,120,184,152.0,4.3,CA
+data scientist,133,171,152.0,4.4,NY
+data scientist,133,171,152.0,3.3,NY
+machine learning engineer,102,203,152.5,4.2,CA
+data scientist,111,194,152.5,3.5,CA
+data scientist,111,194,152.5,3.5,CA
+data scientist,111,194,152.5,4.1,MA
+data scientist,99,206,152.5,4.6,CA
+data scientist,128,178,153.0,4.3,MA
+machine learning engineer,105,201,153.0,4.0,CA
+other,111,196,153.5,4.1,NJ
+analyst,119,188,153.5,3.8,CA
+analyst,119,188,153.5,4.0,CA
+data scientist,119,188,153.5,3.8,CA
+data scientist,119,188,153.5,4.4,CA
+data engineer,119,188,153.5,4.7,CA
+data scientist,119,188,153.5,4.4,CA
+data engineer,119,188,153.5,4.1,CA
+other,119,188,153.5,4.0,CA
+data engineer,119,188,153.5,4.4,CA
+machine learning engineer,119,188,153.5,4.1,CA
+machine learning engineer,119,188,153.5,3.1,CA
+data engineer,119,188,153.5,4.1,CA
+data scientist,119,188,153.5,3.8,CA
+data scientist,119,188,153.5,4.1,CA
+data scientist,119,188,153.5,4.1,CA
+other,119,188,153.5,4.3,CA
+data scientist,119,188,153.5,3.3,CA
+analyst,119,188,153.5,4.1,CA
+data scientist,119,188,153.5,4.1,CA
+data scientist,119,188,153.5,4.1,CA
+data scientist,119,188,153.5,3.9,CA
+data scientist,119,188,153.5,4.1,CA
+machine learning engineer,119,188,153.5,3.5,CA
+data scientist,119,188,153.5,4.1,CA
+analyst,119,188,153.5,4.1,CA
+machine learning engineer,106,202,154.0,4.1,NJ
+other,110,198,154.0,4.2,CA
+data scientist,116,192,154.0,4.3,CA
+analyst,105,204,154.5,3.6,NJ
+data scientist,135,174,154.5,3.6,CA
+data scientist,107,202,154.5,4.1,FL
+data scientist,119,190,154.5,4.2,MA
+data scientist,110,200,155.0,3.5,MA
+data scientist,142,168,155.0,4.0,CA
+data scientist,118,193,155.5,4.0,CA
+data scientist,118,193,155.5,4.0,CA
+other,86,226,156.0,4.2,CA
+data scientist,151,161,156.0,3.7,CA
+data scientist,121,192,156.5,4.1,CA
+data scientist,147,166,156.5,4.3,NJ
+data scientist,121,192,156.5,4.5,CA
+other,121,192,156.5,3.2,CA
+other,121,192,156.5,3.7,CA
+other,121,192,156.5,3.5,CA
+other,121,192,156.5,3.4,CA
+other,121,192,156.5,3.9,CA
+other,121,192,156.5,5.0,CA
+machine learning engineer,121,192,156.5,2.9,CA
+machine learning engineer,121,192,156.5,4.2,CA
+data scientist,121,192,156.5,4.1,CA
+analyst,121,192,156.5,3.7,CA
+other,121,192,156.5,3.0,CA
+data scientist,121,192,156.5,3.5,CA
+machine learning engineer,121,192,156.5,4.1,CA
+data scientist,121,192,156.5,4.5,CA
+data engineer,121,192,156.5,3.3,CA
+data scientist,121,192,156.5,4.5,CA
+machine learning engineer,121,192,156.5,4.1,CA
+data scientist,116,199,157.5,3.8,MA
+data scientist,116,199,157.5,3.8,MA
+data scientist,121,195,158.0,4.4,CA
+data scientist,118,199,158.5,4.2,NJ
+data scientist,123,195,159.0,4.4,MA
+data engineer,150,169,159.5,4.6,CA
+data scientist,150,169,159.5,4.6,CA
+data scientist,150,169,159.5,2.7,CA
+data scientist,150,169,159.5,4.5,CA
+analyst,150,169,159.5,4.0,CA
+other,150,169,159.5,3.5,CA
+analyst,150,169,159.5,4.0,CA
+data scientist,150,169,159.5,3.9,CA
+data scientist,150,169,159.5,4.4,CA
+researcher,150,169,159.5,4.5,CA
+data scientist,150,169,159.5,3.7,CA
+data scientist,150,169,159.5,4.5,CA
+data scientist,150,169,159.5,4.1,CA
+analyst,150,169,159.5,4.4,CA
+analyst,150,169,159.5,3.6,CA
+analyst,150,169,159.5,3.8,CA
+data scientist,150,169,159.5,4.5,CA
+machine learning engineer,150,169,159.5,4.1,CA
+data engineer,150,169,159.5,3.8,CA
+data engineer,150,169,159.5,4.0,CA
+analyst,150,169,159.5,5.0,CA
+analyst,150,169,159.5,4.2,CA
+analyst,150,169,159.5,3.9,CA
+data scientist,110,210,160.0,3.7,MI
+data scientist,145,176,160.5,3.5,CA
+analyst,146,175,160.5,2.9,NY
+data scientist,146,175,160.5,4.0,NY
+data scientist,145,176,160.5,4.1,CA
+data scientist,145,176,160.5,4.5,CA
+data scientist,145,176,160.5,3.9,CA
+data scientist,145,176,160.5,4.0,CA
+other,145,176,160.5,3.5,CA
+data scientist,145,176,160.5,4.5,CA
+analyst,145,176,160.5,3.9,CA
+data scientist,145,176,160.5,3.9,CA
+machine learning engineer,145,176,160.5,5.0,CA
+data scientist,145,176,160.5,3.7,CA
+data engineer,145,176,160.5,3.5,CA
+machine learning engineer,145,176,160.5,4.3,CA
+data scientist,145,176,160.5,3.5,CA
+data scientist,145,176,160.5,4.1,CA
+other,145,176,160.5,3.7,CA
+analyst,145,176,160.5,4.5,CA
+analyst,145,176,160.5,4.5,CA
+other,145,176,160.5,4.8,CA
+analyst,145,176,160.5,4.4,CA
+data scientist,152,169,160.5,4.2,CA
+data scientist,145,176,160.5,3.4,CA
+data scientist,145,176,160.5,3.2,CA
+other,145,176,160.5,3.9,CA
+other,145,176,160.5,2.3,CA
+data scientist,145,176,160.5,2.7,CA
+data scientist,112,209,160.5,4.2,NJ
+data scientist,148,174,161.0,4.7,CA
+data scientist,148,174,161.0,3.8,CA
+data scientist,125,197,161.0,4.1,IL
+data scientist,148,174,161.0,3.4,CA
+data scientist,148,174,161.0,4.8,CA
+machine learning engineer,148,174,161.0,4.3,CA
+data scientist,148,174,161.0,4.5,CA
+analyst,148,174,161.0,3.1,CA
+data scientist,148,174,161.0,4.7,CA
+data scientist,148,174,161.0,2.6,CA
+data scientist,148,174,161.0,3.8,CA
+data scientist,148,174,161.0,4.0,CA
+data scientist,148,174,161.0,2.3,CA
+machine learning engineer,148,174,161.0,4.1,CA
+data scientist,148,174,161.0,4.6,CA
+data scientist,148,174,161.0,4.3,CA
+data scientist,148,174,161.0,4.1,CA
+data scientist,148,174,161.0,4.1,CA
+data scientist,148,174,161.0,3.1,CA
+data scientist,148,174,161.0,3.5,CA
+data scientist,148,174,161.0,4.8,CA
+data engineer,148,174,161.0,4.1,CA
+other,112,211,161.5,4.3,CA
+other,112,211,161.5,3.4,CA
+other,112,211,161.5,3.7,CA
+analyst,112,211,161.5,3.5,CA
+other,112,211,161.5,4.1,CA
+other,112,211,161.5,4.1,CA
+other,112,211,161.5,3.7,CA
+other,112,211,161.5,3.7,CA
+other,112,211,161.5,4.3,CA
+other,112,211,161.5,3.2,CA
+other,112,211,161.5,4.1,CA
+other,112,211,161.5,4.1,CA
+other,112,211,161.5,3.8,CA
+other,112,211,161.5,3.0,CA
+other,112,211,161.5,4.1,CA
+other,112,211,161.5,4.1,CA
+data scientist,112,211,161.5,2.9,CA
+data scientist,118,206,162.0,4.5,CA
+other,114,211,162.5,4.3,CA
+other,114,211,162.5,4.1,CA
+manager,114,211,162.5,3.4,CA
+other,114,211,162.5,4.0,CA
+other,114,211,162.5,3.3,CA
+other,114,211,162.5,3.8,CA
+other,114,211,162.5,5.0,CA
+analyst,111,214,162.5,4.1,NJ
+other,114,211,162.5,3.7,CA
+other,114,211,162.5,2.9,CA
+data engineer,114,212,163.0,3.5,CA
+data scientist,122,205,163.5,3.8,NJ
+data scientist,127,202,164.5,4.2,CA
+data scientist,124,208,166.0,3.9,NJ
+data scientist,129,204,166.5,3.8,CA
+data scientist,129,205,167.0,4.4,MA
+data scientist,128,207,167.5,4.6,FL
+data scientist,129,208,168.5,3.9,FL
+data scientist,129,210,169.5,3.9,NY
+data scientist,129,210,169.5,2.8,NY
+data scientist,129,210,169.5,3.8,NY
+data scientist,129,210,169.5,3.7,NY
+data scientist,129,210,169.5,3.9,NY
+data scientist,129,210,169.5,5.0,NY
+data scientist,129,210,169.5,4.8,NJ
+other,129,210,169.5,3.9,NY
+data scientist,129,210,169.5,4.4,NY
+data scientist,129,210,169.5,3.9,NY
+data scientist,129,210,169.5,4.2,NY
+data scientist,129,210,169.5,3.4,NJ
+data scientist,129,210,169.5,4.2,NY
+data scientist,129,210,169.5,4.9,NY
+data scientist,129,210,169.5,3.8,NY
+data engineer,129,210,169.5,4.7,NY
+data scientist,129,210,169.5,3.5,NY
+data scientist,122,217,169.5,3.8,NJ
+data scientist,129,210,169.5,4.0,NY
+data scientist,129,210,169.5,3.6,NY
+analyst,132,208,170.0,3.1,CA
+analyst,132,208,170.0,5.0,CA
+data scientist,132,208,170.0,3.9,CA
+other,132,208,170.0,3.3,CA
+data engineer,132,208,170.0,3.7,CA
+other,132,208,170.0,3.8,CA
+analyst,132,208,170.0,3.9,CA
+analyst,132,208,170.0,3.7,CA
+other,132,208,170.0,3.4,CA
+data scientist,129,211,170.0,4.0,NJ
+data scientist,132,208,170.0,3.6,CA
+data engineer,132,208,170.0,3.6,CA
+data engineer,132,208,170.0,4.4,CA
+other,132,208,170.0,4.4,CA
+data scientist,132,208,170.0,3.7,CA
+analyst,132,208,170.0,3.4,CA
+analyst,132,208,170.0,3.5,CA
+other,132,208,170.0,4.0,CA
+data scientist,132,208,170.0,3.7,CA
+data scientist,132,208,170.0,4.9,CA
+analyst,132,208,170.0,4.0,CA
+data scientist,132,208,170.0,3.7,CA
+data scientist,132,208,170.0,3.7,CA
+analyst,134,210,172.0,3.8,TX
+analyst,134,210,172.0,4.6,TX
+data engineer,134,210,172.0,4.1,TX
+data engineer,134,210,172.0,5.0,TX
+analyst,134,210,172.0,3.8,TX
+data scientist,134,210,172.0,3.6,TX
+data scientist,134,210,172.0,3.3,TX
+analyst,134,210,172.0,4.1,TX
+data scientist,134,210,172.0,3.3,TX
+machine learning engineer,134,210,172.0,4.6,TX
+data scientist,134,210,172.0,3.9,TX
+analyst,134,210,172.0,4.1,TX
+other,134,210,172.0,4.1,TX
+other,134,210,172.0,3.6,TX
+analyst,134,210,172.0,2.8,TX
+analyst,134,210,172.0,3.0,TX
+data scientist,134,210,172.0,3.6,TX
+data scientist,134,210,172.0,3.1,TX
+data scientist,134,210,172.0,3.5,TX
+data scientist,134,212,173.0,4.0,NJ
+data engineer,135,214,174.5,3.8,CA
+machine learning engineer,135,214,174.5,4.1,CA
+data scientist,135,214,174.5,4.5,CA
+analyst,135,214,174.5,3.4,CA
+data engineer,135,214,174.5,3.5,CA
+machine learning engineer,141,208,174.5,4.3,OH
+data scientist,135,214,174.5,4.1,CA
+data scientist,135,214,174.5,4.5,CA
+data engineer,135,214,174.5,4.8,CA
+data scientist,135,214,174.5,4.3,CA
+data scientist,135,214,174.5,3.9,CA
+data engineer,135,214,174.5,4.7,CA
+data scientist,135,214,174.5,3.1,CA
+data scientist,135,214,174.5,4.6,CA
+data engineer,135,214,174.5,4.1,CA
+data engineer,135,214,174.5,3.3,CA
+data engineer,135,214,174.5,4.2,CA
+data engineer,135,214,174.5,3.5,CA
+data scientist,135,214,174.5,4.1,CA
+analyst,135,214,174.5,3.7,CA
+data scientist,135,214,174.5,4.1,CA
+machine learning engineer,135,214,174.5,4.1,CA
+other,135,214,174.5,3.4,CA
+machine learning engineer,135,214,174.5,3.8,CA
+machine learning engineer,135,214,174.5,3.8,CA
+other,135,214,174.5,3.8,CA
+data scientist,135,214,174.5,4.1,CA
+data scientist,135,214,174.5,4.5,CA
+machine learning engineer,135,214,174.5,4.6,CA
+data scientist,135,214,174.5,3.9,CA
+other,134,218,176.0,3.6,CA
+data engineer,134,218,176.0,3.8,CA
+data engineer,134,218,176.0,5.0,CA
+data scientist,134,218,176.0,4.0,CA
+analyst,134,218,176.0,3.4,CA
+other,134,218,176.0,4.0,CA
+manager,134,218,176.0,4.5,CA
+manager,134,218,176.0,4.5,CA
+other,134,218,176.0,3.9,CA
+analyst,134,218,176.0,5.0,CA
+data scientist,134,218,176.0,3.6,CA
+data scientist,134,218,176.0,3.7,CA
+analyst,134,218,176.0,3.8,CA
+other,134,218,176.0,3.5,CA
+analyst,134,218,176.0,3.8,CA
+manager,134,218,176.0,3.1,CA
+data scientist,134,218,176.0,3.2,CA
+data scientist,134,218,176.0,3.6,CA
+data engineer,134,218,176.0,4.0,CA
+other,134,218,176.0,4.2,CA
+data scientist,134,218,176.0,3.7,CA
+data engineer,134,218,176.0,3.6,CA
+analyst,134,218,176.0,3.5,CA
+other,134,218,176.0,3.3,CA
+other,138,217,177.5,3.3,TX
+data engineer,138,217,177.5,4.0,TX
+data engineer,138,217,177.5,3.9,TX
+data engineer,138,217,177.5,3.8,TX
+data scientist,138,217,177.5,3.9,TX
+other,138,217,177.5,3.3,TX
+data engineer,138,217,177.5,3.7,TX
+data engineer,138,217,177.5,3.1,TX
+manager,138,217,177.5,2.0,TX
+analyst,138,217,177.5,3.6,TX
+data engineer,138,217,177.5,4.1,TX
+other,138,217,177.5,2.7,TX
+other,138,217,177.5,3.7,TX
+other,138,217,177.5,4.1,TX
+other,138,217,177.5,4.1,TX
+data engineer,138,217,177.5,3.2,TX
+manager,138,217,177.5,3.2,TX
+data scientist,134,221,177.5,4.2,MA
+data engineer,138,217,177.5,3.3,TX
+data scientist,138,217,177.5,3.7,TX
+analyst,138,217,177.5,4.5,TX
+data scientist,134,222,178.0,4.1,MA
+analyst,123,237,180.0,4.2,MA
+analyst,141,225,183.0,3.8,CA
+analyst,141,225,183.0,2.4,CA
+analyst,141,225,183.0,3.6,CA
+data scientist,141,225,183.0,4.0,CA
+data engineer,141,225,183.0,4.2,CA
+data engineer,141,225,183.0,3.9,CA
+data scientist,141,225,183.0,4.1,CA
+data scientist,141,225,183.0,5.0,CA
+researcher,141,225,183.0,3.8,CA
+data scientist,141,225,183.0,4.1,CA
+analyst,141,225,183.0,3.8,CA
+data engineer,141,225,183.0,4.2,CA
+machine learning engineer,141,225,183.0,4.1,CA
+analyst,141,225,183.0,5.0,CA
+other,141,225,183.0,4.8,CA
+other,141,225,183.0,4.5,CA
+data scientist,141,225,183.0,3.7,CA
+data scientist,141,225,183.0,3.3,CA
+data engineer,141,225,183.0,4.8,CA
+data engineer,141,225,183.0,3.9,CA
+other,141,225,183.0,3.7,CA
+data engineer,141,225,183.0,4.1,CA
+data scientist,142,225,183.5,3.8,MA
+data engineer,178,200,189.0,4.1,CA
+data scientist,143,237,190.0,3.7,DE
+other,143,237,190.0,3.9,PA
+data engineer,143,237,190.0,5.0,PA
+manager,143,237,190.0,3.6,PA
+data scientist,143,237,190.0,3.9,DE
+other,143,237,190.0,3.6,DE
+other,143,237,190.0,3.8,NJ
+other,143,237,190.0,3.7,PA
+other,143,237,190.0,4.0,PA
+data engineer,143,237,190.0,3.9,PA
+data scientist,143,237,190.0,3.5,PA
+other,143,237,190.0,4.0,PA
+other,143,237,190.0,4.0,PA
+other,143,237,190.0,3.9,PA
+other,143,237,190.0,4.0,PA
+other,143,237,190.0,3.9,DE
+other,143,237,190.0,4.1,PA
+analyst,143,237,190.0,3.9,PA
+analyst,143,237,190.0,3.4,PA
+other,143,237,190.0,3.9,PA
+analyst,143,237,190.0,3.6,PA
+data scientist,150,237,193.5,4.2,CA
+data engineer,150,237,193.5,4.1,CA
+analyst,150,237,193.5,3.8,CA
+data scientist,150,237,193.5,4.8,CA
+data scientist,150,237,193.5,3.7,CA
+data scientist,150,237,193.5,3.5,CA
+data scientist,150,237,193.5,3.3,CA
+data scientist,150,237,193.5,4.1,CA
+data engineer,150,237,193.5,3.9,CA
+data scientist,150,237,193.5,4.5,CA
+data scientist,150,237,193.5,4.3,CA
+analyst,150,237,193.5,4.0,CA
+machine learning engineer,150,237,193.5,4.7,CA
+machine learning engineer,150,237,193.5,3.7,CA
+data scientist,150,237,193.5,3.4,CA
+data scientist,150,237,193.5,3.7,CA
+data scientist,150,237,193.5,3.2,CA
+data scientist,150,237,193.5,4.4,CA
+machine learning engineer,150,237,193.5,4.1,CA
+machine learning engineer,150,237,193.5,3.5,CA
+other,150,237,193.5,2.3,CA
+other,150,237,193.5,3.4,CA
+analyst,150,237,193.5,3.9,CA
+data engineer,150,237,193.5,4.3,CA
+data engineer,156,254,205.0,4.2,NY
+data scientist,156,254,205.0,3.8,NY
+data scientist,156,254,205.0,5.0,NY
+data scientist,156,254,205.0,3.6,NY
+machine learning engineer,156,254,205.0,3.0,NY
+analyst,156,254,205.0,3.1,NY
+data scientist,156,254,205.0,4.1,NY
+data scientist,156,254,205.0,4.5,NY
+data scientist,156,254,205.0,4.0,NY
+data scientist,156,254,205.0,3.4,NY
+data scientist,156,254,205.0,3.1,NY
+analyst,156,254,205.0,3.4,NY
+analyst,156,254,205.0,4.4,NY
+analyst,156,254,205.0,3.8,NY
+data scientist,156,254,205.0,4.1,NY
+data scientist,156,254,205.0,3.4,NY
+data scientist,200,250,225.0,4.4,CA
+data scientist,200,250,225.0,4.0,CA
+other,200,250,225.0,4.3,CA
+data scientist,200,250,225.0,4.1,CA
+data scientist,200,250,225.0,3.9,CA
+analyst,200,250,225.0,5.0,CA
+data scientist,200,250,225.0,3.7,CA
+machine learning engineer,200,250,225.0,3.8,CA
+analyst,200,250,225.0,4.6,CA
+data scientist,200,250,225.0,4.5,CA
+other,200,250,225.0,3.9,CA
+data engineer,200,250,225.0,3.4,CA
+data scientist,200,250,225.0,3.6,CA
+data scientist,200,250,225.0,4.5,CA
+data scientist,200,250,225.0,4.5,CA
+analyst,200,250,225.0,3.1,CA
+data scientist,200,250,225.0,4.4,CA
+data scientist,200,250,225.0,4.4,CA
+analyst,200,250,225.0,3.9,CA
+data scientist,200,250,225.0,4.1,CA
+data scientist,200,250,225.0,4.4,CA
+data scientist,200,250,225.0,4.2,CA
+other,200,250,225.0,3.1,CA
+data scientist,200,250,225.0,3.6,CA
+manager,200,250,225.0,3.4,CA
+data scientist,168,282,225.0,3.8,NJ
+data scientist,200,250,225.0,3.9,CA
+other,200,250,225.0,4.5,CA
+machine learning engineer,200,250,225.0,4.1,CA
+data scientist,170,286,228.0,3.8,NJ
+other,150,386,268.0,3.7,MI
