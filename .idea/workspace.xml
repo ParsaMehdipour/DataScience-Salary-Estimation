@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0d84e18-2fd9-4fbb-aa4e-7ab19e77d62d" name="Changes" comment="feat : add scatter plots">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preprocessed_df.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataCleaning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataCleaning.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plots.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plots.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +68,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mehdi/AppData/Local/Programs/Python/Python312/Scripts&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Data science&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
@@ -110,7 +111,9 @@
     <MESSAGE value="feat : add Plots" />
     <MESSAGE value="feat : refactor Plots" />
     <MESSAGE value="feat : refactor DataCleaning and Plots" />
+    <MESSAGE value="refactor : add workspace.xml to .gitignore" />
     <MESSAGE value="feat : add scatter plots" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : add scatter plots" />
+    <MESSAGE value="refactor : workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor : workspace.xml" />
   </component>
 </project>
